@@ -132,23 +132,53 @@ def shopify_list(store, cfg, log):
     return items
 
 
+def dell_list(log):
+    d = get("https://www.dell.com/en-us/shop/deals").replace("\\u0022", '"').replace("\\u0026", "&").replace("\\/", "/")
+    out, seen = [], set()
+    for m in re.finditer(r'"title":"([^"]{6,160})"(.{0,3000}?)"marketPrice":(null|"[^"]*").{0,40}"dellPrice":"([^"]*)".{0,200}?"pdUrl":"([^"]+)"', d, re.S):
+        title, mid, mp, dp, url = m.groups()
+        if mp == "null" or url in seen:
+            continue
+        seen.add(url)
+        imgs = re.findall(r'"image":"(https://i\.dell\.com/[^"]+)"', mid)
+        img = re.match(r"x", "") if not imgs else type("M", (), {"group": lambda self, i: imgs[-1]})()
+        p, w = float(dp.replace("$", "").replace(",", "")), float(mp.strip('"').replace("$", "").replace(",", ""))
+        out.append({"pid": "dell-" + url.rsplit("/", 1)[-1][:40], "brand": "Dell", "name": title.replace("New ", "").strip(),
+                    "price": p, "was": w, "url": url, "img": img.group(1) if img else "", "store": "Dell", "returns": "30 days"})
+    log(f"dell: {len(out)} discounted computers read")
+    return out
+
+
+def samsung_list(page):
+    h = get(page).replace('\\"', '"')
+    out = []
+    for m in re.finditer(r'"offers":\{"priceCurrency":"USD","@type":"Offer","price":"([\d.]+)","availability":"([^"]+)"\},"image":"([^"]+)","@type":"Product","name":"([^"]+)".{0,400}?"url":"([^"]+)"', h, re.S):
+        price, avail, img, name, url = m.groups()
+        if "InStock" not in avail:
+            continue
+        name = re.sub(r"\s*\([^)]*$", "", name).replace("\\u0022", "").strip()
+        out.append({"pid": "sam-" + url.rsplit("sku-", 1)[-1][:30], "brand": "Samsung", "name": name, "price": float(price), "was": None,
+                    "url": url, "img": img.split("?")[0] + "?$650_519_PNG$", "store": "Samsung", "returns": "15 days"})
+    return out
+
+
 def run(cfg, state, log):
     """Returns the current list of verified catalog deals. state is a dict persisted between runs."""
     cache = state.setdefault("ssense", {})
     out = []
 
-    def keep(it, sizes):
+    def keep(it, sizes, cat=None, min_pct=None):
         if not it["was"] or it["was"] <= it["price"]:
             return
         pct = round((1 - it["price"] / it["was"]) * 100)
-        if pct < cfg["min_pct"]:
+        if pct < (min_pct if min_pct is not None else cfg["min_pct"]):
             return
         name = it["name"]
         title = name if name.lower().startswith((it["brand"] or "").lower()) else f'{it["brand"]} {name}'
         out.append({"id": it["pid"], "title": title.strip()[:160], "brand": it["brand"],
                     "store": it["store"], "url": it["url"], "post": it["url"], "img": it["img"],
                     "price": it["price"], "was": it["was"], "pct": pct, "tier": "fire" if pct >= 60 else "good",
-                    "cat": kind(it["name"]), "priority": True, "source": it["store"],
+                    "cat": cat or kind(it["name"]), "priority": True, "source": it["store"],
                     "sizes": sizes[:6], "returns": it["returns"], "verified": NOW.isoformat()})
 
     def basic(it):
@@ -188,10 +218,37 @@ def run(cfg, state, log):
 
     for store in cfg["shopify_stores"]:
         for it in shopify_list(store, cfg, log):
-            if basic(it):
+            if store.get("cat"):  # tech / home / everyday store: no clothing size or price-cap rules
+                if it["was"] and it["was"] > it["price"]:
+                    keep(it, [], store["cat"])
+            elif basic(it):
                 hits = size_ok(it["sizes"], it["name"], cfg)
                 if hits:
                     keep(it, hits)
+
+    # Dell deals page (laptops and desktops)
+    try:
+        for it in dell_list(log):
+            keep(it, [], "tech", cfg.get("min_pct_tech", 15))
+    except Exception as e:
+        log(f"dell failed: {e}")
+
+    # Samsung tablets / watches / laptops: track every price, list real drops vs. our own history
+    hist = state.setdefault("hist", {})
+    for page in cfg.get("samsung_pages", []):
+        try:
+            for it in samsung_list(page):
+                h = hist.setdefault(it["url"], [])
+                if not h or (NOW - datetime.fromisoformat(h[-1][0])).total_seconds() > 3 * 3600 or h[-1][1] != it["price"]:
+                    h.append([NOW.isoformat(), it["price"]])
+                hist[it["url"]] = [x for x in h if (NOW - datetime.fromisoformat(x[0])).days <= 45][-200:]
+                peak = max(p for t, p in hist[it["url"]] if (NOW - datetime.fromisoformat(t)).days <= 30)
+                if peak > it["price"] * 1.0:
+                    it["was"] = peak
+                    keep(it, [], "tech", cfg.get("min_pct_tech", 15))
+        except Exception as e:
+            log(f"samsung {page} failed: {e}")
+        time.sleep(1)
 
     # forget cache entries for items no longer on sale
     live = {d["id"] for d in out} | {it["pid"] for it in cands}

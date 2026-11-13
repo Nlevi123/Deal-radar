@@ -371,7 +371,43 @@
         "domain": "mackweldon.com",
         "name": "Mack Weldon",
         "returns": "30 days (not final sale)"
+      },
+      {
+        "domain": "fromourplace.com",
+        "name": "Our Place",
+        "returns": "100 days",
+        "cat": "household"
+      },
+      {
+        "domain": "www.jlab.com",
+        "name": "JLab",
+        "returns": "30 days",
+        "cat": "tech"
+      },
+      {
+        "domain": "www.wyze.com",
+        "name": "Wyze",
+        "returns": "30 days",
+        "cat": "tech"
+      },
+      {
+        "domain": "www.mous.co",
+        "name": "Mous",
+        "returns": "30 days",
+        "cat": "accessories"
+      },
+      {
+        "domain": "www.stanley1913.com",
+        "name": "Stanley",
+        "returns": "30 days",
+        "cat": "household"
       }
+    ],
+    "min_pct_tech": 15,
+    "samsung_pages": [
+      "https://www.samsung.com/us/tablets/all-tablets/",
+      "https://www.samsung.com/us/watches/all-watches/",
+      "https://www.samsung.com/us/computing/galaxy-books/all-galaxy-books/"
     ]
   }
 }

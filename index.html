@@ -71,7 +71,7 @@ select{font:inherit;font-size:13px;border:1px solid var(--line);border-radius:6p
 <main class="list" id="main"></main>
 <div class="toast" id="toast"><span>Removed</span><button id="undo">UNDO</button></div>
 <script>
-const TABS=[["all","Frontpage"],["menswear","Designer clothing"],["shoes","Shoes"],["glitch","Price mistakes"],["tech","Tech"],["other","Everything else"],["tracker","Price tracker"],["removed","Removed"]];
+const TABS=[["all","Frontpage"],["menswear","Designer clothing"],["shoes","Shoes"],["tech","Tech"],["household","Home"],["accessories","Accessories"],["glitch","Price mistakes"],["other","Everything else"],["tracker","Price tracker"],["removed","Removed"]];
 const BLOCK=["ebay","adidas"];const PAGE=60;
 const ls={get(k,d){try{return JSON.parse(localStorage.getItem(k))??d}catch(e){return d}},set(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}}};
 let deals=[],tracked={},tab=ls.get("dr_tab","all"),sort=ls.get("dr_sort","new"),q="",shown=PAGE,last=null,tt;
@@ -90,7 +90,7 @@ function list(){
   if(tab==="removed")l=l.filter(d=>removed.has(d.id));
   else{l=l.filter(d=>!removed.has(d.id));
     if(tab==="glitch")l=l.filter(d=>d.tier==="glitch");
-    else if(tab==="other")l=l.filter(d=>!["menswear","shoes","tech"].includes(d.cat));
+    else if(tab==="other")l=l.filter(d=>!["menswear","shoes","tech","household","accessories"].includes(d.cat));
     else if(tab!=="all")l=l.filter(d=>d.cat===tab);}
   if(q)l=l.filter(d=>(d.title+" "+(d.store||"")+" "+(d.brand||"")).toLowerCase().includes(q));
   const f={new:(a,b)=>new Date(b.foundAt)-new Date(a.foundAt),pct:(a,b)=>(b.pct||0)-(a.pct||0),low:(a,b)=>(a.price||1e9)-(b.price||1e9),save:(a,b)=>((b.was||0)-(b.price||0))-((a.was||0)-(a.price||0))}[sort];
