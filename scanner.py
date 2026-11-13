@@ -45,10 +45,22 @@ def money(s):
         return None
 
 
+def sd_prices(text):
+    t = text.replace(",", "")
+    p = re.search(r"Current price:\s*\*?\$(\d+(?:\.\d\d)?)", t)
+    w = re.search(r"(?:list price|regular price|was|MSRP)\s*(?:of)?\s*\*?\$(\d+(?:\.\d\d)?)", t, re.I)
+    if p:
+        price = float(p.group(1)); was = float(w.group(1)) if w else None
+        return price, was, round((1 - price / was) * 100) if was and was > price else None
+    return None
+
+
 def prices(text):
     """Pull price, was-price and percent off out of a deal title/description."""
     t = text.replace(",", "")
     t = re.sub(r"\$\s?\d+(?:\.\d{1,2})?\s*(?:\w+\s)?(?:credit|gift card|off|cash ?back|reward|promo|bonus)", " ", t, flags=re.I)
+    t = re.sub(r"(?:prime|membership|shipping)\s*(?:or|w/|with|on)?\s*\$\s?\d+(?:\.\d\d)?", " ", t, flags=re.I)
+    t = re.sub(r"(?:plus|\+|and|w/|with)\s*\$\s?\d+(?:\.\d\d)?\s*(?:for|in|of|toward|towards)", " ", t, flags=re.I)
     t = re.sub(r"(?:on|over|orders?|w/|with|spend)\s*\$\s?\d+(?:\.\d\d)?\s*\+", " ", t, flags=re.I)
     t = re.sub(r"(?:free shipping|ship)\s*(?:w/|on)?\s*\$\s?\d+", " ", t, flags=re.I)
     nums = [float(x) for x in re.findall(r"\$\s?(\d+(?:\.\d{1,2})?)", t)]
@@ -122,30 +134,39 @@ def has(text, words):
 def classify(item):
     title, body = item["title"], item["text"]
     both = f"{title} {body}"
-    if has(both, CFG["blocked_words"]):
+    if has(both, CFG["blocked_words"]) or has(title, CFG.get("title_blocked_words", [])):
         return None
     blob = f'{title} {item.get("store", "")} {item.get("url", "")}'.lower()
     if any(b in blob for b in CFG.get("blocked_stores", [])):
         return None
-    price, was, pct = prices(title)
-    if not price:
-        price, was2, pct2 = prices(body)
-        was, pct = was or was2, pct or pct2
+    sp = sd_prices(body) if item["source"] == "Slickdeals" else None
+    if sp:
+        price, was, pct = sp
+    else:
+        price, was, pct = prices(title)
+        if not price:
+            price, was2, pct2 = prices(body)
+            was, pct = was or was2, pct or pct2
     if item.get("dn_price") and not price:
         price = item["dn_price"]
-    if price and was and was > price:
-        pct = pct or round((1 - price / was) * 100)
+    if not price:
+        return None  # store-wide sales and posts with no single price are skipped
+    if was and was > price:
+        pct = round((1 - price / was) * 100)
+    elif not was:
+        pct = None  # a % without a real "was" price can't be trusted
     glitch = has(title, CFG["glitch_words"])
     prio = None
     for p in CFG["priority"]:
         if has(both, p["words"]):
             prio = p
             break
-    pct = pct or 0
-    if prio and re.search(r"\b(backpack|bag|sleeve|case|stand|charger|cable|screen protector|band|strap)s?\b", title.lower()):
+    if prio and re.search(r"\b(backpack|bag|sleeve|case|cover|stand|charger|cable|screen protector|band|strap|keyboard|pen|mount|dock|adapter|skin)s?\b", title.lower()):
         prio = None  # accessory for a laptop/tablet/watch, not the device itself
-    curated = item.get("curated", False)  # Slickdeals frontpage/popular: already vetted as hot by the community
-    keep = glitch or (prio and (pct >= 20 or curated)) or pct >= CFG["min_pct"]
+    pct = pct or 0
+    if pct > 95 and not glitch:
+        return None  # almost always a parsing mistake or a bundle/credit trick
+    keep = glitch or (prio and pct >= CFG.get("min_pct_priority", 30)) or pct >= CFG["min_pct"]
     if not keep:
         return None
     if prio and prio["cat"] == "menswear" and re.search(r"\b(xs|xxs|l|xl|xxl)\b only", both.lower()):
