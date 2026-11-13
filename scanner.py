@@ -7,6 +7,7 @@ your tracked products for price drops, and sends phone alerts through ntfy.
 """
 import hashlib, html, json, os, re, sys, time, urllib.request, urllib.error
 import xml.etree.ElementTree as ET
+import catalog
 from datetime import datetime, timezone, timedelta
 from email.utils import parsedate_to_datetime
 
@@ -225,6 +226,40 @@ def page_price(url):
     return None
 
 
+def verify(url):
+    """Open the store's own page and read the live price. Returns (name, price, image) or None."""
+    h = get(url, 20)
+    for m in re.finditer(r'<script[^>]+application/ld\+json[^>]*>(.*?)</script>', h, re.S):
+        try:
+            data = json.loads(m.group(1).strip())
+        except Exception:
+            continue
+        stack = [data]
+        while stack:
+            x = stack.pop()
+            if isinstance(x, list):
+                stack.extend(x); continue
+            if not isinstance(x, dict):
+                continue
+            stack.extend(x.get("@graph", []) if isinstance(x.get("@graph"), list) else [])
+            t = x.get("@type"); t = t if isinstance(t, list) else [t]
+            if "Product" in t or "ProductGroup" in t:
+                offs = x.get("offers") or []
+                offs = offs if isinstance(offs, list) else [offs]
+                for o in offs:
+                    if not isinstance(o, dict):
+                        continue
+                    if "OutOfStock" in str(o.get("availability", "")) or "SoldOut" in str(o.get("availability", "")):
+                        return None
+                    p = o.get("lowPrice") if o.get("@type") == "AggregateOffer" else o.get("price")
+                    if p and money(str(p)):
+                        img = x.get("image"); img = img[0] if isinstance(img, list) and img else img
+                        img = img.get("url") if isinstance(img, dict) else img
+                        return x.get("name"), money(str(p)), img or ""
+                stack.extend(x.get("hasVariant", []) or [])
+    return None
+
+
 def push(msg, url=None, tags="moneybag"):
     topic = os.environ.get("NTFY_TOPIC") or CFG.get("ntfy_topic", "")
     if not topic or "CHANGE-ME" in topic:
@@ -240,7 +275,9 @@ def push(msg, url=None, tags="moneybag"):
 
 def main():
     db = load(DEALS_PATH, {"deals": []})
-    deals = {d["id"]: d for d in db.get("deals", [])}
+    old = {d["id"]: d for d in db.get("deals", [])}
+    deals = {k: d for k, d in old.items() if d.get("verified") and not d.get("fromCatalog")}
+    seen = set(old)
     alerts = []
     found = 0
 
@@ -256,8 +293,24 @@ def main():
             if not d:
                 continue
             d["id"] = key_of(d)
-            if d["id"] in deals:
+            if d["id"] in deals or d["id"] in seen:
                 continue
+            seen.add(d["id"])
+            # double-check the price on the store's own page; unverifiable deals are dropped
+            if not d["url"] or "reddit.com" in d["url"] or "slickdeals.net" in d["url"] or "dealnews.com" in d["url"]:
+                continue
+            try:
+                v = verify(d["url"])
+            except Exception:
+                v = None
+            if not v or not v[1] or (d["price"] and v[1] > d["price"] * 1.05):
+                continue
+            d["title"] = (v[0] or d["title"])[:160]
+            d["price"] = v[1]
+            if d["was"] and d["was"] > v[1]:
+                d["pct"] = round((1 - v[1] / d["was"]) * 100)
+            d["img"] = v[2] or d["img"]
+            d["verified"] = NOW.isoformat()
             d["foundAt"] = NOW.isoformat()
             deals[d["id"]] = d
             found += 1
@@ -265,8 +318,33 @@ def main():
                 alerts.append(d)
         time.sleep(3 if "reddit" in url else 1)
 
-    # Price tracker
+    # Store catalogs (designer sale items read straight from the stores), every ~30 min
     state = load(STATE_PATH, {})
+    state.pop("_catalog", None)
+    cpath = os.path.join(ROOT, "catalog_state.json")
+    cstate = load(cpath, {})
+    cat_cfg = CFG["catalog"]
+    last_cat = state.get("_lastCatalog")
+    if not last_cat or NOW - datetime.fromisoformat(last_cat) > timedelta(minutes=cat_cfg["every_minutes"] - 2):
+        state["_lastCatalog"] = NOW.isoformat()
+        items = catalog.run(cat_cfg, cstate, print)
+        cat_items = {}
+        for it in items:
+            prev = old.get(it["id"])
+            it["foundAt"] = prev["foundAt"] if prev and prev.get("price") == it["price"] else NOW.isoformat()
+            it["postedAt"] = it["foundAt"]
+            it["fromCatalog"] = True
+            cat_items[it["id"]] = it
+            if not prev or prev.get("price") != it["price"]:
+                found += 1
+                if it["pct"] >= CFG["alert_pct"]:
+                    alerts.append(it)
+        cstate["_list"] = list(cat_items.values())
+        json.dump(cstate, open(cpath, "w"))
+    for it in cstate.get("_list", []):
+        deals[it["id"]] = it
+
+    # Price tracker
     last_track = state.get("_lastRun")
     due = not last_track or NOW - datetime.fromisoformat(last_track) > timedelta(minutes=55)
     if due:
@@ -300,8 +378,8 @@ def main():
 
     # Drop deals older than keep_days
     cutoff = NOW - timedelta(days=CFG["keep_days"])
-    keep = [d for d in deals.values() if datetime.fromisoformat(d["foundAt"]) >= cutoff]
-    keep.sort(key=lambda d: d.get("postedAt") or d["foundAt"], reverse=True)
+    keep = [d for d in deals.values() if d.get("fromCatalog") or datetime.fromisoformat(d["foundAt"]) >= cutoff]
+    keep.sort(key=lambda d: d["foundAt"], reverse=True)
     json.dump({"updatedAt": NOW.isoformat(), "lastRunFound": found, "deals": keep}, open(DEALS_PATH, "w"), indent=1)
 
     for d in alerts[:CFG["max_alerts_per_run"]]:

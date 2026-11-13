@@ -3,166 +3,134 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta name="theme-color" content="#111111">
-<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="theme-color" content="#0d4f8b">
 <meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
 <title>Deal Radar</title>
 <link rel="manifest" href="manifest.json">
 <link rel="icon" href="icon.svg"><link rel="apple-touch-icon" href="icon-192.png">
 <style>
-:root{--bg:#f6f5f2;--card:#fff;--ink:#141414;--mute:#6f6b66;--line:#e7e4df;--sale:#d6232f;--glitch:#7a2cf0;--fire:#e8590c;--good:#1d7a46;--r:14px}
+:root{--blue:#0d4f8b;--blue2:#1a6fc2;--bg:#eef1f4;--card:#fff;--ink:#1c1f23;--mute:#6b7280;--line:#e3e6ea;--red:#d0212d;--green:#127a3e;--purple:#6d28d9;--orange:#e8590c}
 *{box-sizing:border-box;margin:0;padding:0}
-body{font:15px/1.4 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;background:var(--bg);color:var(--ink);-webkit-font-smoothing:antialiased}
+body{font:15px/1.35 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;background:var(--bg);color:var(--ink);-webkit-font-smoothing:antialiased}
 a{color:inherit;text-decoration:none}
-.promo{background:var(--ink);color:#fff;text-align:center;font-size:12px;letter-spacing:.08em;text-transform:uppercase;padding:7px 10px}
-header{position:sticky;top:0;z-index:20;background:rgba(246,245,242,.94);backdrop-filter:blur(10px);border-bottom:1px solid var(--line)}
-.bar{display:flex;align-items:center;gap:10px;padding:12px 16px 8px;max-width:1200px;margin:auto}
-.logo{font-weight:800;font-size:22px;letter-spacing:-.03em;white-space:nowrap}
-.logo span{color:var(--sale)}
-.search{flex:1;display:flex;align-items:center;background:#fff;border:1px solid var(--line);border-radius:999px;padding:0 14px;height:40px}
-.search input{border:0;outline:0;flex:1;font-size:15px;background:transparent}
-.chips{display:flex;gap:8px;overflow-x:auto;padding:4px 16px 12px;max-width:1200px;margin:auto;scrollbar-width:none}
-.chips::-webkit-scrollbar{display:none}
-.chip{flex:none;border:1px solid var(--line);background:#fff;border-radius:999px;padding:7px 14px;font-size:13px;font-weight:600;cursor:pointer;white-space:nowrap}
-.chip.on{background:var(--ink);color:#fff;border-color:var(--ink)}
-.meta{max-width:1200px;margin:auto;padding:14px 16px 4px;display:flex;justify-content:space-between;align-items:baseline;color:var(--mute);font-size:13px}
-.meta b{color:var(--ink);font-size:17px}
-.grid{max-width:1200px;margin:auto;padding:10px 12px 90px;display:grid;grid-template-columns:repeat(2,1fr);gap:12px}
-@media(min-width:700px){.grid{grid-template-columns:repeat(3,1fr)}}
-@media(min-width:1000px){.grid{grid-template-columns:repeat(4,1fr)}}
-.card{background:var(--card);border-radius:var(--r);overflow:hidden;display:flex;flex-direction:column;position:relative;box-shadow:0 1px 2px rgba(0,0,0,.04);transition:transform .25s,opacity .25s}
-.card.gone{transform:scale(.9);opacity:0}
-.ph{aspect-ratio:1/1;background:#fff;display:flex;align-items:center;justify-content:center;border-bottom:1px solid #f1efeb;overflow:hidden}
-.ph img{width:100%;height:100%;object-fit:contain;padding:10px}
-.ph .noimg{font-size:40px;opacity:.25}
-.badge{position:absolute;top:8px;left:8px;font-size:11px;font-weight:800;letter-spacing:.04em;text-transform:uppercase;color:#fff;padding:4px 8px;border-radius:6px}
-.b-glitch{background:var(--glitch)}.b-fire{background:var(--fire)}.b-good{background:var(--good)}
-.x{position:absolute;top:6px;right:6px;width:30px;height:30px;border-radius:50%;border:0;background:rgba(255,255,255,.92);box-shadow:0 1px 4px rgba(0,0,0,.15);font-size:17px;line-height:30px;cursor:pointer;color:#444}
-.body{padding:10px 12px 12px;display:flex;flex-direction:column;gap:4px;flex:1}
-.store{font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:var(--mute)}
-.title{font-size:14px;font-weight:500;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
-.prices{display:flex;align-items:baseline;gap:6px;flex-wrap:wrap;margin-top:auto;padding-top:6px}
-.now{font-size:18px;font-weight:800;color:var(--sale)}
-.was{font-size:13px;color:var(--mute);text-decoration:line-through}
-.off{font-size:12px;font-weight:800;color:var(--sale);background:#fde8e9;padding:2px 6px;border-radius:5px}
-.foot{display:flex;justify-content:space-between;font-size:11px;color:var(--mute);margin-top:4px}
-.empty{grid-column:1/-1;text-align:center;color:var(--mute);padding:60px 20px}
-.toast{position:fixed;left:50%;bottom:22px;transform:translateX(-50%) translateY(120px);background:var(--ink);color:#fff;border-radius:999px;padding:11px 18px;font-size:14px;display:flex;gap:16px;align-items:center;transition:transform .25s;z-index:30;box-shadow:0 6px 20px rgba(0,0,0,.25)}
+header{background:var(--blue);color:#fff;position:sticky;top:0;z-index:20;box-shadow:0 2px 6px rgba(0,0,0,.15)}
+.top{display:flex;align-items:center;gap:10px;padding:10px 14px;max-width:1000px;margin:auto}
+.logo{font-weight:900;font-size:20px;letter-spacing:-.02em;white-space:nowrap;display:flex;align-items:center;gap:6px}
+.logo i{display:inline-block;width:22px;height:22px;border-radius:50%;border:3px solid #fff;position:relative}
+.logo i:after{content:"";position:absolute;inset:5px;border-radius:50%;background:#ff5a5f}
+.search{flex:1;display:flex;align-items:center;background:#fff;border-radius:6px;padding:0 10px;height:36px;color:var(--ink)}
+.search input{border:0;outline:0;flex:1;font-size:15px;background:transparent;margin-left:6px}
+.tabs{display:flex;overflow-x:auto;max-width:1000px;margin:auto;padding:0 8px;scrollbar-width:none;background:var(--blue)}
+.tabs::-webkit-scrollbar{display:none}
+.tab{flex:none;color:#cfe0f3;font-weight:700;font-size:14px;padding:10px 12px;border-bottom:3px solid transparent;cursor:pointer;background:none;border-top:0;border-left:0;border-right:0}
+.tab.on{color:#fff;border-bottom-color:#ffd43b}
+.bar{max-width:1000px;margin:auto;display:flex;justify-content:space-between;align-items:center;padding:10px 14px 6px;font-size:13px;color:var(--mute);gap:10px}
+.bar b{color:var(--ink);font-size:15px}
+select{font:inherit;font-size:13px;border:1px solid var(--line);border-radius:6px;padding:5px 8px;background:#fff;color:var(--ink)}
+.list{max-width:1000px;margin:auto;padding:0 8px 80px;display:flex;flex-direction:column;gap:8px}
+.row{background:var(--card);border-radius:10px;display:flex;gap:12px;padding:10px;position:relative;border:1px solid var(--line);transition:opacity .2s,transform .2s}
+.row.gone{opacity:0;transform:translateX(30px)}
+.thumb{flex:none;width:104px;height:104px;border-radius:8px;background:#fff;border:1px solid #f0f1f3;display:flex;align-items:center;justify-content:center;overflow:hidden}
+.thumb img{width:100%;height:100%;object-fit:contain}
+.info{flex:1;min-width:0;display:flex;flex-direction:column;gap:3px;padding-right:26px}
+.ttl{font-size:15px;font-weight:600;line-height:1.3;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.pr{display:flex;align-items:baseline;gap:7px;flex-wrap:wrap}
+.now{color:var(--red);font-weight:800;font-size:18px}
+.was{color:var(--mute);text-decoration:line-through;font-size:13px}
+.off{font-size:12px;font-weight:800;color:#fff;background:var(--red);padding:1px 6px;border-radius:4px}
+.off.big{background:var(--purple)}
+.meta{font-size:12px;color:var(--mute);display:flex;flex-wrap:wrap;gap:4px 8px;align-items:center}
+.store{font-weight:700;color:var(--blue2)}
+.ok{color:var(--green);font-weight:700}
+.sz{display:flex;gap:4px;flex-wrap:wrap}
+.sz span{font-size:11px;border:1px solid var(--line);border-radius:4px;padding:0 5px;color:var(--ink);background:#f8f9fa}
+.ret{font-size:11px;color:var(--mute)}
+.x{position:absolute;top:6px;right:6px;width:28px;height:28px;border-radius:50%;border:0;background:#f1f3f5;color:#555;font-size:15px;cursor:pointer}
+.hot{position:absolute;left:10px;top:10px;background:var(--orange);color:#fff;font-size:10px;font-weight:800;padding:2px 5px;border-radius:4px;text-transform:uppercase}
+.more{margin:8px auto 0;display:block;border:1px solid var(--line);background:#fff;border-radius:8px;padding:10px 18px;font-weight:700;color:var(--blue2);cursor:pointer}
+.empty{text-align:center;color:var(--mute);padding:50px 20px}
+.toast{position:fixed;left:50%;bottom:20px;transform:translateX(-50%) translateY(120px);background:#222;color:#fff;border-radius:8px;padding:10px 16px;font-size:14px;display:flex;gap:14px;transition:transform .25s;z-index:30}
 .toast.show{transform:translateX(-50%) translateY(0)}
-.toast button{background:none;border:0;color:#ffd43b;font-weight:800;font-size:14px;cursor:pointer}
-.tlist{max-width:800px;margin:auto;padding:10px 16px 90px;display:flex;flex-direction:column;gap:10px}
-.trow{background:#fff;border-radius:12px;padding:12px 14px;display:flex;justify-content:space-between;gap:10px;align-items:center}
-.trow .n{font-weight:600;font-size:14px}.trow .s{font-size:12px;color:var(--mute)}
-.trow .p{font-weight:800;font-size:16px;text-align:right}
-.link{background:none;border:0;color:var(--mute);text-decoration:underline;font-size:13px;cursor:pointer}
+.toast button{background:none;border:0;color:#ffd43b;font-weight:800;cursor:pointer;font-size:14px}
+.trow{background:#fff;border:1px solid var(--line);border-radius:10px;padding:12px;display:flex;justify-content:space-between;gap:10px}
+.trow .n{font-weight:600}.trow .s{font-size:12px;color:var(--mute)}.trow .p{font-weight:800;text-align:right}
 </style>
 </head>
 <body>
-<div class="promo">Price mistakes &amp; extreme sales &middot; updated every 5 min</div>
 <header>
-  <div class="bar">
-    <div class="logo">Deal<span>Radar</span></div>
-    <label class="search">&#128269;&nbsp;<input id="q" type="search" placeholder="Search deals" autocomplete="off"></label>
+  <div class="top">
+    <div class="logo"><i></i>DealRadar</div>
+    <label class="search">&#128269;<input id="q" type="search" placeholder="Search brands, items, stores" autocomplete="off"></label>
   </div>
-  <div class="chips" id="chips"></div>
+  <nav class="tabs" id="tabs"></nav>
 </header>
-<div class="meta"><div><b id="count">Loading…</b></div><div id="updated"></div></div>
-<main id="main"></main>
-<div class="toast" id="toast"><span id="toastMsg">Removed</span><button id="undo">UNDO</button></div>
-
+<div class="bar"><div><b id="count">Loading…</b> <span id="upd"></span></div>
+  <select id="sort"><option value="new">Newest</option><option value="pct">Biggest % off</option><option value="low">Lowest price</option><option value="save">Biggest $ saved</option></select>
+</div>
+<main class="list" id="main"></main>
+<div class="toast" id="toast"><span>Removed</span><button id="undo">UNDO</button></div>
 <script>
-const CATS=[["all","All"],["glitch","Price mistakes"],["priority","My hunts"],["tech","Tech"],["shoes","Shoes"],["menswear","Menswear"],["household","Home"],["accessories","Accessories"],["everyday","Everyday"],["tracker","Price tracker"],["removed","Removed"]];
-const BLOCK=["ebay","adidas"];
-let deals=[],tracked={},cat="all",q="",lastRemoved=null,toastT;
-const store={get(k,d){try{return JSON.parse(localStorage.getItem(k))??d}catch(e){return d}},set(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}}};
-let removed=new Set(store.get("dr_removed",[]));
-cat=store.get("dr_cat","all");
-
-function esc(s){return String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]))}
-function ago(iso){if(!iso)return"";const m=Math.round((Date.now()-new Date(iso))/6e4);if(m<1)return"just now";if(m<60)return m+"m ago";const h=Math.round(m/60);if(h<24)return h+"h ago";return Math.round(h/24)+"d ago"}
-function money(n){return n==null?"":"$"+(n%1?n.toFixed(2):n.toLocaleString())}
-function blocked(d){const s=(d.title+" "+(d.store||"")+" "+(d.url||"")).toLowerCase();return BLOCK.some(b=>s.includes(b))}
-function when(d){return d.postedAt||d.foundAt}
-
-function chips(){document.getElementById("chips").innerHTML=CATS.map(([k,l])=>`<button class="chip ${k===cat?"on":""}" data-c="${k}">${l}</button>`).join("")}
-document.getElementById("chips").onclick=e=>{const c=e.target.dataset.c;if(!c)return;cat=c;store.set("dr_cat",c);chips();render();window.scrollTo({top:0})};
-document.getElementById("q").oninput=e=>{q=e.target.value.toLowerCase().trim();render()};
-
-function visible(){
-  let list=deals.filter(d=>!blocked(d));
-  if(cat==="removed")list=list.filter(d=>removed.has(d.id));
-  else{
-    list=list.filter(d=>!removed.has(d.id));
-    if(cat==="glitch")list=list.filter(d=>d.tier==="glitch");
-    else if(cat==="priority")list=list.filter(d=>d.priority);
-    else if(cat!=="all")list=list.filter(d=>d.cat===cat);
-  }
-  if(q)list=list.filter(d=>(d.title+" "+(d.store||"")+" "+d.source).toLowerCase().includes(q));
-  return list.sort((a,b)=>new Date(when(b))-new Date(when(a)));  // newest first
+const TABS=[["all","Frontpage"],["menswear","Designer clothing"],["shoes","Shoes"],["glitch","Price mistakes"],["tech","Tech"],["other","Everything else"],["tracker","Price tracker"],["removed","Removed"]];
+const BLOCK=["ebay","adidas"];const PAGE=60;
+const ls={get(k,d){try{return JSON.parse(localStorage.getItem(k))??d}catch(e){return d}},set(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}}};
+let deals=[],tracked={},tab=ls.get("dr_tab","all"),sort=ls.get("dr_sort","new"),q="",shown=PAGE,last=null,tt;
+let removed=new Set(ls.get("dr_removed",[]));
+const $=id=>document.getElementById(id);
+const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const money=n=>n==null?"":"$"+(n%1?n.toFixed(2):Number(n).toLocaleString());
+function ago(iso){if(!iso)return"";const m=Math.round((Date.now()-new Date(iso))/6e4);if(m<1)return"just now";if(m<60)return m+"m ago";const h=Math.round(m/60);return h<24?h+"h ago":Math.round(h/24)+"d ago"}
+function tabs(){$("tabs").innerHTML=TABS.map(([k,l])=>`<button class="tab ${k===tab?"on":""}" data-t="${k}">${l}</button>`).join("")}
+$("tabs").onclick=e=>{const t=e.target.dataset.t;if(!t)return;tab=t;ls.set("dr_tab",t);shown=PAGE;tabs();render();scrollTo({top:0})};
+$("q").oninput=e=>{q=e.target.value.toLowerCase().trim();shown=PAGE;render()};
+$("sort").value=sort;$("sort").onchange=e=>{sort=e.target.value;ls.set("dr_sort",sort);shown=PAGE;render()};
+const blocked=d=>{const s=(d.title+" "+(d.store||"")+" "+(d.url||"")).toLowerCase();return BLOCK.some(b=>s.includes(b))};
+function list(){
+  let l=deals.filter(d=>!blocked(d));
+  if(tab==="removed")l=l.filter(d=>removed.has(d.id));
+  else{l=l.filter(d=>!removed.has(d.id));
+    if(tab==="glitch")l=l.filter(d=>d.tier==="glitch");
+    else if(tab==="other")l=l.filter(d=>!["menswear","shoes","tech"].includes(d.cat));
+    else if(tab!=="all")l=l.filter(d=>d.cat===tab);}
+  if(q)l=l.filter(d=>(d.title+" "+(d.store||"")+" "+(d.brand||"")).toLowerCase().includes(q));
+  const f={new:(a,b)=>new Date(b.foundAt)-new Date(a.foundAt),pct:(a,b)=>(b.pct||0)-(a.pct||0),low:(a,b)=>(a.price||1e9)-(b.price||1e9),save:(a,b)=>((b.was||0)-(b.price||0))-((a.was||0)-(a.price||0))}[sort];
+  return l.sort(f);
 }
-
-function card(d){
-  const tier={glitch:"Price mistake",fire:"Hot",good:"Deal"}[d.tier]||"Deal";
-  const rm=cat==="removed";
-  return `<article class="card" id="c-${d.id}">
-    <a href="${esc(d.url)}" target="_blank" rel="noopener">
-      <div class="ph">${d.img?`<img loading="lazy" src="${esc(d.img)}" alt="" onerror="this.outerHTML='<span class=noimg>🏷️</span>'">`:`<span class="noimg">🏷️</span>`}</div>
-    </a>
-    <span class="badge b-${d.tier}">${tier}</span>
-    <button class="x" data-id="${d.id}" title="${rm?"Restore":"Remove"}" aria-label="${rm?"Restore":"Remove"}">${rm?"↺":"✕"}</button>
-    <a class="body" href="${esc(d.url)}" target="_blank" rel="noopener">
-      <div class="store">${esc(d.store||d.source)}</div>
-      <div class="title">${esc(d.title)}</div>
-      <div class="prices">${d.price?`<span class="now">${money(d.price)}</span>`:""}${d.was?`<span class="was">${money(d.was)}</span>`:""}${d.pct?`<span class="off">-${d.pct}%</span>`:""}</div>
-      <div class="foot"><span>${esc(d.source)}</span><span>${ago(when(d))}</span></div>
-    </a>
-  </article>`;
-}
-
+function row(d){
+  const rm=tab==="removed";
+  return `<article class="row" id="r-${d.id}">
+   <a class="thumb" href="${esc(d.url)}" target="_blank" rel="noopener">${d.img?`<img loading="lazy" src="${esc(d.img)}" alt="" onerror="this.remove()">`:"🏷️"}</a>
+   ${d.tier==="glitch"?'<span class="hot">Mistake</span>':""}
+   <a class="info" href="${esc(d.url)}" target="_blank" rel="noopener">
+     <div class="ttl">${esc(d.title)}</div>
+     <div class="pr">${d.price?`<span class="now">${money(d.price)}</span>`:""}${d.was?`<span class="was">${money(d.was)}</span>`:""}${d.pct?`<span class="off ${d.pct>=60?"big":""}">${d.pct}% off</span>`:""}</div>
+     <div class="meta"><span class="store">${esc(d.store||d.source)}</span>${d.verified?`<span class="ok">✓ Price checked ${ago(d.verified)}</span>`:""}<span>· ${ago(d.foundAt)}</span></div>
+     ${d.sizes&&d.sizes.length?`<div class="sz">${d.sizes.map(s=>`<span>${esc(s)}</span>`).join("")}</div>`:""}
+     ${d.returns?`<div class="ret">↩ ${esc(d.returns)}</div>`:""}
+   </a>
+   <button class="x" data-id="${d.id}" aria-label="${rm?"Restore":"Remove"}">${rm?"↺":"✕"}</button>
+  </article>`}
 function render(){
-  const main=document.getElementById("main");
-  if(cat==="tracker")return renderTracker(main);
-  const list=visible();
-  document.getElementById("count").textContent=`${list.length} ${cat==="removed"?"removed":"deals"}`;
-  main.className="grid";
-  main.innerHTML=list.length?list.map(card).join(""):`<div class="empty">${cat==="removed"?"Nothing removed.":"No deals here yet. New ones show up every few minutes."}</div>`
-    +(cat==="removed"&&list.length?`<div class="empty" style="padding:10px"><button class="link" id="restoreAll">Restore all</button></div>`:"");
+  const m=$("main");
+  if(tab==="tracker"){const rows=Object.entries(tracked).filter(([k])=>!k.startsWith("_"));$("count").textContent=rows.length+" tracked";
+    m.innerHTML=rows.map(([u,t])=>`<a class="trow" href="${esc(u)}" target="_blank" rel="noopener"><div><div class="n">${esc(t.name)}</div><div class="s">${t.error?esc(t.error):"Low "+money(t.low)+" · checked "+ago(t.checkedAt)}</div></div><div class="p">${money(t.last)||"—"}</div></a>`).join("")||'<div class="empty">Nothing tracked yet.</div>';return}
+  const l=list();$("count").textContent=`${l.length} ${tab==="removed"?"removed":"deals"}`;
+  m.innerHTML=l.length?l.slice(0,shown).map(row).join("")+(l.length>shown?`<button class="more" id="more">Show more (${l.length-shown} left)</button>`:""):`<div class="empty">${tab==="removed"?"Nothing removed.":"No deals here right now. New ones arrive every few minutes."}</div>`;
 }
-
-function renderTracker(main){
-  const rows=Object.entries(tracked).filter(([k])=>!k.startsWith("_"));
-  document.getElementById("count").textContent=`${rows.length} tracked`;
-  main.className="tlist";
-  main.innerHTML=rows.map(([url,t])=>{
-    const h=t.history||[],first=h[0]?.p,chg=first&&t.last?Math.round((t.last/first-1)*100):0;
-    return `<a class="trow" href="${esc(url)}" target="_blank" rel="noopener"><div><div class="n">${esc(t.name)}</div>
-      <div class="s">${t.error?esc(t.error):`Low ${money(t.low)} · checked ${ago(t.checkedAt)}`}</div></div>
-      <div class="p">${money(t.last)||"—"}${chg?`<div class="s" style="color:${chg<0?"var(--good)":"var(--sale)"}">${chg>0?"+":""}${chg}%</div>`:""}</div></a>`}).join("")
-    ||`<div class="empty">Tracked prices appear after the first hourly check.</div>`;
-}
-
-document.getElementById("main").addEventListener("click",e=>{
-  if(e.target.id==="restoreAll"){removed.clear();store.set("dr_removed",[]);render();return}
-  const b=e.target.closest(".x");if(!b)return;
-  e.preventDefault();const id=b.dataset.id,el=document.getElementById("c-"+id);
-  const restoring=removed.has(id);
-  restoring?removed.delete(id):removed.add(id);store.set("dr_removed",[...removed]);
-  el.classList.add("gone");setTimeout(render,220);
-  if(!restoring){lastRemoved=id;toast("Removed from your list")}
+$("main").addEventListener("click",e=>{
+  if(e.target.id==="more"){shown+=PAGE;render();return}
+  const b=e.target.closest(".x");if(!b)return;e.preventDefault();
+  const id=b.dataset.id,r=$("r-"+id),back=removed.has(id);
+  back?removed.delete(id):removed.add(id);ls.set("dr_removed",[...removed]);
+  r.classList.add("gone");setTimeout(render,200);
+  if(!back){last=id;$("toast").classList.add("show");clearTimeout(tt);tt=setTimeout(()=>$("toast").classList.remove("show"),4000)}
 });
-function toast(m){const t=document.getElementById("toast");document.getElementById("toastMsg").textContent=m;t.classList.add("show");clearTimeout(toastT);toastT=setTimeout(()=>t.classList.remove("show"),4000)}
-document.getElementById("undo").onclick=()=>{if(lastRemoved){removed.delete(lastRemoved);store.set("dr_removed",[...removed]);lastRemoved=null;render()}document.getElementById("toast").classList.remove("show")};
-
+$("undo").onclick=()=>{if(last){removed.delete(last);ls.set("dr_removed",[...removed]);last=null;render()}$("toast").classList.remove("show")};
 async function load(){
-  try{
-    const [a,b]=await Promise.all([fetch("deals.json?"+Date.now()).then(r=>r.json()),fetch("tracked.json?"+Date.now()).then(r=>r.json()).catch(()=>({}))]);
-    deals=a.deals||[];tracked=b;
-    document.getElementById("updated").textContent="Updated "+ago(a.updatedAt);
-  }catch(e){document.getElementById("updated").textContent="Couldn't load deals"}
-  render();
-}
-chips();load();setInterval(load,120000);
-document.addEventListener("visibilitychange",()=>{if(!document.hidden)load()});
+  try{const[a,b]=await Promise.all([fetch("deals.json?"+Date.now()).then(r=>r.json()),fetch("tracked.json?"+Date.now()).then(r=>r.json()).catch(()=>({}))]);
+    deals=a.deals||[];tracked=b;$("upd").textContent="· updated "+ago(a.updatedAt)}catch(e){$("upd").textContent="· couldn't load"}
+  render()}
+tabs();load();setInterval(load,120000);document.addEventListener("visibilitychange",()=>{if(!document.hidden)load()});
 </script>
 </body>
 </html>

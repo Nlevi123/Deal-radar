@@ -1,6 +1,6 @@
 {
   "ntfy_topic": "deal-radar-27b8d0b838",
-  "min_pct": 50,
+  "min_pct": 40,
   "alert_pct": 70,
   "max_alerts_per_run": 3,
   "keep_days": 5,
@@ -207,7 +207,7 @@
       "target": null
     }
   ],
-  "min_pct_priority": 30,
+  "min_pct_priority": 25,
   "title_blocked_words": [
     "up to",
     "sitewide",
@@ -240,5 +240,138 @@
     "giftcard",
     "subscription",
     "free trial"
-  ]
+  ],
+  "catalog": {
+    "every_minutes": 30,
+    "ssense_pages": 20,
+    "product_checks_per_run": 150,
+    "recheck_hours": 6,
+    "min_pct": 30,
+    "caps": {
+      "shoes_belts_suits": 200,
+      "other": 80
+    },
+    "clothing_sizes": [
+      "S",
+      "M",
+      "IT 46",
+      "IT 48",
+      "EU 46",
+      "EU 48",
+      "FR 46",
+      "FR 48",
+      "1",
+      "2",
+      "46",
+      "48",
+      "38",
+      "40"
+    ],
+    "shoe_sizes": [
+      "US 11",
+      "11",
+      "EU 44",
+      "EU 44.5",
+      "IT 44",
+      "IT 44.5",
+      "44",
+      "44.5",
+      "UK 10",
+      "10 UK"
+    ],
+    "not_designer": [
+      "vans",
+      "adidas",
+      "nike",
+      "jordan",
+      "new balance",
+      "converse",
+      "carhartt",
+      "champion",
+      "levi",
+      "dickies",
+      "puma",
+      "reebok",
+      "asics",
+      "ugg",
+      "crocs",
+      "timberland",
+      "birkenstock",
+      "hoka",
+      "on running",
+      "salomon",
+      "lacoste",
+      "fila",
+      "umbro",
+      "kappa",
+      "the north face",
+      "columbia",
+      "patagonia",
+      "under armour",
+      "skechers",
+      "crep protect",
+      "jason markk",
+      "stance",
+      "hanes",
+      "gildan",
+      "saucony",
+      "dr martens",
+      "dr. martens",
+      "snow peak",
+      "pleasures",
+      "market",
+      "by parra",
+      "chinatown market",
+      "huf",
+      "primitive",
+      "ripndip",
+      "obey",
+      "new era",
+      "mitchell & ness",
+      "47 brand",
+      "'47",
+      "nautica",
+      "tommy hilfiger",
+      "calvin klein",
+      "guess",
+      "ellesse",
+      "sergio tacchini",
+      "k-swiss",
+      "brooks",
+      "mizuno",
+      "merrell",
+      "keen",
+      "teva",
+      "clarks",
+      "sperry",
+      "cole haan"
+    ],
+    "shopify_stores": [
+      {
+        "domain": "notre-shop.com",
+        "name": "Notre",
+        "returns": "14-28 days (not final sale)"
+      },
+      {
+        "domain": "www.ledbury.com",
+        "name": "Ledbury",
+        "returns": "60 days (not final sale)"
+      },
+      {
+        "domain": "extrabutterny.com",
+        "name": "Extra Butter",
+        "returns": "14 days (no limited releases)"
+      },
+      {
+        "domain": "www.sneakersnstuff.com",
+        "name": "Sneakersnstuff",
+        "returns": "30 days"
+      },
+      {
+        "domain": "mackweldon.com",
+        "name": "Mack Weldon",
+        "returns": "30 days (not final sale)"
+      }
+    ]
+  }
 }
