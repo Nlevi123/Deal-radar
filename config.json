@@ -244,7 +244,7 @@
   "catalog": {
     "every_minutes": 30,
     "ssense_pages": 20,
-    "product_checks_per_run": 150,
+    "product_checks_per_run": 160,
     "recheck_hours": 6,
     "min_pct": 30,
     "caps": {
