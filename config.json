@@ -1,0 +1,51 @@
+{
+  "ntfy_topic": "deal-radar-27b8d0b838",
+  "min_pct": 40,
+  "alert_pct": 70,
+  "max_alerts_per_run": 3,
+  "keep_days": 5,
+  "shoe_size": "11",
+  "clothing_sizes": ["S", "M"],
+  "blocked_words": ["final sale", "no returns", "non-returnable", "as-is", "as is", "refurbished", "renewed", "open box", "open-box", "pre-owned", "used"],
+  "blocked_stores": ["ebay", "adidas"],
+  "glitch_words": ["price mistake", "price error", "pricing error", "pricing glitch", "glitch", "pm?", "ymmv"],
+  "priority": [
+    {"cat": "tech", "words": ["ipad", "galaxy tab", "pixel tablet", "fire hd", "fire max", "oneplus pad", "lenovo tab", "idea tab", "legion tab", "yoga tab", "tablet"]},
+    {"cat": "tech", "words": ["galaxy watch"]},
+    {"cat": "tech", "words": ["laptop", "notebook", "macbook", "chromebook", "zenbook", "thinkpad", "xps", "spectre", "omnibook", "vivobook", "galaxy book", "surface laptop"]},
+    {"cat": "tech", "words": ["desktop", "gaming pc", "prebuilt", "mac mini", "imac", "mini pc"]},
+    {"cat": "shoes", "words": ["on cloud", "cloudmonster", "cloudsurfer", "cloudrunner", "cloudnova", "cloudflow", "on running", "air mag"]},
+    {"cat": "menswear", "words": ["ssense", "mr porter", "mrporter", "end clothing", "farfetch", "saks", "off 5th", "neiman", "bloomingdale", "nordstrom", "yoox", "designer", "acne studios", "a.p.c", "stone island", "moncler", "canada goose", "arc'teryx", "arcteryx", "our legacy", "ami paris", "maison kitsune", "comme des garcons", "cdg", "rag & bone", "theory"]}
+  ],
+  "feeds": [
+    "https://slickdeals.net/newsearch.php?mode=frontpage&searcharea=deals&searchin=first&rss=1",
+    "https://slickdeals.net/newsearch.php?mode=popdeals&searcharea=deals&searchin=first&rss=1",
+    "https://slickdeals.net/newsearch.php?q=price+mistake&searcharea=deals&searchin=first&rss=1",
+    "https://slickdeals.net/newsearch.php?q=price+error&searcharea=deals&searchin=first&rss=1",
+    "https://slickdeals.net/newsearch.php?q=galaxy+watch&searcharea=deals&searchin=first&rss=1",
+    "https://slickdeals.net/newsearch.php?q=galaxy+tab&searcharea=deals&searchin=first&rss=1",
+    "https://slickdeals.net/newsearch.php?q=ipad&searcharea=deals&searchin=first&rss=1",
+    "https://slickdeals.net/newsearch.php?q=laptop&searcharea=deals&searchin=first&rss=1",
+    "https://slickdeals.net/newsearch.php?q=on+cloud&searcharea=deals&searchin=first&rss=1",
+    "https://www.dealnews.com/?rss=1",
+    "https://www.reddit.com/r/buildapcsales/new/.rss",
+    "https://www.reddit.com/r/frugalmalefashion/new/.rss",
+    "https://www.reddit.com/r/sneakerdeals/new/.rss",
+    "https://www.reddit.com/r/laptopdeals/new/.rss",
+    "https://www.reddit.com/r/deals/new/.rss",
+    "https://www.reddit.com/r/GalaxyWatch/search.rss?q=deal&restrict_sr=1&sort=new"
+  ],
+  "tracked": [
+    {"name": "Galaxy Tab S10 FE", "url": "https://www.samsung.com/us/tablets/galaxy-tab-s10-fe/buy/galaxy-tab-s10-fe-silver-128gb-sku-sm-x520nzsaxar/", "target": null},
+    {"name": "Galaxy Tab S11", "url": "https://www.walmart.com/ip/Samsung-Galaxy-Tab-S11-11-Widescreen-Tablet-with-S-Pen-128GB-Android-16-Gray/17347308731", "target": null},
+    {"name": "Galaxy Tab S11 Ultra", "url": "https://www.samsung.com/us/tablets/galaxy-tab-s11/buy/galaxy-tab-s11-ultra-256gb-silver-wi-fi-sku-sm-x930nzsaxar/", "target": null},
+    {"name": "Galaxy Tab S12 Ultra", "url": "https://www.bestbuy.com/product/samsung-galaxy-tab-s12-ultra-14-6-256gb-wi-fi-7-with-s-pen-silver/JJGRF3V3YL", "target": null},
+    {"name": "Galaxy Watch Ultra2 47mm", "url": "https://www.bestbuy.com/product/samsung-galaxy-watch-ultra2-titanium-smartwatch-47mm-lte-titanium-silver-2026/JJGRF3FXV3", "target": null},
+    {"name": "Galaxy Watch8 44mm", "url": "https://www.walmart.com/ip/Samsung-Galaxy-Watch8-44mm-Bluetooth-Silver/17035104000", "target": null},
+    {"name": "Galaxy Watch9 44mm", "url": "https://www.walmart.com/ip/Samsung-Galaxy-Watch9-44mm-Silver-Bluetooth-and-Wifi-Aluminum-Smart-Watch-Silver/20373813469", "target": null},
+    {"name": "Galaxy Watch8 Classic 46mm", "url": "https://www.bestbuy.com/site/samsung-galaxy-watch8-classic-stainless-steel-smartwatch-46mm-bt-black-2025/6635077.p?skuId=6635077", "target": null},
+    {"name": "Lenovo Idea Tab Pro Gen 2", "url": "https://www.lenovo.com/us/en/p/tablets/android-tablets/idea-tab-series/lenovo-idea-tab-pro-gen-2/len103l0036", "target": null},
+    {"name": "On Cloud 6 men's", "url": "https://www.zappos.com/p/mens-on-cloud-6-ash-cinder/product/9981520/color/1118915", "target": null},
+    {"name": "On Cloudmonster 2 men's", "url": "https://www.zappos.com/p/mens-on-cloudmonster-2-black-frost/product/10003499/color/359335", "target": null}
+  ]
+}
