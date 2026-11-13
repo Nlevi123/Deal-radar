@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-11-13T08:48:16.505443+00:00",
- "lastRunFound": 8,
+ "updatedAt": "2026-11-13T08:49:40.141541+00:00",
+ "lastRunFound": 2,
  "deals": [
   {
    "title": "Yoever Smart Watch for Men Women,1.57\" Touchscreen,Round Fitness Trackers | Answer/Make Call,Heart Rate/Sleep/SpO2,Compatible for iPhone/Samsung/Android",
@@ -52,6 +52,40 @@
    "postedAt": "2026-11-08T04:39:31+00:00",
    "id": "30426a0a33bd",
    "foundAt": "2026-11-13T08:48:16.505443+00:00"
+  },
+  {
+   "title": "Charles Tyrwhitt - $45 Dress Shirts (down from $130)",
+   "store": "",
+   "url": "https://www.charlestyrwhitt.com/us/mens-shirts/dress/",
+   "post": "https://www.reddit.com/r/frugalmalefashion/comments/1xpj3s3/charles_tyrwhitt_45_dress_shirts_down_from_130/",
+   "img": "",
+   "price": 45.0,
+   "was": 130.0,
+   "pct": 65,
+   "tier": "fire",
+   "cat": "menswear",
+   "priority": false,
+   "source": "r/frugalmalefashion",
+   "postedAt": "2026-11-06T17:44:12+00:00",
+   "id": "89e3a55322ed",
+   "foundAt": "2026-11-13T08:49:40.141541+00:00"
+  },
+  {
+   "title": "GH Bass Extra 30% off Clearance",
+   "store": "",
+   "url": "https://i.redd.it/cww7j70vjmzh1.jpeg",
+   "post": "https://www.reddit.com/r/frugalmalefashion/comments/1xnt0mr/gh_bass_extra_30_off_clearance/",
+   "img": "https://preview.redd.it/cww7j70vjmzh1.jpeg?width=640&crop=smart&auto=webp&s=584450b816c2e0eb464d555d4bb7c3803b0d2240",
+   "price": 3.0,
+   "was": 33.0,
+   "pct": 91,
+   "tier": "fire",
+   "cat": "shoes",
+   "priority": false,
+   "source": "r/frugalmalefashion",
+   "postedAt": "2026-11-04T16:43:13+00:00",
+   "id": "3b2357a60cfc",
+   "foundAt": "2026-11-13T08:49:40.141541+00:00"
   },
   {
    "title": "$12.24: The Alters",
