@@ -1,7 +1,1929 @@
 {
- "updatedAt": "2026-11-16T16:44:25.212776+00:00",
- "lastRunFound": 1,
+ "updatedAt": "2026-11-16T17:47:39.952654+00:00",
+ "lastRunFound": 87,
  "deals": [
+  {
+   "id": "ss-19091431",
+   "title": "Hugo Black Monogram Riptape Strap Sandals",
+   "brand": "Hugo",
+   "store": "SSENSE",
+   "url": "https://www.ssense.com/en-us/men/product/hugo-hugo-boss/black-monogram-riptape-strap-sandals/19091431",
+   "post": "https://www.ssense.com/en-us/men/product/hugo-hugo-boss/black-monogram-riptape-strap-sandals/19091431",
+   "img": "https://res.cloudinary.com/ssenseweb/image/upload/b_white,c_lpad,g_center,h_480,w_480/c_scale,h_480/f_auto,dpr_1.0/261084M234012_1.jpg",
+   "price": 45.0,
+   "was": 80.0,
+   "pct": 44,
+   "tier": "good",
+   "cat": "shoes",
+   "priority": true,
+   "source": "SSENSE",
+   "sizes": [
+    "IT 44"
+   ],
+   "returns": "Free returns, 30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "ss-19108141",
+   "title": "Entire Studios Black Rib Tank Top",
+   "brand": "Entire Studios",
+   "store": "SSENSE",
+   "url": "https://www.ssense.com/en-us/men/product/entire-studios/black-rib-tank-top/19108141",
+   "post": "https://www.ssense.com/en-us/men/product/entire-studios/black-rib-tank-top/19108141",
+   "img": "https://res.cloudinary.com/ssenseweb/image/upload/b_white,c_lpad,g_center,h_480,w_480/c_scale,h_480/f_auto,dpr_1.0/261940M214007_1.jpg",
+   "price": 54.0,
+   "was": 95.0,
+   "pct": 43,
+   "tier": "good",
+   "cat": "menswear",
+   "priority": true,
+   "source": "SSENSE",
+   "sizes": [
+    "M"
+   ],
+   "returns": "Free returns, 30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "ss-17154111",
+   "title": "NEEDLES Black Poly Jersey S/S Crew Neck T-shirt",
+   "brand": "NEEDLES",
+   "store": "SSENSE",
+   "url": "https://www.ssense.com/en-us/men/product/needles/black-poly-jersey-ss-crew-neck-t-shirt/17154111",
+   "post": "https://www.ssense.com/en-us/men/product/needles/black-poly-jersey-ss-crew-neck-t-shirt/17154111",
+   "img": "https://res.cloudinary.com/ssenseweb/image/upload/b_white,c_lpad,g_center,h_480,w_480/c_scale,h_480/f_auto,dpr_1.0/251821M213002_1.jpg",
+   "price": 61.0,
+   "was": 110.0,
+   "pct": 45,
+   "tier": "good",
+   "cat": "menswear",
+   "priority": true,
+   "source": "SSENSE",
+   "sizes": [
+    "M"
+   ],
+   "returns": "Free returns, 30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "ss-18989581",
+   "title": "Fear of God ESSENTIALS Off-White & Gray Signature Baseball T-shirt",
+   "brand": "Fear of God ESSENTIALS",
+   "store": "SSENSE",
+   "url": "https://www.ssense.com/en-us/men/product/essentials/off-white-and-gray-signature-baseball-t-shirt/18989581",
+   "post": "https://www.ssense.com/en-us/men/product/essentials/off-white-and-gray-signature-baseball-t-shirt/18989581",
+   "img": "https://res.cloudinary.com/ssenseweb/image/upload/b_white,c_lpad,g_center,h_480,w_480/c_scale,h_480/f_auto,dpr_1.0/261161M213057_1.jpg",
+   "price": 63.0,
+   "was": 115.0,
+   "pct": 45,
+   "tier": "good",
+   "cat": "menswear",
+   "priority": true,
+   "source": "SSENSE",
+   "sizes": [
+    "S",
+    "M"
+   ],
+   "returns": "Free returns, 30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "ss-18987691",
+   "title": "Fear of God ESSENTIALS Beige Training 90s Long Sleeve T-shirt",
+   "brand": "Fear of God ESSENTIALS",
+   "store": "SSENSE",
+   "url": "https://www.ssense.com/en-us/men/product/essentials/beige-training-90s-long-sleeve-t-shirt/18987691",
+   "post": "https://www.ssense.com/en-us/men/product/essentials/beige-training-90s-long-sleeve-t-shirt/18987691",
+   "img": "https://res.cloudinary.com/ssenseweb/image/upload/b_white,c_lpad,g_center,h_480,w_480/c_scale,h_480/f_auto,dpr_1.0/261161M213050_1.jpg",
+   "price": 61.0,
+   "was": 135.0,
+   "pct": 55,
+   "tier": "good",
+   "cat": "menswear",
+   "priority": true,
+   "source": "SSENSE",
+   "sizes": [
+    "S",
+    "M"
+   ],
+   "returns": "Free returns, 30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "ss-18991371",
+   "title": "Fear of God ESSENTIALS Blue Campus 90s Short Sleeve T-shirt",
+   "brand": "Fear of God ESSENTIALS",
+   "store": "SSENSE",
+   "url": "https://www.ssense.com/en-us/men/product/essentials/blue-campus-90s-short-sleeve-t-shirt/18991371",
+   "post": "https://www.ssense.com/en-us/men/product/essentials/blue-campus-90s-short-sleeve-t-shirt/18991371",
+   "img": "https://res.cloudinary.com/ssenseweb/image/upload/b_white,c_lpad,g_center,h_480,w_480/c_scale,h_480/f_auto,dpr_1.0/261161M213069_1.jpg",
+   "price": 61.0,
+   "was": 120.0,
+   "pct": 49,
+   "tier": "good",
+   "cat": "menswear",
+   "priority": true,
+   "source": "SSENSE",
+   "sizes": [
+    "S",
+    "M"
+   ],
+   "returns": "Free returns, 30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "ss-18878081",
+   "title": "Hugo Black Stacked-Logo Trim Shorts",
+   "brand": "Hugo",
+   "store": "SSENSE",
+   "url": "https://www.ssense.com/en-us/men/product/hugo-hugo-boss/black-stacked-logo-trim-shorts/18878081",
+   "post": "https://www.ssense.com/en-us/men/product/hugo-hugo-boss/black-stacked-logo-trim-shorts/18878081",
+   "img": "https://res.cloudinary.com/ssenseweb/image/upload/b_white,c_lpad,g_center,h_480,w_480/c_scale,h_480/f_auto,dpr_1.0/261084M193009_1.jpg",
+   "price": 62.0,
+   "was": 145.0,
+   "pct": 57,
+   "tier": "good",
+   "cat": "menswear",
+   "priority": true,
+   "source": "SSENSE",
+   "sizes": [
+    "M"
+   ],
+   "returns": "Free returns, 30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "ss-19436051",
+   "title": "AVAVAV Green 'Avavav' Logo T-shirt",
+   "brand": "AVAVAV",
+   "store": "SSENSE",
+   "url": "https://www.ssense.com/en-us/men/product/avavav/green-avavav-logo-t-shirt/19436051",
+   "post": "https://www.ssense.com/en-us/men/product/avavav/green-avavav-logo-t-shirt/19436051",
+   "img": "https://res.cloudinary.com/ssenseweb/image/upload/b_white,c_lpad,g_center,h_480,w_480/c_scale,h_480/f_auto,dpr_1.0/262094M213007_1.jpg",
+   "price": 69.0,
+   "was": 115.0,
+   "pct": 40,
+   "tier": "good",
+   "cat": "menswear",
+   "priority": true,
+   "source": "SSENSE",
+   "sizes": [
+    "S",
+    "M"
+   ],
+   "returns": "Free returns, 30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "ss-19041421",
+   "title": "thom/krom Off-White M TS 926 T-shirt",
+   "brand": "thom/krom",
+   "store": "SSENSE",
+   "url": "https://www.ssense.com/en-us/men/product/thom-krom/off-white-m-ts-926-t-shirt/19041421",
+   "post": "https://www.ssense.com/en-us/men/product/thom-krom/off-white-m-ts-926-t-shirt/19041421",
+   "img": "https://res.cloudinary.com/ssenseweb/image/upload/b_white,c_lpad,g_center,h_480,w_480/c_scale,h_480/f_auto,dpr_1.0/261974M213013_1.jpg",
+   "price": 63.0,
+   "was": 105.0,
+   "pct": 40,
+   "tier": "good",
+   "cat": "menswear",
+   "priority": true,
+   "source": "SSENSE",
+   "sizes": [
+    "S"
+   ],
+   "returns": "Free returns, 30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "ss-18532891",
+   "title": "Fear of God ESSENTIALS Black Holiday Ponte 90s Long Sleeve T-shirt",
+   "brand": "Fear of God ESSENTIALS",
+   "store": "SSENSE",
+   "url": "https://www.ssense.com/en-us/men/product/essentials/black-holiday-ponte-90s-long-sleeve-t-shirt/18532891",
+   "post": "https://www.ssense.com/en-us/men/product/essentials/black-holiday-ponte-90s-long-sleeve-t-shirt/18532891",
+   "img": "https://res.cloudinary.com/ssenseweb/image/upload/b_white,c_lpad,g_center,h_480,w_480/c_scale,h_480/f_auto,dpr_1.0/261161M213023_1.jpg",
+   "price": 70.0,
+   "was": 140.0,
+   "pct": 50,
+   "tier": "good",
+   "cat": "menswear",
+   "priority": true,
+   "source": "SSENSE",
+   "sizes": [
+    "S",
+    "M"
+   ],
+   "returns": "Free returns, 30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "ss-17012731",
+   "title": "AAPE by A Bathing Ape Gray 'AAPENOW' Moonface Logo Sweat Shorts",
+   "brand": "AAPE by A Bathing Ape",
+   "store": "SSENSE",
+   "url": "https://www.ssense.com/en-us/men/product/aape/gray-aapenow-moonface-logo-sweat-shorts/17012731",
+   "post": "https://www.ssense.com/en-us/men/product/aape/gray-aapenow-moonface-logo-sweat-shorts/17012731",
+   "img": "https://res.cloudinary.com/ssenseweb/image/upload/b_white,c_lpad,g_center,h_480,w_480/c_scale,h_480/f_auto,dpr_1.0/252547M193008_1.jpg",
+   "price": 64.0,
+   "was": 115.0,
+   "pct": 44,
+   "tier": "good",
+   "cat": "menswear",
+   "priority": true,
+   "source": "SSENSE",
+   "sizes": [
+    "S"
+   ],
+   "returns": "Free returns, 30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "ss-19259161",
+   "title": "Hugo Black Straight-Fit Mercerised Cotton Chino Shorts",
+   "brand": "Hugo",
+   "store": "SSENSE",
+   "url": "https://www.ssense.com/en-us/men/product/hugo-hugo-boss/black-straight-fit-mercerised-cotton-chino-shorts/19259161",
+   "post": "https://www.ssense.com/en-us/men/product/hugo-hugo-boss/black-straight-fit-mercerised-cotton-chino-shorts/19259161",
+   "img": "https://res.cloudinary.com/ssenseweb/image/upload/b_white,c_lpad,g_center,h_480,w_480/c_scale,h_480/f_auto,dpr_1.0/262084M193000_1.jpg",
+   "price": 72.0,
+   "was": 120.0,
+   "pct": 40,
+   "tier": "good",
+   "cat": "menswear",
+   "priority": true,
+   "source": "SSENSE",
+   "sizes": [
+    "S",
+    "M"
+   ],
+   "returns": "Free returns, 30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "sh-www.stanley1913.com-5019777269819",
+   "title": "Stanley The Quencher\u00ae H2.0 Flowstate\u2122 Tumbler | 40 OZ",
+   "brand": "Stanley",
+   "store": "Stanley",
+   "url": "https://www.stanley1913.com/products/adventure-quencher-travel-tumbler-40-oz",
+   "post": "https://www.stanley1913.com/products/adventure-quencher-travel-tumbler-40-oz",
+   "img": "https://cdn.shopify.com/s/files/1/0375/3269/6635/files/Web_PNG_Square-The_Quencher_H2.0_FlowState_Tumbler_40OZ_-_Purple_Dust_-_Front.png?v=1770952011&width=480",
+   "price": 22.5,
+   "was": 45.0,
+   "pct": 50,
+   "tier": "good",
+   "cat": "household",
+   "priority": true,
+   "source": "Stanley",
+   "sizes": [],
+   "returns": "30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "sh-www.stanley1913.com-6930286837887",
+   "title": "Stanley The Quencher\u00ae H2.0 Flowstate\u2122 Tumbler | 30 OZ",
+   "brand": "Stanley",
+   "store": "Stanley",
+   "url": "https://www.stanley1913.com/products/adventure-quencher-travel-tumbler-30-oz",
+   "post": "https://www.stanley1913.com/products/adventure-quencher-travel-tumbler-30-oz",
+   "img": "https://cdn.shopify.com/s/files/1/0375/3269/6635/files/B2B_Web_PNG-TheQuencherH2.OFlowStateTumbler30OZ-Nectarine-Front.png?v=1762181991&width=480",
+   "price": 20.0,
+   "was": 40.0,
+   "pct": 50,
+   "tier": "good",
+   "cat": "household",
+   "priority": true,
+   "source": "Stanley",
+   "sizes": [],
+   "returns": "30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "sh-www.stanley1913.com-6556721971259",
+   "title": "Stanley The IceFlow\u00ae Flip Straw Tumbler | 30 OZ",
+   "brand": "Stanley",
+   "store": "Stanley",
+   "url": "https://www.stanley1913.com/products/the-iceflow-flip-straw-tumbler-30-oz",
+   "post": "https://www.stanley1913.com/products/the-iceflow-flip-straw-tumbler-30-oz",
+   "img": "https://cdn.shopify.com/s/files/1/0375/3269/6635/files/Web_PNG_Square-HARO_ZEB-CZ_The_IceFlow_Flip_Straw_Tumbler_30OZ_-_Pink_Mesa_-_Front.png?v=1762181950&width=480",
+   "price": 24.0,
+   "was": 40.0,
+   "pct": 40,
+   "tier": "good",
+   "cat": "household",
+   "priority": true,
+   "source": "Stanley",
+   "sizes": [],
+   "returns": "30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "sh-www.stanley1913.com-8160971980927",
+   "title": "Stanley 1913 The Quencher\u00ae ProTour Flip Straw Tumbler | 40 OZ",
+   "brand": "Stanley 1913",
+   "store": "Stanley",
+   "url": "https://www.stanley1913.com/products/quencher-protour-flipstraw-tumbler",
+   "post": "https://www.stanley1913.com/products/quencher-protour-flipstraw-tumbler",
+   "img": "https://cdn.shopify.com/s/files/1/0375/3269/6635/files/Web_PNG_Square-2025-10-10_The_Quencher_ProTour_Flip_Straw_Tumbler_40OZ_-_Blue_Sky_-_Front.png?v=1769101387&width=480",
+   "price": 33.75,
+   "was": 50.0,
+   "pct": 32,
+   "tier": "good",
+   "cat": "household",
+   "priority": true,
+   "source": "Stanley",
+   "sizes": [],
+   "returns": "30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "sh-www.stanley1913.com-8160972144767",
+   "title": "Stanley 1913 The Quencher\u00ae ProTour Flip Straw Tumbler | 30 OZ",
+   "brand": "Stanley 1913",
+   "store": "Stanley",
+   "url": "https://www.stanley1913.com/products/the-quencher-protour-flip-straw-tumbler-30-oz",
+   "post": "https://www.stanley1913.com/products/the-quencher-protour-flip-straw-tumbler-30-oz",
+   "img": "https://cdn.shopify.com/s/files/1/0375/3269/6635/files/Web_PNG_Square-The_Quencher_ProTour_Flip_Straw_Tumbler-30_oz_0.89_L-Champagne-Front_d040378a-08fd-46cc-bfb2-4a88541a1844.png?v=1783108896&width=480",
+   "price": 30.0,
+   "was": 45.0,
+   "pct": 33,
+   "tier": "good",
+   "cat": "household",
+   "priority": true,
+   "source": "Stanley",
+   "sizes": [],
+   "returns": "30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "sh-www.stanley1913.com-8160857391231",
+   "title": "Stanley The Quencher\u00ae H2.0 FlowState\u2122 Tumbler  | 40 OZ - Stanley Create",
+   "brand": "Stanley",
+   "store": "Stanley",
+   "url": "https://www.stanley1913.com/products/the-quencher-h2-0-flowstate\u2122-tumbler-40-oz-sc",
+   "post": "https://www.stanley1913.com/products/the-quencher-h2-0-flowstate\u2122-tumbler-40-oz-sc",
+   "img": "https://cdn.shopify.com/s/files/1/0375/3269/6635/files/Web_PNG_Square-TheQuencherH2.OFlowState_Tumbler40OZ-Peony-Front_8e540685-7fee-4dd1-a95c-92fafbed48e4.png?v=1762182049&width=480",
+   "price": 22.5,
+   "was": 45.0,
+   "pct": 50,
+   "tier": "good",
+   "cat": "household",
+   "priority": true,
+   "source": "Stanley",
+   "sizes": [],
+   "returns": "30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "sh-www.stanley1913.com-6556691103803",
+   "title": "Stanley The IceFlow\u00ae Flip Straw Tumbler | 20 OZ",
+   "brand": "Stanley",
+   "store": "Stanley",
+   "url": "https://www.stanley1913.com/products/the-iceflow-flip-straw-tumbler-20-oz",
+   "post": "https://www.stanley1913.com/products/the-iceflow-flip-straw-tumbler-20-oz",
+   "img": "https://cdn.shopify.com/s/files/1/0375/3269/6635/files/B2B_Web_PNG-TheIceFlowTMFlipStrawTumbler20OZ-Mist-Front.png?v=1762181950&width=480",
+   "price": 16.88,
+   "was": 30.0,
+   "pct": 44,
+   "tier": "good",
+   "cat": "household",
+   "priority": true,
+   "source": "Stanley",
+   "sizes": [],
+   "returns": "30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "sh-www.stanley1913.com-8160857456767",
+   "title": "Stanley The Quencher\u00ae H2.0 Flowstate\u2122 Tumbler | 30 OZ - Stanley Create",
+   "brand": "Stanley",
+   "store": "Stanley",
+   "url": "https://www.stanley1913.com/products/the-quencher-h2-0-flowstate\u2122-tumbler-30-oz-sc",
+   "post": "https://www.stanley1913.com/products/the-quencher-h2-0-flowstate\u2122-tumbler-30-oz-sc",
+   "img": "https://cdn.shopify.com/s/files/1/0375/3269/6635/files/Web_PNG_Square-TheQuencherH2.OFlowState_Tumbler30OZ-Peony-Front_1b1639d5-125b-4e1d-ba0a-df5a7e2cc4b5.png?v=1762182051&width=480",
+   "price": 20.0,
+   "was": 40.0,
+   "pct": 50,
+   "tier": "good",
+   "cat": "household",
+   "priority": true,
+   "source": "Stanley",
+   "sizes": [],
+   "returns": "30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "sh-www.stanley1913.com-8160938852479",
+   "title": "Stanley 1913 The Quencher\u00ae H2.O FlowState\u2122 Tumbler | 14 OZ",
+   "brand": "Stanley 1913",
+   "store": "Stanley",
+   "url": "https://www.stanley1913.com/products/quencher-h2-o-flowstate-tumbler-14-oz-handle",
+   "post": "https://www.stanley1913.com/products/quencher-h2-o-flowstate-tumbler-14-oz-handle",
+   "img": "https://cdn.shopify.com/s/files/1/0375/3269/6635/files/Web_PNG_Square-TheQuencherH2.OFlowStateTumblerwhandle14OZ-Cream2.0-Front.png?v=1762182207&width=480",
+   "price": 12.5,
+   "was": 25.0,
+   "pct": 50,
+   "tier": "good",
+   "cat": "household",
+   "priority": true,
+   "source": "Stanley",
+   "sizes": [],
+   "returns": "30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "sh-www.stanley1913.com-8160938885247",
+   "title": "Stanley The Quencher\u00ae H2.O FlowState\u2122 Tumbler | 20 OZ",
+   "brand": "Stanley",
+   "store": "Stanley",
+   "url": "https://www.stanley1913.com/products/the-quencher-h2-o-flowstate-tumbler-with-handle-20-oz",
+   "post": "https://www.stanley1913.com/products/the-quencher-h2-o-flowstate-tumbler-with-handle-20-oz",
+   "img": "https://cdn.shopify.com/s/files/1/0375/3269/6635/files/Web_PNG_Square-TheQuencherH2.OFlowState_Tumblerwithhandle20OZ-Mist-Front_ff4037a6-3242-490b-99d2-7462528bedb6.png?v=1762182207&width=480",
+   "price": 17.5,
+   "was": 35.0,
+   "pct": 50,
+   "tier": "good",
+   "cat": "household",
+   "priority": true,
+   "source": "Stanley",
+   "sizes": [],
+   "returns": "30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "sh-www.stanley1913.com-8160857686143",
+   "title": "Stanley The IceFlow\u00ae Flip Straw Tumbler | 20 OZ - Stanley Create",
+   "brand": "Stanley",
+   "store": "Stanley",
+   "url": "https://www.stanley1913.com/products/the-iceflow-flip-straw-tumbler-20-oz-sc",
+   "post": "https://www.stanley1913.com/products/the-iceflow-flip-straw-tumbler-20-oz-sc",
+   "img": "https://cdn.shopify.com/s/files/1/0375/3269/6635/files/B2B_Web_PNG-TheIceFlowTMFlipStrawTumbler20OZ-Ash-Front_ea73ab6e-2209-4ea3-9e64-e1ca0da298f7.png?v=1762182055&width=480",
+   "price": 16.88,
+   "was": 30.0,
+   "pct": 44,
+   "tier": "good",
+   "cat": "household",
+   "priority": true,
+   "source": "Stanley",
+   "sizes": [],
+   "returns": "30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "sh-www.stanley1913.com-14973182706024",
+   "title": "Stanley 1913 The Quencher\u00ae H2.0 Fluted Tumbler  | 40 OZ",
+   "brand": "Stanley 1913",
+   "store": "Stanley",
+   "url": "https://www.stanley1913.com/products/quencher-h2-0-fluted-tumbler-40-oz",
+   "post": "https://www.stanley1913.com/products/quencher-h2-0-fluted-tumbler-40-oz",
+   "img": "https://cdn.shopify.com/s/files/1/0375/3269/6635/files/Web_PNG_Square-TheQuencherH20FlutedTextureTumbler40OZ-BlackPVD-Front.png?v=1762182298&width=480",
+   "price": 25.0,
+   "was": 50.0,
+   "pct": 50,
+   "tier": "good",
+   "cat": "household",
+   "priority": true,
+   "source": "Stanley",
+   "sizes": [],
+   "returns": "30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "sh-www.stanley1913.com-14973429547368",
+   "title": "Stanley 1913 The Flowstate\u2122 Spring Bottle | 20 OZ",
+   "brand": "Stanley 1913",
+   "store": "Stanley",
+   "url": "https://www.stanley1913.com/products/flowstate-spring-bottle-20-oz",
+   "post": "https://www.stanley1913.com/products/flowstate-spring-bottle-20-oz",
+   "img": "https://cdn.shopify.com/s/files/1/0375/3269/6635/files/Web_PNG_Square-TheFlowstateSpringBottle20oz-Black2.0-Front.png?v=1775572782&width=480",
+   "price": 21.0,
+   "was": 35.0,
+   "pct": 40,
+   "tier": "good",
+   "cat": "household",
+   "priority": true,
+   "source": "Stanley",
+   "sizes": [],
+   "returns": "30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "sh-www.stanley1913.com-14973522215272",
+   "title": "Stanley 1913 Halloween Quencher\u00ae H2.0 Flowstate\u2122 Tumbler |\u00a040 OZ",
+   "brand": "Stanley 1913",
+   "store": "Stanley",
+   "url": "https://www.stanley1913.com/products/halloween-quencher\u00ae-h2-0-flowstate\u2122-tumbler-40-oz",
+   "post": "https://www.stanley1913.com/products/halloween-quencher\u00ae-h2-0-flowstate\u2122-tumbler-40-oz",
+   "img": "https://cdn.shopify.com/s/files/1/0375/3269/6635/files/Web_PNG_Square-TheQuencherH2.0FlowstateTumbler-40oz1.18L-BordeauxLace-Front.png?v=1788889112&width=480",
+   "price": 30.0,
+   "was": 50.0,
+   "pct": 40,
+   "tier": "good",
+   "cat": "household",
+   "priority": true,
+   "source": "Stanley",
+   "sizes": [],
+   "returns": "30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "sh-www.stanley1913.com-14973496852840",
+   "title": "Stanley 1913 The IceFlow\u00ae Flip Straw Tumbler | 30 OZ",
+   "brand": "Stanley 1913",
+   "store": "Stanley",
+   "url": "https://www.stanley1913.com/products/iceflow-flip-straw-tumbler-30-oz",
+   "post": "https://www.stanley1913.com/products/iceflow-flip-straw-tumbler-30-oz",
+   "img": "https://cdn.shopify.com/s/files/1/0375/3269/6635/files/Web_PNG_Square-TheIceFlowFlipStraw2.0Tumbler30oz-DaffodilEmerald-Front.png?v=1781548582&width=480",
+   "price": 21.0,
+   "was": 35.0,
+   "pct": 40,
+   "tier": "good",
+   "cat": "household",
+   "priority": true,
+   "source": "Stanley",
+   "sizes": [],
+   "returns": "30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "sh-www.stanley1913.com-14973182771560",
+   "title": "Stanley The Quencher\u00ae H2.0 Fluted Tumbler | 30 OZ",
+   "brand": "Stanley",
+   "store": "Stanley",
+   "url": "https://www.stanley1913.com/products/quencher-h2-0-fluted-tumbler-30-oz",
+   "post": "https://www.stanley1913.com/products/quencher-h2-0-fluted-tumbler-30-oz",
+   "img": "https://cdn.shopify.com/s/files/1/0375/3269/6635/files/Web_PNG_Square-TheQuencherFlutedTextureTumbler30OZ-AshGloss-Front.png?v=1762182299&width=480",
+   "price": 22.5,
+   "was": 45.0,
+   "pct": 50,
+   "tier": "good",
+   "cat": "household",
+   "priority": true,
+   "source": "Stanley",
+   "sizes": [],
+   "returns": "30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "sh-www.stanley1913.com-14973508845928",
+   "title": "Stanley 1913 The\u00a0Flowstate\u2122 Spring Water Bottle | 20 OZ",
+   "brand": "Stanley 1913",
+   "store": "Stanley",
+   "url": "https://www.stanley1913.com/products/flowstate-spring-bottle-20-oz-fall-refresh",
+   "post": "https://www.stanley1913.com/products/flowstate-spring-bottle-20-oz-fall-refresh",
+   "img": "https://cdn.shopify.com/s/files/1/0375/3269/6635/files/Web_PNG_Square-The_Flowstate_Spring_Bottle-20_oz_0.59_L-Bedrock_Gloss-Front.png?v=1788291488&width=480",
+   "price": 21.0,
+   "was": 35.0,
+   "pct": 40,
+   "tier": "good",
+   "cat": "household",
+   "priority": true,
+   "source": "Stanley",
+   "sizes": [],
+   "returns": "30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "sh-www.stanley1913.com-14973378199912",
+   "title": "Stanley 1913 The Vitalize\u2122 Backpack | 30.9 QT",
+   "brand": "Stanley 1913",
+   "store": "Stanley",
+   "url": "https://www.stanley1913.com/products/vitalize-macro-method-backpack-30-9-qt",
+   "post": "https://www.stanley1913.com/products/vitalize-macro-method-backpack-30-9-qt",
+   "img": "https://cdn.shopify.com/s/files/1/0375/3269/6635/files/Web_PNG_Square-TheVitalizeMacroMethodBackpack30.9QT-RoseQuartz-Front.png?v=1770240614&width=480",
+   "price": 69.0,
+   "was": 115.0,
+   "pct": 40,
+   "tier": "good",
+   "cat": "household",
+   "priority": true,
+   "source": "Stanley",
+   "sizes": [],
+   "returns": "30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "sh-www.stanley1913.com-14973308469608",
+   "title": "Stanley 1913 The Wellspring Bottle | 24 OZ",
+   "brand": "Stanley 1913",
+   "store": "Stanley",
+   "url": "https://www.stanley1913.com/products/the-wellspring-bottle-24-oz",
+   "post": "https://www.stanley1913.com/products/the-wellspring-bottle-24-oz",
+   "img": "https://cdn.shopify.com/s/files/1/0375/3269/6635/files/Web_PNG_Square-TheStanleyWellspringBottle24OZ-TwilightGloss-Front.png?v=1761751519&width=480",
+   "price": 27.0,
+   "was": 45.0,
+   "pct": 40,
+   "tier": "good",
+   "cat": "household",
+   "priority": true,
+   "source": "Stanley",
+   "sizes": [],
+   "returns": "30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "sh-www.stanley1913.com-14973182837096",
+   "title": "Stanley The Quencher\u00ae H2.0 Fluted Tumbler with Handle | 20 OZ",
+   "brand": "Stanley",
+   "store": "Stanley",
+   "url": "https://www.stanley1913.com/products/quencher-h2-0-fluted-tumbler-20-oz",
+   "post": "https://www.stanley1913.com/products/quencher-h2-0-fluted-tumbler-20-oz",
+   "img": "https://cdn.shopify.com/s/files/1/0375/3269/6635/files/Web_PNG_Square-TheQuencherFlutedTextureTumbler20OZ-MarinaShine-Front.png?v=1762182299&width=480",
+   "price": 20.0,
+   "was": 40.0,
+   "pct": 50,
+   "tier": "good",
+   "cat": "household",
+   "priority": true,
+   "source": "Stanley",
+   "sizes": [],
+   "returns": "30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "sh-www.stanley1913.com-14973509075304",
+   "title": "Stanley 1913 The Quencher\u00ae ProTour Flip Straw Tumbler | 40 OZ",
+   "brand": "Stanley 1913",
+   "store": "Stanley",
+   "url": "https://www.stanley1913.com/products/the-quencher-protour-flip-straw-tumbler-40-oz-fall-refresh",
+   "post": "https://www.stanley1913.com/products/the-quencher-protour-flip-straw-tumbler-40-oz-fall-refresh",
+   "img": "https://cdn.shopify.com/s/files/1/0375/3269/6635/files/Web_PNG_Square-TheQuencherProTourFlipStrawTumbler-40oz1.18L-BedrockGloss-Front_fe8a3fd6-379a-40ec-ad59-d9dc653bf262.png?v=1788296884&width=480",
+   "price": 30.0,
+   "was": 50.0,
+   "pct": 40,
+   "tier": "good",
+   "cat": "household",
+   "priority": true,
+   "source": "Stanley",
+   "sizes": [],
+   "returns": "30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "sh-www.stanley1913.com-14973635068264",
+   "title": "Stanley 1913 Halloween Quencher\u00ae  H2.0 Flowstate\u2122 Tumbler |\u00a020 OZ",
+   "brand": "Stanley 1913",
+   "store": "Stanley",
+   "url": "https://www.stanley1913.com/products/halloween-quencher\u00ae-h2-0-flowstate\u2122-tumbler-20-oz",
+   "post": "https://www.stanley1913.com/products/halloween-quencher\u00ae-h2-0-flowstate\u2122-tumbler-20-oz",
+   "img": "https://cdn.shopify.com/s/files/1/0375/3269/6635/files/Web_PNG_Square-The_Quencher_H2.0_Flowstate_Tumbler-20_oz_0.59_L-Bordeaux_Lace-Front.png?v=1788558019&width=480",
+   "price": 24.0,
+   "was": 40.0,
+   "pct": 40,
+   "tier": "good",
+   "cat": "household",
+   "priority": true,
+   "source": "Stanley",
+   "sizes": [],
+   "returns": "30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "sh-www.stanley1913.com-14973508977000",
+   "title": "Stanley 1913 The Quencher\u00ae ProTour Flip Straw Tumbler | 30 OZ",
+   "brand": "Stanley 1913",
+   "store": "Stanley",
+   "url": "https://www.stanley1913.com/products/quencher-protour-flip-straw-tumbler-30-oz-fall-refresh",
+   "post": "https://www.stanley1913.com/products/quencher-protour-flip-straw-tumbler-30-oz-fall-refresh",
+   "img": "https://cdn.shopify.com/s/files/1/0375/3269/6635/files/Web_PNG_Square-The_Quencher_ProTour_Flip_Straw_Tumbler-30_oz_0.89_L-Bedrock_Gloss-Front.png?v=1788375216&width=480",
+   "price": 27.0,
+   "was": 45.0,
+   "pct": 40,
+   "tier": "good",
+   "cat": "household",
+   "priority": true,
+   "source": "Stanley",
+   "sizes": [],
+   "returns": "30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "sh-www.stanley1913.com-14973622387048",
+   "title": "Stanley 1913 Everyday Camp Cup 12 OZ",
+   "brand": "Stanley 1913",
+   "store": "Stanley",
+   "url": "https://www.stanley1913.com/products/everyday-camp-cup-12-oz-fall-refresh",
+   "post": "https://www.stanley1913.com/products/everyday-camp-cup-12-oz-fall-refresh",
+   "img": "https://cdn.shopify.com/s/files/1/0375/3269/6635/files/Web_PNG_Square-TheEverydayCampCup-12oz0.35L-BedrockGloss-Front_4647d9b2-0e6c-418e-b1a6-ec0432f57fe6.png?v=1788294300&width=480",
+   "price": 18.0,
+   "was": 30.0,
+   "pct": 40,
+   "tier": "good",
+   "cat": "household",
+   "priority": true,
+   "source": "Stanley",
+   "sizes": [],
+   "returns": "30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "sh-www.stanley1913.com-14973429317992",
+   "title": "Stanley 1913 The Quencher\u00ae ProTour Flip Straw Tumbler | 30 OZ",
+   "brand": "Stanley 1913",
+   "store": "Stanley",
+   "url": "https://www.stanley1913.com/products/quencher-protour-flip-straw-tumbler-30-oz-mothers-day",
+   "post": "https://www.stanley1913.com/products/quencher-protour-flip-straw-tumbler-30-oz-mothers-day",
+   "img": "https://cdn.shopify.com/s/files/1/0375/3269/6635/files/Web_PNG_Square-2026-01-16_TheQuencherProTourFlipStrawTumbler30OZ-WildBlossoms-Front.png?v=1775504565&width=480",
+   "price": 30.0,
+   "was": 50.0,
+   "pct": 40,
+   "tier": "good",
+   "cat": "household",
+   "priority": true,
+   "source": "Stanley",
+   "sizes": [],
+   "returns": "30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "sh-www.stanley1913.com-14973214261608",
+   "title": "Stanley The Fresh-To-Table Leakproof Bowl | 1 QT",
+   "brand": "Stanley",
+   "store": "Stanley",
+   "url": "https://www.stanley1913.com/products/adventure-fresh-to-table-food-bowl-1-qt",
+   "post": "https://www.stanley1913.com/products/adventure-fresh-to-table-food-bowl-1-qt",
+   "img": "https://cdn.shopify.com/s/files/1/0375/3269/6635/files/Web_PNG_Square-The_Fresh-To-Table_Leakproof_Bowl_-_Spring_Green_-_Front.png?v=1769544352&width=480",
+   "price": 22.5,
+   "was": 40.0,
+   "pct": 44,
+   "tier": "good",
+   "cat": "household",
+   "priority": true,
+   "source": "Stanley",
+   "sizes": [],
+   "returns": "30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "sh-www.stanley1913.com-14973522018664",
+   "title": "Stanley 1913 The Transit 2.0 Flip Top Mug 16 OZ",
+   "brand": "Stanley 1913",
+   "store": "Stanley",
+   "url": "https://www.stanley1913.com/products/transit-flip-top-mug-16-oz-fall-refresh",
+   "post": "https://www.stanley1913.com/products/transit-flip-top-mug-16-oz-fall-refresh",
+   "img": "https://cdn.shopify.com/s/files/1/0375/3269/6635/files/Web_PNG_Square-TheTransitFlipTopMug-16oz0.47L-FigGloss-Front_c309e79c-07e4-4409-af1d-edf23cb33f79.png?v=1788295712&width=480",
+   "price": 24.0,
+   "was": 40.0,
+   "pct": 40,
+   "tier": "good",
+   "cat": "household",
+   "priority": true,
+   "source": "Stanley",
+   "sizes": [],
+   "returns": "30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "sh-www.stanley1913.com-14973502882152",
+   "title": "Stanley 1913 The Quencher\u00ae H2.0 FlowState\u2122 Tumbler  | 40 OZ",
+   "brand": "Stanley 1913",
+   "store": "Stanley",
+   "url": "https://www.stanley1913.com/products/quencher-h2-0-flowstate-tumbler-40-oz-1-18-l-bts",
+   "post": "https://www.stanley1913.com/products/quencher-h2-0-flowstate-tumbler-40-oz-1-18-l-bts",
+   "img": "https://cdn.shopify.com/s/files/1/0375/3269/6635/files/Web_PNG_Square-TheQuencherH2.0FlowstateTumbler-40OZ-BlueDreamWildFlower-Front.png?v=1782915015&width=480",
+   "price": 33.0,
+   "was": 55.0,
+   "pct": 40,
+   "tier": "good",
+   "cat": "household",
+   "priority": true,
+   "source": "Stanley",
+   "sizes": [],
+   "returns": "30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "sh-www.stanley1913.com-14973622747496",
+   "title": "Stanley 1913 The IceFlow\u00ae  Flip Straw Tumbler 2.0 | 30 OZ",
+   "brand": "Stanley 1913",
+   "store": "Stanley",
+   "url": "https://www.stanley1913.com/products/iceflow-flip-straw-tumbler-30-oz-fall-refresh",
+   "post": "https://www.stanley1913.com/products/iceflow-flip-straw-tumbler-30-oz-fall-refresh",
+   "img": "https://cdn.shopify.com/s/files/1/0375/3269/6635/files/Web_PNG_Square-The_IceFlow_Flip_Straw_2.0_Tumbler-30_oz_0.89_L-Bedrock_Gloss-Front.png?v=1788366886&width=480",
+   "price": 24.0,
+   "was": 40.0,
+   "pct": 40,
+   "tier": "good",
+   "cat": "household",
+   "priority": true,
+   "source": "Stanley",
+   "sizes": [],
+   "returns": "30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "sh-www.stanley1913.com-14973637624168",
+   "title": "Stanley 1913 The Quencher\u00ae ProTour Flip Straw Tumbler | 30 OZ",
+   "brand": "Stanley 1913",
+   "store": "Stanley",
+   "url": "https://www.stanley1913.com/products/quencher-protour-flip-straw-tumbler-30-oz-dia-de-muertos",
+   "post": "https://www.stanley1913.com/products/quencher-protour-flip-straw-tumbler-30-oz-dia-de-muertos",
+   "img": "https://cdn.shopify.com/s/files/1/0375/3269/6635/files/Web_PNG_Square-The_Quencher_ProTour_Flip_Straw_Tumbler-30_oz_0.89_L-Marigold_Papel_Picado-Front.png?v=1789592471&width=480",
+   "price": 27.0,
+   "was": 45.0,
+   "pct": 40,
+   "tier": "good",
+   "cat": "household",
+   "priority": true,
+   "source": "Stanley",
+   "sizes": [],
+   "returns": "30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "sh-www.stanley1913.com-14973496885608",
+   "title": "Stanley 1913 The IceFlow\u00ae Flip Straw Tumbler | 20 OZ",
+   "brand": "Stanley 1913",
+   "store": "Stanley",
+   "url": "https://www.stanley1913.com/products/iceflow-flip-straw-tumbler-20-oz",
+   "post": "https://www.stanley1913.com/products/iceflow-flip-straw-tumbler-20-oz",
+   "img": "https://cdn.shopify.com/s/files/1/0375/3269/6635/files/Web_PNG_Square-TheIceFlowFlipStraw2.0Tumbler20oz-EmeraldHoneydew-Front.png?v=1781548534&width=480",
+   "price": 18.0,
+   "was": 40.0,
+   "pct": 55,
+   "tier": "good",
+   "cat": "household",
+   "priority": true,
+   "source": "Stanley",
+   "sizes": [],
+   "returns": "30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "sh-www.stanley1913.com-14973499605352",
+   "title": "Stanley 1913 The Quencher\u00ae ProTour Flip Straw Tumbler | 40 OZ",
+   "brand": "Stanley 1913",
+   "store": "Stanley",
+   "url": "https://www.stanley1913.com/products/the-quencher-protour-flip-straw-tumbler-40-oz-bts",
+   "post": "https://www.stanley1913.com/products/the-quencher-protour-flip-straw-tumbler-40-oz-bts",
+   "img": "https://cdn.shopify.com/s/files/1/0375/3269/6635/files/Web_PNG_Square-TheQuencherProTourFlipStrawTumbler-40oz1.18L-AtomicGradient-Front.png?v=1782497440&width=480",
+   "price": 27.0,
+   "was": 50.0,
+   "pct": 46,
+   "tier": "good",
+   "cat": "household",
+   "priority": true,
+   "source": "Stanley",
+   "sizes": [],
+   "returns": "30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "sh-www.stanley1913.com-14973494198632",
+   "title": "Stanley 1913 The Quencher\u00ae H2.0 Flowstate\u2122 Tumbler | 40 OZ",
+   "brand": "Stanley 1913",
+   "store": "Stanley",
+   "url": "https://www.stanley1913.com/products/quencher-h2-0-flowstate-tumbler-40-oz-summer-nights",
+   "post": "https://www.stanley1913.com/products/quencher-h2-0-flowstate-tumbler-40-oz-summer-nights",
+   "img": "https://cdn.shopify.com/s/files/1/0375/3269/6635/files/Web_PNG_Square-The_Quencher_H2.0_Flowstate_Tumbler_40oz_-_Chili_Red_Fireworks_-Front.png?v=1780605942&width=480",
+   "price": 27.0,
+   "was": 45.0,
+   "pct": 40,
+   "tier": "good",
+   "cat": "household",
+   "priority": true,
+   "source": "Stanley",
+   "sizes": [],
+   "returns": "30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "sh-www.stanley1913.com-14973499638120",
+   "title": "Stanley 1913 The Quencher\u00ae ProTour Flip Straw Tumbler | 30 OZ",
+   "brand": "Stanley 1913",
+   "store": "Stanley",
+   "url": "https://www.stanley1913.com/products/the-quencher-protour-flip-straw-tumbler-30-oz-bts",
+   "post": "https://www.stanley1913.com/products/the-quencher-protour-flip-straw-tumbler-30-oz-bts",
+   "img": "https://cdn.shopify.com/s/files/1/0375/3269/6635/files/Web_PNG_Square-TheQuencherProTourFlipStrawTumbler30oz-SorbetDaisies-Front.png?v=1782507850&width=480",
+   "price": 24.0,
+   "was": 50.0,
+   "pct": 52,
+   "tier": "good",
+   "cat": "household",
+   "priority": true,
+   "source": "Stanley",
+   "sizes": [],
+   "returns": "30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "sh-www.stanley1913.com-14973496787304",
+   "title": "Stanley 1913 The IceFlow\u00ae Flip Straw Jug | 64 OZ",
+   "brand": "Stanley 1913",
+   "store": "Stanley",
+   "url": "https://www.stanley1913.com/products/iceflow-flip-straw-jug-64-oz",
+   "post": "https://www.stanley1913.com/products/iceflow-flip-straw-jug-64-oz",
+   "img": "https://cdn.shopify.com/s/files/1/0375/3269/6635/files/Web_PNG_Square-TheIceFlowFlipStraw2.0Jug-64OZ-CornflowerAdmiralBlue-Front.png?v=1781548602&width=480",
+   "price": 36.0,
+   "was": 60.0,
+   "pct": 40,
+   "tier": "good",
+   "cat": "household",
+   "priority": true,
+   "source": "Stanley",
+   "sizes": [],
+   "returns": "30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "sh-www.stanley1913.com-14973533749608",
+   "title": "Stanley 1913 The Quencher\u00ae ProTour Flip Straw Tumbler | 40 OZ - Stanley Create",
+   "brand": "Stanley 1913",
+   "store": "Stanley",
+   "url": "https://www.stanley1913.com/products/the-quencher-protour-flip-straw-tumbler-40-oz-fall-refresh-stanley-create",
+   "post": "https://www.stanley1913.com/products/the-quencher-protour-flip-straw-tumbler-40-oz-fall-refresh-stanley-create",
+   "img": "https://cdn.shopify.com/s/files/1/0375/3269/6635/files/Web_PNG_Square-TheQuencherProTourFlipStrawTumbler-40oz1.18L-BlossomGloss-Front.png?v=1788275821&width=480",
+   "price": 30.0,
+   "was": 50.0,
+   "pct": 40,
+   "tier": "good",
+   "cat": "household",
+   "priority": true,
+   "source": "Stanley",
+   "sizes": [],
+   "returns": "30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "sh-www.stanley1913.com-14973635625320",
+   "title": "Stanley 1913 Halloween Easy-Fill Wide Mouth Flask | 8 OZ",
+   "brand": "Stanley 1913",
+   "store": "Stanley",
+   "url": "https://www.stanley1913.com/products/halloween-easy-fill-wide-mouth-flask-8-oz",
+   "post": "https://www.stanley1913.com/products/halloween-easy-fill-wide-mouth-flask-8-oz",
+   "img": "https://cdn.shopify.com/s/files/1/0375/3269/6635/files/Web_PNG_Square-The_Easy-Fill_Wide_Mouth_Flask-8oz-Black_Magic-Front.png?v=1788909481&width=480",
+   "price": 18.6,
+   "was": 31.0,
+   "pct": 40,
+   "tier": "good",
+   "cat": "household",
+   "priority": true,
+   "source": "Stanley",
+   "sizes": [],
+   "returns": "30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "sh-www.stanley1913.com-14973502914920",
+   "title": "Stanley 1913 The Quencher\u00ae H2.0 Flowstate\u2122 Tumbler | 30 OZ",
+   "brand": "Stanley 1913",
+   "store": "Stanley",
+   "url": "https://www.stanley1913.com/products/quencher-h2-0-flowstate-tumbler-30-oz-0-88-l-bts",
+   "post": "https://www.stanley1913.com/products/quencher-h2-0-flowstate-tumbler-30-oz-0-88-l-bts",
+   "img": "https://cdn.shopify.com/s/files/1/0375/3269/6635/files/Web_PNG_Square-The_Quencher_H2.0_Flowstate_Tumbler_30OZ_-_Blue_Dream_Wildflower_-_Front.png?v=1782915017&width=480",
+   "price": 30.0,
+   "was": 50.0,
+   "pct": 40,
+   "tier": "good",
+   "cat": "household",
+   "priority": true,
+   "source": "Stanley",
+   "sizes": [],
+   "returns": "30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "sh-www.stanley1913.com-14973533782376",
+   "title": "Stanley 1913 The Quencher\u00ae ProTour Flip Straw Tumbler | 30 OZ - Stanley Create",
+   "brand": "Stanley 1913",
+   "store": "Stanley",
+   "url": "https://www.stanley1913.com/products/the-quencher-protour-flip-straw-tumbler-30-oz-fall-refresh-stanley-create",
+   "post": "https://www.stanley1913.com/products/the-quencher-protour-flip-straw-tumbler-30-oz-fall-refresh-stanley-create",
+   "img": "https://cdn.shopify.com/s/files/1/0375/3269/6635/files/Web_PNG_Square-TheQuencherProTourFlipStrawTumbler-30oz0.89L-BlossomGloss-Front.png?v=1788274417&width=480",
+   "price": 27.0,
+   "was": 45.0,
+   "pct": 40,
+   "tier": "good",
+   "cat": "household",
+   "priority": true,
+   "source": "Stanley",
+   "sizes": [],
+   "returns": "30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "sh-www.stanley1913.com-14973502325096",
+   "title": "Stanley 1913 All Day Mini Lunch Box | 4.2 QT",
+   "brand": "Stanley 1913",
+   "store": "Stanley",
+   "url": "https://www.stanley1913.com/products/all-day-mini-lunch-box-4-2-qt-3-97-l-bts",
+   "post": "https://www.stanley1913.com/products/all-day-mini-lunch-box-4-2-qt-3-97-l-bts",
+   "img": "https://cdn.shopify.com/s/files/1/0375/3269/6635/files/Web_PNG_Square-TheAllDayMiniLunchBox4.2QT-SorbetWildflower-Front.png?v=1782834681&width=480",
+   "price": 27.0,
+   "was": 55.0,
+   "pct": 51,
+   "tier": "good",
+   "cat": "household",
+   "priority": true,
+   "source": "Stanley",
+   "sizes": [],
+   "returns": "30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "sh-www.stanley1913.com-14973634314600",
+   "title": "Stanley The IceFlow\u00ae Flip Straw Tumbler | 30 OZ - Stanley Create",
+   "brand": "Stanley",
+   "store": "Stanley",
+   "url": "https://www.stanley1913.com/products/the-iceflow\u2122-flip-straw-tumbler-30-oz-fall-refresh-stanley-create",
+   "post": "https://www.stanley1913.com/products/the-iceflow\u2122-flip-straw-tumbler-30-oz-fall-refresh-stanley-create",
+   "img": "https://cdn.shopify.com/s/files/1/0375/3269/6635/files/Web_PNG_Square-TheIceFlowFlipStraw2.0Tumbler-30oz0.89L-BedrockGloss-Front.png?v=1788290744&width=480",
+   "price": 24.0,
+   "was": 40.0,
+   "pct": 40,
+   "tier": "good",
+   "cat": "household",
+   "priority": true,
+   "source": "Stanley",
+   "sizes": [],
+   "returns": "30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "sh-www.stanley1913.com-14973494231400",
+   "title": "Stanley 1913 The Quencher\u00ae H2.0 Flowstate\u2122 Tumbler | 30 OZ",
+   "brand": "Stanley 1913",
+   "store": "Stanley",
+   "url": "https://www.stanley1913.com/products/quencher-h2-0-flowstate-tumbler-30-oz-summer-nights",
+   "post": "https://www.stanley1913.com/products/quencher-h2-0-flowstate-tumbler-30-oz-summer-nights",
+   "img": "https://cdn.shopify.com/s/files/1/0375/3269/6635/files/Web_PNG_Square-The_Quencher_H2.0_Flowstate_Tumbler_30oz_-_Chili_Red_Fireworks_-Front.png?v=1780606802&width=480",
+   "price": 24.0,
+   "was": 40.0,
+   "pct": 40,
+   "tier": "good",
+   "cat": "household",
+   "priority": true,
+   "source": "Stanley",
+   "sizes": [],
+   "returns": "30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "sh-www.stanley1913.com-14973502947688",
+   "title": "Stanley 1913 The Transit Flip Top Mug | 16 OZ",
+   "brand": "Stanley 1913",
+   "store": "Stanley",
+   "url": "https://www.stanley1913.com/products/aerolight-transit-bottle-16-oz-0-47-l-bts",
+   "post": "https://www.stanley1913.com/products/aerolight-transit-bottle-16-oz-0-47-l-bts",
+   "img": "https://cdn.shopify.com/s/files/1/0375/3269/6635/files/Web_PNG_Square-2026-04-01TheTransitFlipTopMug-16OZ-BlueDreamWildflower-Front.png?v=1782915019&width=480",
+   "price": 24.0,
+   "was": 45.0,
+   "pct": 47,
+   "tier": "good",
+   "cat": "household",
+   "priority": true,
+   "source": "Stanley",
+   "sizes": [],
+   "returns": "30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "sh-www.stanley1913.com-14973361455464",
+   "title": "Stanley The Transit Flip Top Mug | 16 OZ - Stanley Create",
+   "brand": "Stanley",
+   "store": "Stanley",
+   "url": "https://www.stanley1913.com/products/the-transit-flip-top-mug-16-oz-stanley-create",
+   "post": "https://www.stanley1913.com/products/the-transit-flip-top-mug-16-oz-stanley-create",
+   "img": "https://cdn.shopify.com/s/files/1/0375/3269/6635/files/Web_PNG_Square-The_Transit_FlipTop_Mug_16OZ_-_Peach_Rose_-_Front_transparent_fe25e36b-62c6-4c71-bf2c-3e827f310f77.png?v=1773325580&width=480",
+   "price": 22.5,
+   "was": 35.0,
+   "pct": 36,
+   "tier": "good",
+   "cat": "household",
+   "priority": true,
+   "source": "Stanley",
+   "sizes": [],
+   "returns": "30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "sh-www.stanley1913.com-14973361127784",
+   "title": "Stanley The Quencher\u00ae H2.O FlowState\u2122 Tumbler | 20 OZ - Stanley Create",
+   "brand": "Stanley",
+   "store": "Stanley",
+   "url": "https://www.stanley1913.com/products/the-quencher-h2-o-flowstate\u2122-tumbler-20-oz-stanley-create",
+   "post": "https://www.stanley1913.com/products/the-quencher-h2-o-flowstate\u2122-tumbler-20-oz-stanley-create",
+   "img": "https://cdn.shopify.com/s/files/1/0375/3269/6635/files/Web_PNG_Square-TheQuencherH2.OFlowState_Tumblerwithhandle20OZ-Mist-Front_ff4037a6-3242-490b-99d2-7462528bedb6.png?v=1762182207&width=480",
+   "price": 17.5,
+   "was": 35.0,
+   "pct": 50,
+   "tier": "good",
+   "cat": "household",
+   "priority": true,
+   "source": "Stanley",
+   "sizes": [],
+   "returns": "30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "sh-www.stanley1913.com-14973360931176",
+   "title": "Stanley 1913 The Quencher\u00ae H2.O FlowState\u2122 Tumbler | 14 OZ - Stanley Create",
+   "brand": "Stanley 1913",
+   "store": "Stanley",
+   "url": "https://www.stanley1913.com/products/the-quencher-h2-o-flowstate\u2122-tumbler-14-oz-copy",
+   "post": "https://www.stanley1913.com/products/the-quencher-h2-o-flowstate\u2122-tumbler-14-oz-copy",
+   "img": "https://cdn.shopify.com/s/files/1/0375/3269/6635/files/Web_PNG_Square-TheQuencherH2.OFlowStateTumblerwhandle14OZ-Cream2.0-Front.png?v=1762182207&width=480",
+   "price": 12.5,
+   "was": 25.0,
+   "pct": 50,
+   "tier": "good",
+   "cat": "household",
+   "priority": true,
+   "source": "Stanley",
+   "sizes": [],
+   "returns": "30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "sh-www.stanley1913.com-14973508911464",
+   "title": "Stanley 1913 Adventure To-Go Bottle | 25 OZ",
+   "brand": "Stanley 1913",
+   "store": "Stanley",
+   "url": "https://www.stanley1913.com/products/adventure-to-go-bottle-25-oz-fall-refresh",
+   "post": "https://www.stanley1913.com/products/adventure-to-go-bottle-25-oz-fall-refresh",
+   "img": "https://cdn.shopify.com/s/files/1/0375/3269/6635/files/Web_PNG_Square-The_Adventure_To-Go_Bottle-25_oz_0.74_L-Fig_Gloss-Front_9af803b3-5e27-4081-8fcc-5a1b8d12a07d.png?v=1788289267&width=480",
+   "price": 19.8,
+   "was": 33.0,
+   "pct": 40,
+   "tier": "good",
+   "cat": "household",
+   "priority": true,
+   "source": "Stanley",
+   "sizes": [],
+   "returns": "30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "sh-www.stanley1913.com-14973521985896",
+   "title": "Stanley 1913 The Everyday Suburban Mug | 24 OZ",
+   "brand": "Stanley 1913",
+   "store": "Stanley",
+   "url": "https://www.stanley1913.com/products/everyday-suburban-mug-24-oz-fall-refresh",
+   "post": "https://www.stanley1913.com/products/everyday-suburban-mug-24-oz-fall-refresh",
+   "img": "https://cdn.shopify.com/s/files/1/0375/3269/6635/files/Web_PNG_Square-TheEverydaySuburbanMug-24oz0.71L-BedrockGloss-Front_90a68926-a9fd-458d-a4e9-5da735b3a3b9.png?v=1788296185&width=480",
+   "price": 24.0,
+   "was": 40.0,
+   "pct": 40,
+   "tier": "good",
+   "cat": "household",
+   "priority": true,
+   "source": "Stanley",
+   "sizes": [],
+   "returns": "30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "sh-www.stanley1913.com-14973502849384",
+   "title": "Stanley 1913 The Quencher\u00ae ProTour Flip Straw Tumbler | 20 OZ",
+   "brand": "Stanley 1913",
+   "store": "Stanley",
+   "url": "https://www.stanley1913.com/products/quencher-protour-flip-straw-tumbler-20-oz-0-59-l-bts",
+   "post": "https://www.stanley1913.com/products/quencher-protour-flip-straw-tumbler-20-oz-0-59-l-bts",
+   "img": "https://cdn.shopify.com/s/files/1/0375/3269/6635/files/Web_PNG_Square-TheQuencherProTourFlipStrawTumbler-20OZ-BlueDreamWildflower-Front.png?v=1782914551&width=480",
+   "price": 21.0,
+   "was": 45.0,
+   "pct": 53,
+   "tier": "good",
+   "cat": "household",
+   "priority": true,
+   "source": "Stanley",
+   "sizes": [],
+   "returns": "30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "sh-www.stanley1913.com-14973635002728",
+   "title": "Stanley 1913 Halloween Reserve Wine Tumbler | 11 OZ",
+   "brand": "Stanley 1913",
+   "store": "Stanley",
+   "url": "https://www.stanley1913.com/products/halloween-reserve-wine-tumbler-11-oz",
+   "post": "https://www.stanley1913.com/products/halloween-reserve-wine-tumbler-11-oz",
+   "img": "https://cdn.shopify.com/s/files/1/0375/3269/6635/files/Web_PNG_Square-The_Reserve_Wine_Tumbler-11oz-Black_Magic-Front.png?v=1788555737&width=480",
+   "price": 18.0,
+   "was": 30.0,
+   "pct": 40,
+   "tier": "good",
+   "cat": "household",
+   "priority": true,
+   "source": "Stanley",
+   "sizes": [],
+   "returns": "30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "sh-www.stanley1913.com-14973533880680",
+   "title": "Stanley 1913 The Transit Flip Top Mug | 16 OZ - Stanley Create",
+   "brand": "Stanley 1913",
+   "store": "Stanley",
+   "url": "https://www.stanley1913.com/products/the-transit-flip-top-mug-16-oz-fall-refresh-stanley-create",
+   "post": "https://www.stanley1913.com/products/the-transit-flip-top-mug-16-oz-fall-refresh-stanley-create",
+   "img": "https://cdn.shopify.com/s/files/1/0375/3269/6635/files/Web_PNG_Square-TheTransitFlipTopMug-16oz0.47L-FigGloss-Front.png?v=1788211485&width=480",
+   "price": 24.0,
+   "was": 40.0,
+   "pct": 40,
+   "tier": "good",
+   "cat": "household",
+   "priority": true,
+   "source": "Stanley",
+   "sizes": [],
+   "returns": "30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "sh-www.stanley1913.com-14973508223336",
+   "title": "Stanley 1913 The FlowState\u2122 Duo Lunchbox | 8.2 QT",
+   "brand": "Stanley 1913",
+   "store": "Stanley",
+   "url": "https://www.stanley1913.com/products/the-flowstate\u2122-duo-lunchbox-8-2-qt-7-76-l",
+   "post": "https://www.stanley1913.com/products/the-flowstate\u2122-duo-lunchbox-8-2-qt-7-76-l",
+   "img": "https://cdn.shopify.com/s/files/1/0375/3269/6635/files/Web_PNG_Square-TheFlowstateDuoLunchBox8.2QT-BlueDreamStone-Front.png?v=1784908031&width=480",
+   "price": 30.0,
+   "was": 45.0,
+   "pct": 33,
+   "tier": "good",
+   "cat": "household",
+   "priority": true,
+   "source": "Stanley",
+   "sizes": [],
+   "returns": "30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "sh-www.stanley1913.com-14973494952296",
+   "title": "Stanley 1913 The Everyday Tumbler | 16 OZ - Stanley Create",
+   "brand": "Stanley 1913",
+   "store": "Stanley",
+   "url": "https://www.stanley1913.com/products/the-everyday-tumbler-16-oz-copy",
+   "post": "https://www.stanley1913.com/products/the-everyday-tumbler-16-oz-copy",
+   "img": "https://cdn.shopify.com/s/files/1/0375/3269/6635/files/Web_PNG_Square-TheEverydayTumbler16OZ-Black2.0-Front.png?v=1762182326&width=480",
+   "price": 15.0,
+   "was": 30.0,
+   "pct": 50,
+   "tier": "good",
+   "cat": "household",
+   "priority": true,
+   "source": "Stanley",
+   "sizes": [],
+   "returns": "30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "sh-www.stanley1913.com-14973625008488",
+   "title": "Stanley 1913 Everyday Camp Cup | 12 OZ - Stanley Create",
+   "brand": "Stanley 1913",
+   "store": "Stanley",
+   "url": "https://www.stanley1913.com/products/everyday-camp-cup-12-oz-fall-refresh-stanley-create",
+   "post": "https://www.stanley1913.com/products/everyday-camp-cup-12-oz-fall-refresh-stanley-create",
+   "img": "https://cdn.shopify.com/s/files/1/0375/3269/6635/files/Web_PNG_Square-TheEverydayCampCup-12oz0.35L-FigGloss-Front.png?v=1788211063&width=480",
+   "price": 18.0,
+   "was": 30.0,
+   "pct": 40,
+   "tier": "good",
+   "cat": "household",
+   "priority": true,
+   "source": "Stanley",
+   "sizes": [],
+   "returns": "30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "sh-www.stanley1913.com-14973637656936",
+   "title": "Stanley 1913 The Quencher\u00ae ProTour Flip Straw Tumbler | 20 OZ",
+   "brand": "Stanley 1913",
+   "store": "Stanley",
+   "url": "https://www.stanley1913.com/products/quencher-protour-flip-straw-tumbler-20-oz-dia-de-muertos",
+   "post": "https://www.stanley1913.com/products/quencher-protour-flip-straw-tumbler-20-oz-dia-de-muertos",
+   "img": "https://cdn.shopify.com/s/files/1/0375/3269/6635/files/Web_PNG_Square-The_Quencher_ProTour_Flip_Straw_Tumbler-20_oz_0.59_L-Marigold_Papel_Picado-Front.png?v=1789595345&width=480",
+   "price": 24.0,
+   "was": 40.0,
+   "pct": 40,
+   "tier": "good",
+   "cat": "household",
+   "priority": true,
+   "source": "Stanley",
+   "sizes": [],
+   "returns": "30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "sh-www.stanley1913.com-14973508944232",
+   "title": "Stanley 1913 The Quencher\u00ae ProTour Flip Straw Tumbler | 20 OZ",
+   "brand": "Stanley 1913",
+   "store": "Stanley",
+   "url": "https://www.stanley1913.com/products/quencher-protour-flip-straw-tumbler-20-oz-fall-refresh",
+   "post": "https://www.stanley1913.com/products/quencher-protour-flip-straw-tumbler-20-oz-fall-refresh",
+   "img": "https://cdn.shopify.com/s/files/1/0375/3269/6635/files/Web_PNG_Square-The_Quencher_ProTour_Flip_Straw_Tumbler-20_oz_0.59_L-Bedrock_Gloss-Front.png?v=1788374061&width=480",
+   "price": 24.0,
+   "was": 40.0,
+   "pct": 40,
+   "tier": "good",
+   "cat": "household",
+   "priority": true,
+   "source": "Stanley",
+   "sizes": [],
+   "returns": "30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "sh-www.stanley1913.com-14973533815144",
+   "title": "Stanley 1913 The Everyday Suburban Mug | 24 OZ - Stanley Create",
+   "brand": "Stanley 1913",
+   "store": "Stanley",
+   "url": "https://www.stanley1913.com/products/the-everyday-suburban-mug-24-oz-fall-refresh-stanley-create",
+   "post": "https://www.stanley1913.com/products/the-everyday-suburban-mug-24-oz-fall-refresh-stanley-create",
+   "img": "https://cdn.shopify.com/s/files/1/0375/3269/6635/files/Web_PNG_Square-TheEverydaySuburbanMug-24oz0.71L-FigGloss-Front.png?v=1788273621&width=480",
+   "price": 24.0,
+   "was": 40.0,
+   "pct": 40,
+   "tier": "good",
+   "cat": "household",
+   "priority": true,
+   "source": "Stanley",
+   "sizes": [],
+   "returns": "30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "sh-www.stanley1913.com-14973502980456",
+   "title": "Stanley 1913 The Reserve Wine Tumbler | 11 OZ",
+   "brand": "Stanley 1913",
+   "store": "Stanley",
+   "url": "https://www.stanley1913.com/products/reserve-wine-tumbler-11-oz-0-32-l-bts",
+   "post": "https://www.stanley1913.com/products/reserve-wine-tumbler-11-oz-0-32-l-bts",
+   "img": "https://cdn.shopify.com/s/files/1/0375/3269/6635/files/Web_PNG_Square-TheReserveWineTumbler-11oz0.32L-BlueDreamWildflower-Front.png?v=1782915021&width=480",
+   "price": 21.0,
+   "was": 35.0,
+   "pct": 40,
+   "tier": "good",
+   "cat": "household",
+   "priority": true,
+   "source": "Stanley",
+   "sizes": [],
+   "returns": "30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "sh-www.stanley1913.com-14973502488936",
+   "title": "Stanley 1913 The All Day Madeleine Mini Cooler Backpack | 14 QT | 13.2 L",
+   "brand": "Stanley 1913",
+   "store": "Stanley",
+   "url": "https://www.stanley1913.com/products/all-day-madeleine-mini-cooler-backpack-14-qt-13-2-l-bts",
+   "post": "https://www.stanley1913.com/products/all-day-madeleine-mini-cooler-backpack-14-qt-13-2-l-bts",
+   "img": "https://cdn.shopify.com/s/files/1/0375/3269/6635/files/Web_PNG_Square-TheAllDayMadeleineMiniCoolerBackpack-14qt13.2L-SorbetWildflower-Front.png?v=1782834691&width=480",
+   "price": 81.0,
+   "was": 135.0,
+   "pct": 40,
+   "tier": "good",
+   "cat": "household",
+   "priority": true,
+   "source": "Stanley",
+   "sizes": [],
+   "returns": "30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "sh-www.stanley1913.com-14973533847912",
+   "title": "Stanley 1913 The Quencher\u00ae ProTour Flip Straw Tumbler | 20 OZ - Stanley Create",
+   "brand": "Stanley 1913",
+   "store": "Stanley",
+   "url": "https://www.stanley1913.com/products/the-quencher-protour-flip-straw-tumbler-20-oz-fall-refresh-stanley-create",
+   "post": "https://www.stanley1913.com/products/the-quencher-protour-flip-straw-tumbler-20-oz-fall-refresh-stanley-create",
+   "img": "https://cdn.shopify.com/s/files/1/0375/3269/6635/files/Web_PNG_Square-TheQuencherProTourFlipStrawTumbler-20oz0.59L-FigGloss-Front.png?v=1788272763&width=480",
+   "price": 24.0,
+   "was": 40.0,
+   "pct": 40,
+   "tier": "good",
+   "cat": "household",
+   "priority": true,
+   "source": "Stanley",
+   "sizes": [],
+   "returns": "30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "sh-www.stanley1913.com-14973656138088",
+   "title": "Stanley The Transit Flip Top Mug | 20 OZ",
+   "brand": "Stanley",
+   "store": "Stanley",
+   "url": "https://www.stanley1913.com/products/the-transit-flip-top-mug-20-oz-1",
+   "post": "https://www.stanley1913.com/products/the-transit-flip-top-mug-20-oz-1",
+   "img": "https://cdn.shopify.com/s/files/1/0375/3269/6635/files/Web_PNG_Square-TheTransitFlipTopMug20OZ-RoseQuartz-Front.png?v=1769635304&width=480",
+   "price": 26.25,
+   "was": 40.0,
+   "pct": 34,
+   "tier": "good",
+   "cat": "household",
+   "priority": true,
+   "source": "Stanley",
+   "sizes": [],
+   "returns": "30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "sh-www.stanley1913.com-14973656007016",
+   "title": "Stanley The Transit Flip Top Mug | 16 OZ",
+   "brand": "Stanley",
+   "store": "Stanley",
+   "url": "https://www.stanley1913.com/products/the-transit-flip-top-mug-16-oz-1",
+   "post": "https://www.stanley1913.com/products/the-transit-flip-top-mug-16-oz-1",
+   "img": "https://cdn.shopify.com/s/files/1/0375/3269/6635/files/Web_PNG_Square-The_Transit_FlipTop_Mug_16OZ_-_Peach_Rose_-_Front_transparent_fe25e36b-62c6-4c71-bf2c-3e827f310f77.png?v=1773325580&width=480",
+   "price": 22.5,
+   "was": 35.0,
+   "pct": 36,
+   "tier": "good",
+   "cat": "household",
+   "priority": true,
+   "source": "Stanley",
+   "sizes": [],
+   "returns": "30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "dell-dc16255_fixed_10",
+   "title": "Dell 16 Laptop",
+   "brand": "Dell",
+   "store": "Dell",
+   "url": "https://www.dell.com/en-us/shop/laptop-computers/spd/dell16laptopdc16255/dc16255_fixed_10",
+   "post": "https://www.dell.com/en-us/shop/laptop-computers/spd/dell16laptopdc16255/dc16255_fixed_10",
+   "img": "https://i.dell.com/assetlink/img/global/prod-11177050-notebook-dc16255-nt-fpr-black-480x377-dl12wrvf-original.png?fmt=png-alpha&pscan=auto&scl=1&hei=377&wid=480&qlt=100,0&resMode=sharp2&size=480,377",
+   "price": 649.99,
+   "was": 1099.99,
+   "pct": 41,
+   "tier": "good",
+   "cat": "tech",
+   "priority": true,
+   "source": "Dell",
+   "sizes": [],
+   "returns": "30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "dell--",
+   "title": "Dell 27 240Hz Adjustable Stand Monitor - SE2726HGS",
+   "brand": "Dell",
+   "store": "Dell",
+   "url": "https://www.dell.com/en-us/shop/monitors/apd/dell-27-240hz-adjustable-stand-monitor-se2726hgs/se2726hgs/-",
+   "post": "https://www.dell.com/en-us/shop/monitors/apd/dell-27-240hz-adjustable-stand-monitor-se2726hgs/se2726hgs/-",
+   "img": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/peripherals/monitors/s-series/se2726hgs/media-gallery/monitor-se2726hgs-black-gallery-1.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=435&qlt=100,0&resMode=sharp2&size=435,402",
+   "price": 129.99,
+   "was": 169.99,
+   "pct": 24,
+   "tier": "good",
+   "cat": "tech",
+   "priority": true,
+   "source": "Dell",
+   "sizes": [],
+   "returns": "30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "dell-dc16250_fixed_21",
+   "title": "Dell 16 Laptop",
+   "brand": "Dell",
+   "store": "Dell",
+   "url": "https://www.dell.com/en-us/shop/laptop-computers/spd/dell16laptopdc16250/dc16250_fixed_21",
+   "post": "https://www.dell.com/en-us/shop/laptop-computers/spd/dell16laptopdc16250/dc16250_fixed_21",
+   "img": "https://i.dell.com/assetlink/img/global/prod-11177050-laptop-16-dc16250-nt-black-480x379-dl12ws1m-original.png?fmt=png-alpha&pscan=auto&scl=1&hei=379&wid=480&qlt=100,0&resMode=sharp2&size=480,379",
+   "price": 1189.99,
+   "was": 1479.99,
+   "pct": 20,
+   "tier": "good",
+   "cat": "tech",
+   "priority": true,
+   "source": "Dell",
+   "sizes": [],
+   "returns": "30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "dell-ds16260_so_7",
+   "title": "Dell 16S Laptop",
+   "brand": "Dell",
+   "store": "Dell",
+   "url": "https://www.dell.com/en-us/shop/laptop-computers/spd/dell16sds16260/ds16260_so_7",
+   "post": "https://www.dell.com/en-us/shop/laptop-computers/spd/dell16sds16260/ds16260_so_7",
+   "img": "https://i.dell.com/assetlink/img/en/laptop-ds16260t-oled-blue-gallery-1-dl111nva-large.png?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=505&qlt=100,0&resMode=sharp2&size=505,402",
+   "price": 1499.99,
+   "was": 2149.99,
+   "pct": 30,
+   "tier": "good",
+   "cat": "tech",
+   "priority": true,
+   "source": "Dell",
+   "sizes": [],
+   "returns": "30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "dell-db16250_fixed_13",
+   "title": "Dell 16 Plus Laptop",
+   "brand": "Dell",
+   "store": "Dell",
+   "url": "https://www.dell.com/en-us/shop/laptop-computers/spd/dellplus16laptopdb16250/db16250_fixed_13",
+   "post": "https://www.dell.com/en-us/shop/laptop-computers/spd/dellplus16laptopdb16250/db16250_fixed_13",
+   "img": "https://i.dell.com/assetlink/img/en/notebook-db16250nt-fpr-bl-gallery-1-dl1ezap-large.png?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=516&qlt=100,0&resMode=sharp2&size=516,402",
+   "price": 1679.99,
+   "was": 2079.99,
+   "pct": 19,
+   "tier": "good",
+   "cat": "tech",
+   "priority": true,
+   "source": "Dell",
+   "sizes": [],
+   "returns": "30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "dell-ecs1250_so_21",
+   "title": "Dell Slim Desktop",
+   "brand": "Dell",
+   "store": "Dell",
+   "url": "https://www.dell.com/en-us/shop/desktop-computers/spd/dellslimecs1250/ecs1250_so_21",
+   "post": "https://www.dell.com/en-us/shop/desktop-computers/spd/dellslimecs1250/ecs1250_so_21",
+   "img": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/desktops/dell/ecs1250/media-gallery/with-reader/desktop-ecs1250-slim-tower-black-gallery-1.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=242&qlt=100,0&resMode=sharp2&size=242,402",
+   "price": 599.99,
+   "was": 899.99,
+   "pct": 33,
+   "tier": "good",
+   "cat": "tech",
+   "priority": true,
+   "source": "Dell",
+   "sizes": [],
+   "returns": "30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "dell-ect1250_so_19",
+   "title": "Dell Tower Desktop",
+   "brand": "Dell",
+   "store": "Dell",
+   "url": "https://www.dell.com/en-us/shop/desktop-computers/spd/delltowerect1250/ect1250_so_19",
+   "post": "https://www.dell.com/en-us/shop/desktop-computers/spd/delltowerect1250/ect1250_so_19",
+   "img": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/desktops/dell/ect1250/media-gallery/with-reader/desktop-tower-ect1250-c-no-ssd-black-gallery-1.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=280&qlt=100,0&resMode=sharp2&size=280,402",
+   "price": 849.99,
+   "was": 999.99,
+   "pct": 15,
+   "tier": "good",
+   "cat": "tech",
+   "priority": true,
+   "source": "Dell",
+   "sizes": [],
+   "returns": "30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "dell-da15260_so_25",
+   "title": "Dell Alienware 15 Gaming Laptop",
+   "brand": "Dell",
+   "store": "Dell",
+   "url": "https://www.dell.com/en-us/shop/laptop-computers/spd/alienware15da15260/da15260_so_25",
+   "post": "https://www.dell.com/en-us/shop/laptop-computers/spd/alienware15da15260/da15260_so_25",
+   "img": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/alienware-notebooks/da15260/media-gallery/notebook-alienware-15-da15260-mb3-intel-black-gallery-1.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=554&qlt=100,0&resMode=sharp2&size=554,402",
+   "price": 1399.99,
+   "was": 1799.99,
+   "pct": 22,
+   "tier": "good",
+   "cat": "tech",
+   "priority": true,
+   "source": "Dell",
+   "sizes": [],
+   "returns": "30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "dell-db14250_fixed_72",
+   "title": "Dell 14 Plus Laptop",
+   "brand": "Dell",
+   "store": "Dell",
+   "url": "https://www.dell.com/en-us/shop/laptop-computers/spd/dellplus14laptopdb14250/db14250_fixed_72",
+   "post": "https://www.dell.com/en-us/shop/laptop-computers/spd/dellplus14laptopdb14250/db14250_fixed_72",
+   "img": "https://i.dell.com/assetlink/img/en/laptop-dell-db14250nt-fpr-laptop-bl-gallery-1-dl1evkv-large.png?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=509&qlt=100,0&resMode=sharp2&size=509,402",
+   "price": 1299.99,
+   "was": 1579.99,
+   "pct": 18,
+   "tier": "good",
+   "cat": "tech",
+   "priority": true,
+   "source": "Dell",
+   "sizes": [],
+   "returns": "30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "dell-db16250_fixed_20",
+   "title": "Dell 16 Plus Laptop",
+   "brand": "Dell",
+   "store": "Dell",
+   "url": "https://www.dell.com/en-us/shop/laptop-computers/spd/dellplus16laptopdb16250/db16250_fixed_20",
+   "post": "https://www.dell.com/en-us/shop/laptop-computers/spd/dellplus16laptopdb16250/db16250_fixed_20",
+   "img": "https://i.dell.com/assetlink/img/global/prod-11177050-dell-db16250nt-blue-480x379-dl12wsuj-original.png?fmt=png-alpha&pscan=auto&scl=1&hei=379&wid=480&qlt=100,0&resMode=sharp2&size=480,379",
+   "price": 1249.99,
+   "was": 1629.99,
+   "pct": 23,
+   "tier": "good",
+   "cat": "tech",
+   "priority": true,
+   "source": "Dell",
+   "sizes": [],
+   "returns": "30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "dell-da16260_so_7",
+   "title": "Dell XPS 16 Laptop",
+   "brand": "Dell",
+   "store": "Dell",
+   "url": "https://www.dell.com/en-us/shop/laptop-computers/spd/xps16da16260/da16260_so_7",
+   "post": "https://www.dell.com/en-us/shop/laptop-computers/spd/xps16da16260/da16260_so_7",
+   "img": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/xps-notebooks/xps-16-da16260/media-gallery/touch/notebook-da16260-t-gray-gallery-11.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=771&qlt=100,0&resMode=sharp2&size=771,402",
+   "price": 3049.99,
+   "was": 3999.99,
+   "pct": 24,
+   "tier": "good",
+   "cat": "tech",
+   "priority": true,
+   "source": "Dell",
+   "sizes": [],
+   "returns": "30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "dell-895491-0100",
+   "title": "Dell Bose QuietComfort Headphones (2nd Gen) - Black",
+   "brand": "Dell",
+   "store": "Dell",
+   "url": "https://www.dell.com/en-us/shop/homeentertainment/apd/bose-quietcomfort-headphones-2nd-gen-black/f72k06/895491-0100",
+   "post": "https://www.dell.com/en-us/shop/homeentertainment/apd/bose-quietcomfort-headphones-2nd-gen-black/f72k06/895491-0100",
+   "img": "",
+   "price": 219.0,
+   "was": 359.0,
+   "pct": 39,
+   "tier": "good",
+   "cat": "tech",
+   "priority": true,
+   "source": "Dell",
+   "sizes": [],
+   "returns": "30 days",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
   {
    "id": "sh-www.mous.co-7393382760506",
    "title": "N/A Protective Roll Top  - Optimal Backpack",
@@ -19,7 +1941,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-16T16:44:25.212776+00:00",
    "postedAt": "2026-11-16T16:44:25.212776+00:00",
    "fromCatalog": true
@@ -44,7 +1966,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-16T15:04:04.358578+00:00",
    "postedAt": "2026-11-16T15:04:04.358578+00:00",
    "fromCatalog": true
@@ -69,7 +1991,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-16T15:04:04.358578+00:00",
    "postedAt": "2026-11-16T15:04:04.358578+00:00",
    "fromCatalog": true
@@ -94,7 +2016,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-16T15:04:04.358578+00:00",
    "postedAt": "2026-11-16T15:04:04.358578+00:00",
    "fromCatalog": true
@@ -118,7 +2040,7 @@
     "S"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-16T12:00:22.185693+00:00",
    "postedAt": "2026-11-16T12:00:22.185693+00:00",
    "fromCatalog": true
@@ -143,7 +2065,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-16T12:00:22.185693+00:00",
    "postedAt": "2026-11-16T12:00:22.185693+00:00",
    "fromCatalog": true
@@ -167,7 +2089,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-16T12:00:22.185693+00:00",
    "postedAt": "2026-11-16T12:00:22.185693+00:00",
    "fromCatalog": true
@@ -191,7 +2113,7 @@
     "S"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-16T12:00:22.185693+00:00",
    "postedAt": "2026-11-16T12:00:22.185693+00:00",
    "fromCatalog": true
@@ -215,7 +2137,7 @@
     "S"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-16T12:00:22.185693+00:00",
    "postedAt": "2026-11-16T12:00:22.185693+00:00",
    "fromCatalog": true
@@ -239,7 +2161,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-16T12:00:22.185693+00:00",
    "postedAt": "2026-11-16T12:00:22.185693+00:00",
    "fromCatalog": true
@@ -263,7 +2185,7 @@
     "S"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-16T12:00:22.185693+00:00",
    "postedAt": "2026-11-16T12:00:22.185693+00:00",
    "fromCatalog": true
@@ -287,7 +2209,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-16T12:00:22.185693+00:00",
    "postedAt": "2026-11-16T12:00:22.185693+00:00",
    "fromCatalog": true
@@ -311,7 +2233,7 @@
     "S"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-16T12:00:22.185693+00:00",
    "postedAt": "2026-11-16T12:00:22.185693+00:00",
    "fromCatalog": true
@@ -335,7 +2257,7 @@
     "S"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-16T12:00:22.185693+00:00",
    "postedAt": "2026-11-16T12:00:22.185693+00:00",
    "fromCatalog": true
@@ -360,7 +2282,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-16T12:00:22.185693+00:00",
    "postedAt": "2026-11-16T12:00:22.185693+00:00",
    "fromCatalog": true
@@ -384,7 +2306,7 @@
     "S"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-16T12:00:22.185693+00:00",
    "postedAt": "2026-11-16T12:00:22.185693+00:00",
    "fromCatalog": true
@@ -408,7 +2330,7 @@
     "S"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-16T12:00:22.185693+00:00",
    "postedAt": "2026-11-16T12:00:22.185693+00:00",
    "fromCatalog": true
@@ -432,33 +2354,9 @@
     "S"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-16T12:00:22.185693+00:00",
    "postedAt": "2026-11-16T12:00:22.185693+00:00",
-   "fromCatalog": true
-  },
-  {
-   "id": "ss-17012731",
-   "title": "AAPE by A Bathing Ape Gray 'AAPENOW' Moonface Logo Sweat Shorts",
-   "brand": "AAPE by A Bathing Ape",
-   "store": "SSENSE",
-   "url": "https://www.ssense.com/en-us/men/product/aape/gray-aapenow-moonface-logo-sweat-shorts/17012731",
-   "post": "https://www.ssense.com/en-us/men/product/aape/gray-aapenow-moonface-logo-sweat-shorts/17012731",
-   "img": "https://res.cloudinary.com/ssenseweb/image/upload/b_white,c_lpad,g_center,h_480,w_480/c_scale,h_480/f_auto,dpr_1.0/252547M193008_1.jpg",
-   "price": 49.0,
-   "was": 115.0,
-   "pct": 57,
-   "tier": "good",
-   "cat": "menswear",
-   "priority": true,
-   "source": "SSENSE",
-   "sizes": [
-    "S"
-   ],
-   "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
-   "foundAt": "2026-11-16T10:56:19.559981+00:00",
-   "postedAt": "2026-11-16T10:56:19.559981+00:00",
    "fromCatalog": true
   },
   {
@@ -480,7 +2378,7 @@
     "S"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-16T10:56:19.559981+00:00",
    "postedAt": "2026-11-16T10:56:19.559981+00:00",
    "fromCatalog": true
@@ -504,7 +2402,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-16T10:56:19.559981+00:00",
    "postedAt": "2026-11-16T10:56:19.559981+00:00",
    "fromCatalog": true
@@ -529,7 +2427,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-16T10:56:19.559981+00:00",
    "postedAt": "2026-11-16T10:56:19.559981+00:00",
    "fromCatalog": true
@@ -554,7 +2452,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-16T10:56:19.559981+00:00",
    "postedAt": "2026-11-16T10:56:19.559981+00:00",
    "fromCatalog": true
@@ -579,7 +2477,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-16T10:56:19.559981+00:00",
    "postedAt": "2026-11-16T10:56:19.559981+00:00",
    "fromCatalog": true
@@ -603,303 +2501,9 @@
     "S"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-16T10:56:19.559981+00:00",
    "postedAt": "2026-11-16T10:56:19.559981+00:00",
-   "fromCatalog": true
-  },
-  {
-   "id": "ss-17735551",
-   "title": "Charles Jeffrey LOVERBOY Black Clash of Clans Edition P.E.K.K.A. T-shirt",
-   "brand": "Charles Jeffrey LOVERBOY",
-   "store": "SSENSE",
-   "url": "https://www.ssense.com/en-us/men/product/charles-jeffrey-loverboy/black-clash-of-clans-edition-pekka-t-shirt/17735551",
-   "post": "https://www.ssense.com/en-us/men/product/charles-jeffrey-loverboy/black-clash-of-clans-edition-pekka-t-shirt/17735551",
-   "img": "https://res.cloudinary.com/ssenseweb/image/upload/b_white,c_lpad,g_center,h_480,w_480/c_scale,h_480/f_auto,dpr_1.0/251101M213014_1.jpg",
-   "price": 69.0,
-   "was": 150.0,
-   "pct": 54,
-   "tier": "good",
-   "cat": "menswear",
-   "priority": true,
-   "source": "SSENSE",
-   "sizes": [
-    "S",
-    "M"
-   ],
-   "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
-   "foundAt": "2026-11-16T10:56:19.559981+00:00",
-   "postedAt": "2026-11-16T10:56:19.559981+00:00",
-   "fromCatalog": true
-  },
-  {
-   "id": "ss-18991621",
-   "title": "Fear of God ESSENTIALS Taupe Active Trace 3/4 Sleeve Modern Polo",
-   "brand": "Fear of God ESSENTIALS",
-   "store": "SSENSE",
-   "url": "https://www.ssense.com/en-us/men/product/essentials/taupe-active-trace-34-sleeve-modern-polo/18991621",
-   "post": "https://www.ssense.com/en-us/men/product/essentials/taupe-active-trace-34-sleeve-modern-polo/18991621",
-   "img": "https://res.cloudinary.com/ssenseweb/image/upload/b_white,c_lpad,g_center,h_480,w_480/c_scale,h_480/f_auto,dpr_1.0/261161M212012_1.jpg",
-   "price": 69.0,
-   "was": 160.0,
-   "pct": 57,
-   "tier": "good",
-   "cat": "menswear",
-   "priority": true,
-   "source": "SSENSE",
-   "sizes": [
-    "S",
-    "M"
-   ],
-   "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
-   "foundAt": "2026-11-16T10:56:19.559981+00:00",
-   "postedAt": "2026-11-16T10:56:19.559981+00:00",
-   "fromCatalog": true
-  },
-  {
-   "id": "ss-18661851",
-   "title": "On White Courtside Polo",
-   "brand": "On",
-   "store": "SSENSE",
-   "url": "https://www.ssense.com/en-us/men/product/on-running/white-courtside-polo/18661851",
-   "post": "https://www.ssense.com/en-us/men/product/on-running/white-courtside-polo/18661851",
-   "img": "https://res.cloudinary.com/ssenseweb/image/upload/b_white,c_lpad,g_center,h_480,w_480/c_scale,h_480/f_auto,dpr_1.0/261585M212001_1.jpg",
-   "price": 69.0,
-   "was": 110.0,
-   "pct": 37,
-   "tier": "good",
-   "cat": "menswear",
-   "priority": true,
-   "source": "SSENSE",
-   "sizes": [
-    "S"
-   ],
-   "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
-   "foundAt": "2026-11-16T10:56:19.559981+00:00",
-   "postedAt": "2026-11-16T10:56:19.559981+00:00",
-   "fromCatalog": true
-  },
-  {
-   "id": "ss-19116481",
-   "title": "Carne Bollente Black 'Sadao's Dream' T-shirt",
-   "brand": "Carne Bollente",
-   "store": "SSENSE",
-   "url": "https://www.ssense.com/en-us/men/product/carne-bollente/black-sadaos-dream-t-shirt/19116481",
-   "post": "https://www.ssense.com/en-us/men/product/carne-bollente/black-sadaos-dream-t-shirt/19116481",
-   "img": "https://res.cloudinary.com/ssenseweb/image/upload/b_white,c_lpad,g_center,h_480,w_480/c_scale,h_480/f_auto,dpr_1.0/261033M213015_1.jpg",
-   "price": 69.0,
-   "was": 125.0,
-   "pct": 45,
-   "tier": "good",
-   "cat": "menswear",
-   "priority": true,
-   "source": "SSENSE",
-   "sizes": [
-    "S",
-    "M"
-   ],
-   "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
-   "foundAt": "2026-11-16T10:56:19.559981+00:00",
-   "postedAt": "2026-11-16T10:56:19.559981+00:00",
-   "fromCatalog": true
-  },
-  {
-   "id": "ss-17735531",
-   "title": "Charles Jeffrey LOVERBOY Blue Clash of Clans Edition Logo Tank Top",
-   "brand": "Charles Jeffrey LOVERBOY",
-   "store": "SSENSE",
-   "url": "https://www.ssense.com/en-us/men/product/charles-jeffrey-loverboy/blue-clash-of-clans-edition-logo-tank-top/17735531",
-   "post": "https://www.ssense.com/en-us/men/product/charles-jeffrey-loverboy/blue-clash-of-clans-edition-logo-tank-top/17735531",
-   "img": "https://res.cloudinary.com/ssenseweb/image/upload/b_white,c_lpad,g_center,h_480,w_480/c_scale,h_480/f_auto,dpr_1.0/251101M214006_1.jpg",
-   "price": 70.0,
-   "was": 120.0,
-   "pct": 42,
-   "tier": "good",
-   "cat": "menswear",
-   "priority": true,
-   "source": "SSENSE",
-   "sizes": [
-    "M"
-   ],
-   "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
-   "foundAt": "2026-11-16T10:56:19.559981+00:00",
-   "postedAt": "2026-11-16T10:56:19.559981+00:00",
-   "fromCatalog": true
-  },
-  {
-   "id": "ss-19092481",
-   "title": "Represent Off-White 'Nothing Faster' T-shirt",
-   "brand": "Represent",
-   "store": "SSENSE",
-   "url": "https://www.ssense.com/en-us/men/product/represent/off-white-nothing-faster-t-shirt/19092481",
-   "post": "https://www.ssense.com/en-us/men/product/represent/off-white-nothing-faster-t-shirt/19092481",
-   "img": "https://res.cloudinary.com/ssenseweb/image/upload/b_white,c_lpad,g_center,h_480,w_480/c_scale,h_480/f_auto,dpr_1.0/261655M213032_1.jpg",
-   "price": 70.0,
-   "was": 140.0,
-   "pct": 50,
-   "tier": "good",
-   "cat": "menswear",
-   "priority": true,
-   "source": "SSENSE",
-   "sizes": [
-    "S"
-   ],
-   "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
-   "foundAt": "2026-11-16T10:56:19.559981+00:00",
-   "postedAt": "2026-11-16T10:56:19.559981+00:00",
-   "fromCatalog": true
-  },
-  {
-   "id": "ss-18877421",
-   "title": "Hugo White & Green Polo",
-   "brand": "Hugo",
-   "store": "SSENSE",
-   "url": "https://www.ssense.com/en-us/men/product/hugo-hugo-boss/white-and-green-polo/18877421",
-   "post": "https://www.ssense.com/en-us/men/product/hugo-hugo-boss/white-and-green-polo/18877421",
-   "img": "https://res.cloudinary.com/ssenseweb/image/upload/b_white,c_lpad,g_center,h_480,w_480/c_scale,h_480/f_auto,dpr_1.0/261084M212021_1.jpg",
-   "price": 70.0,
-   "was": 145.0,
-   "pct": 52,
-   "tier": "good",
-   "cat": "menswear",
-   "priority": true,
-   "source": "SSENSE",
-   "sizes": [
-    "M"
-   ],
-   "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
-   "foundAt": "2026-11-16T10:56:19.559981+00:00",
-   "postedAt": "2026-11-16T10:56:19.559981+00:00",
-   "fromCatalog": true
-  },
-  {
-   "id": "ss-18987641",
-   "title": "Fear of God ESSENTIALS Beige Training 90s Short Sleeve T-shirt",
-   "brand": "Fear of God ESSENTIALS",
-   "store": "SSENSE",
-   "url": "https://www.ssense.com/en-us/men/product/essentials/beige-training-90s-short-sleeve-t-shirt/18987641",
-   "post": "https://www.ssense.com/en-us/men/product/essentials/beige-training-90s-short-sleeve-t-shirt/18987641",
-   "img": "https://res.cloudinary.com/ssenseweb/image/upload/b_white,c_lpad,g_center,h_480,w_480/c_scale,h_480/f_auto,dpr_1.0/261161M213047_1.jpg",
-   "price": 76.0,
-   "was": 120.0,
-   "pct": 37,
-   "tier": "good",
-   "cat": "menswear",
-   "priority": true,
-   "source": "SSENSE",
-   "sizes": [
-    "S",
-    "M"
-   ],
-   "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
-   "foundAt": "2026-11-16T10:56:19.559981+00:00",
-   "postedAt": "2026-11-16T10:56:19.559981+00:00",
-   "fromCatalog": true
-  },
-  {
-   "id": "ss-18989641",
-   "title": "Fear of God ESSENTIALS Gray Signature 90s Short Sleeve T-shirt",
-   "brand": "Fear of God ESSENTIALS",
-   "store": "SSENSE",
-   "url": "https://www.ssense.com/en-us/men/product/essentials/gray-signature-90s-short-sleeve-t-shirt/18989641",
-   "post": "https://www.ssense.com/en-us/men/product/essentials/gray-signature-90s-short-sleeve-t-shirt/18989641",
-   "img": "https://res.cloudinary.com/ssenseweb/image/upload/b_white,c_lpad,g_center,h_480,w_480/c_scale,h_480/f_auto,dpr_1.0/261161M213060_1.jpg",
-   "price": 70.0,
-   "was": 100.0,
-   "pct": 30,
-   "tier": "good",
-   "cat": "menswear",
-   "priority": true,
-   "source": "SSENSE",
-   "sizes": [
-    "S",
-    "M"
-   ],
-   "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
-   "foundAt": "2026-11-16T10:56:19.559981+00:00",
-   "postedAt": "2026-11-16T10:56:19.559981+00:00",
-   "fromCatalog": true
-  },
-  {
-   "id": "ss-18532871",
-   "title": "Fear of God ESSENTIALS Off-White Holiday Ponte 90s Long Sleeve T-shirt",
-   "brand": "Fear of God ESSENTIALS",
-   "store": "SSENSE",
-   "url": "https://www.ssense.com/en-us/men/product/essentials/off-white-holiday-ponte-90s-long-sleeve-t-shirt/18532871",
-   "post": "https://www.ssense.com/en-us/men/product/essentials/off-white-holiday-ponte-90s-long-sleeve-t-shirt/18532871",
-   "img": "https://res.cloudinary.com/ssenseweb/image/upload/b_white,c_lpad,g_center,h_480,w_480/c_scale,h_480/f_auto,dpr_1.0/261161M213021_1.jpg",
-   "price": 67.0,
-   "was": 140.0,
-   "pct": 52,
-   "tier": "good",
-   "cat": "menswear",
-   "priority": true,
-   "source": "SSENSE",
-   "sizes": [
-    "S",
-    "M"
-   ],
-   "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
-   "foundAt": "2026-11-16T10:56:19.559981+00:00",
-   "postedAt": "2026-11-16T10:56:19.559981+00:00",
-   "fromCatalog": true
-  },
-  {
-   "id": "ss-19091431",
-   "title": "Hugo Black Monogram Riptape Strap Sandals",
-   "brand": "Hugo",
-   "store": "SSENSE",
-   "url": "https://www.ssense.com/en-us/men/product/hugo-hugo-boss/black-monogram-riptape-strap-sandals/19091431",
-   "post": "https://www.ssense.com/en-us/men/product/hugo-hugo-boss/black-monogram-riptape-strap-sandals/19091431",
-   "img": "https://res.cloudinary.com/ssenseweb/image/upload/b_white,c_lpad,g_center,h_480,w_480/c_scale,h_480/f_auto,dpr_1.0/261084M234012_1.jpg",
-   "price": 36.0,
-   "was": 80.0,
-   "pct": 55,
-   "tier": "good",
-   "cat": "shoes",
-   "priority": true,
-   "source": "SSENSE",
-   "sizes": [
-    "IT 44"
-   ],
-   "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
-   "foundAt": "2026-11-16T03:45:54.150840+00:00",
-   "postedAt": "2026-11-16T03:45:54.150840+00:00",
-   "fromCatalog": true
-  },
-  {
-   "id": "ss-19108141",
-   "title": "Entire Studios Black Rib Tank Top",
-   "brand": "Entire Studios",
-   "store": "SSENSE",
-   "url": "https://www.ssense.com/en-us/men/product/entire-studios/black-rib-tank-top/19108141",
-   "post": "https://www.ssense.com/en-us/men/product/entire-studios/black-rib-tank-top/19108141",
-   "img": "https://res.cloudinary.com/ssenseweb/image/upload/b_white,c_lpad,g_center,h_480,w_480/c_scale,h_480/f_auto,dpr_1.0/261940M214007_1.jpg",
-   "price": 44.0,
-   "was": 95.0,
-   "pct": 54,
-   "tier": "good",
-   "cat": "menswear",
-   "priority": true,
-   "source": "SSENSE",
-   "sizes": [
-    "M"
-   ],
-   "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
-   "foundAt": "2026-11-16T03:45:54.150840+00:00",
-   "postedAt": "2026-11-16T03:45:54.150840+00:00",
    "fromCatalog": true
   },
   {
@@ -921,79 +2525,7 @@
     "S"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
-   "foundAt": "2026-11-16T03:45:54.150840+00:00",
-   "postedAt": "2026-11-16T03:45:54.150840+00:00",
-   "fromCatalog": true
-  },
-  {
-   "id": "ss-19102941",
-   "title": "Andersson Bell Black Archive T-shirt",
-   "brand": "Andersson Bell",
-   "store": "SSENSE",
-   "url": "https://www.ssense.com/en-us/men/product/andersson-bell/black-archive-t-shirt/19102941",
-   "post": "https://www.ssense.com/en-us/men/product/andersson-bell/black-archive-t-shirt/19102941",
-   "img": "https://res.cloudinary.com/ssenseweb/image/upload/b_white,c_lpad,g_center,h_480,w_480/c_scale,h_480/f_auto,dpr_1.0/261375M213027_1.jpg",
-   "price": 54.0,
-   "was": 95.0,
-   "pct": 43,
-   "tier": "good",
-   "cat": "menswear",
-   "priority": true,
-   "source": "SSENSE",
-   "sizes": [
-    "S"
-   ],
-   "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
-   "foundAt": "2026-11-16T03:45:54.150840+00:00",
-   "postedAt": "2026-11-16T03:45:54.150840+00:00",
-   "fromCatalog": true
-  },
-  {
-   "id": "ss-19115901",
-   "title": "Carne Bollente SSENSE Exclusive Black Printed T-shirt",
-   "brand": "Carne Bollente",
-   "store": "SSENSE",
-   "url": "https://www.ssense.com/en-us/men/product/carne-bollente/ssense-exclusive-black-printed-t-shirt/19115901",
-   "post": "https://www.ssense.com/en-us/men/product/carne-bollente/ssense-exclusive-black-printed-t-shirt/19115901",
-   "img": "https://res.cloudinary.com/ssenseweb/image/upload/b_white,c_lpad,g_center,h_480,w_480/c_scale,h_480/f_auto,dpr_1.0/261033M213002_1.jpg",
-   "price": 71.0,
-   "was": 105.0,
-   "pct": 32,
-   "tier": "good",
-   "cat": "menswear",
-   "priority": true,
-   "source": "SSENSE",
-   "sizes": [
-    "S"
-   ],
-   "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
-   "foundAt": "2026-11-16T03:45:54.150840+00:00",
-   "postedAt": "2026-11-16T03:45:54.150840+00:00",
-   "fromCatalog": true
-  },
-  {
-   "id": "ss-18623461",
-   "title": "BOSS Black Cotton Piqu\u00e9 Paddy Polo",
-   "brand": "BOSS",
-   "store": "SSENSE",
-   "url": "https://www.ssense.com/en-us/men/product/boss-hugo-boss/black-cotton-pique-paddy-polo/18623461",
-   "post": "https://www.ssense.com/en-us/men/product/boss-hugo-boss/black-cotton-pique-paddy-polo/18623461",
-   "img": "https://res.cloudinary.com/ssenseweb/image/upload/b_white,c_lpad,g_center,h_480,w_480/c_scale,h_480/f_auto,dpr_1.0/261085M212040_1.jpg",
-   "price": 71.0,
-   "was": 120.0,
-   "pct": 41,
-   "tier": "good",
-   "cat": "menswear",
-   "priority": true,
-   "source": "SSENSE",
-   "sizes": [
-    "S"
-   ],
-   "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-16T03:45:54.150840+00:00",
    "postedAt": "2026-11-16T03:45:54.150840+00:00",
    "fromCatalog": true
@@ -1017,7 +2549,7 @@
     "11 M"
    ],
    "returns": "14-28 days (not final sale)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-16T02:38:10.453612+00:00",
    "postedAt": "2026-11-16T02:38:10.453612+00:00",
    "fromCatalog": true
@@ -1041,7 +2573,7 @@
     "One Size"
    ],
    "returns": "14-28 days (not final sale)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-16T02:38:10.453612+00:00",
    "postedAt": "2026-11-16T02:38:10.453612+00:00",
    "fromCatalog": true
@@ -1065,7 +2597,7 @@
     "M"
    ],
    "returns": "14-28 days (not final sale)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-16T02:38:10.453612+00:00",
    "postedAt": "2026-11-16T02:38:10.453612+00:00",
    "fromCatalog": true
@@ -1089,7 +2621,7 @@
     "11 UK"
    ],
    "returns": "14-28 days (not final sale)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-16T02:38:10.453612+00:00",
    "postedAt": "2026-11-16T02:38:10.453612+00:00",
    "fromCatalog": true
@@ -1114,7 +2646,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-16T01:27:16.597575+00:00",
    "postedAt": "2026-11-16T01:27:16.597575+00:00",
    "fromCatalog": true
@@ -1139,7 +2671,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-16T01:27:16.597575+00:00",
    "postedAt": "2026-11-16T01:27:16.597575+00:00",
    "fromCatalog": true
@@ -1161,7 +2693,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T11:36:08.977112+00:00",
    "postedAt": "2026-11-13T11:36:08.977112+00:00",
    "fromCatalog": true
@@ -1183,7 +2715,7 @@
    "source": "Our Place",
    "sizes": [],
    "returns": "100 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -1205,7 +2737,7 @@
    "source": "Our Place",
    "sizes": [],
    "returns": "100 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -1227,7 +2759,7 @@
    "source": "Our Place",
    "sizes": [],
    "returns": "100 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -1249,7 +2781,7 @@
    "source": "Our Place",
    "sizes": [],
    "returns": "100 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -1271,7 +2803,7 @@
    "source": "Our Place",
    "sizes": [],
    "returns": "100 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -1293,7 +2825,7 @@
    "source": "Our Place",
    "sizes": [],
    "returns": "100 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -1315,7 +2847,7 @@
    "source": "Our Place",
    "sizes": [],
    "returns": "100 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -1337,7 +2869,7 @@
    "source": "Our Place",
    "sizes": [],
    "returns": "100 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -1359,7 +2891,7 @@
    "source": "Our Place",
    "sizes": [],
    "returns": "100 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -1381,7 +2913,7 @@
    "source": "Our Place",
    "sizes": [],
    "returns": "100 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -1403,7 +2935,7 @@
    "source": "Our Place",
    "sizes": [],
    "returns": "100 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -1425,7 +2957,7 @@
    "source": "Our Place",
    "sizes": [],
    "returns": "100 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -1447,7 +2979,7 @@
    "source": "Our Place",
    "sizes": [],
    "returns": "100 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -1469,7 +3001,7 @@
    "source": "Our Place",
    "sizes": [],
    "returns": "100 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -1491,7 +3023,7 @@
    "source": "Our Place",
    "sizes": [],
    "returns": "100 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -1513,7 +3045,7 @@
    "source": "Our Place",
    "sizes": [],
    "returns": "100 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -1535,7 +3067,7 @@
    "source": "Our Place",
    "sizes": [],
    "returns": "100 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -1557,7 +3089,7 @@
    "source": "JLab",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -1579,7 +3111,7 @@
    "source": "JLab",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -1601,7 +3133,7 @@
    "source": "JLab",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -1623,7 +3155,7 @@
    "source": "JLab",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -1645,7 +3177,7 @@
    "source": "JLab",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -1667,7 +3199,7 @@
    "source": "JLab",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -1689,7 +3221,7 @@
    "source": "JLab",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -1711,7 +3243,7 @@
    "source": "JLab",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -1733,7 +3265,7 @@
    "source": "JLab",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -1755,7 +3287,7 @@
    "source": "JLab",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -1777,7 +3309,7 @@
    "source": "JLab",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -1799,7 +3331,7 @@
    "source": "JLab",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -1821,7 +3353,7 @@
    "source": "JLab",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -1843,7 +3375,7 @@
    "source": "Wyze",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -1865,7 +3397,7 @@
    "source": "Wyze",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -1887,7 +3419,7 @@
    "source": "Wyze",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -1909,7 +3441,7 @@
    "source": "Wyze",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -1931,7 +3463,7 @@
    "source": "Wyze",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -1953,7 +3485,7 @@
    "source": "Wyze",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -1975,7 +3507,7 @@
    "source": "Wyze",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -1997,7 +3529,7 @@
    "source": "Wyze",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -2019,7 +3551,7 @@
    "source": "Wyze",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -2041,7 +3573,7 @@
    "source": "Wyze",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -2063,7 +3595,7 @@
    "source": "Wyze",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -2085,7 +3617,7 @@
    "source": "Wyze",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -2107,7 +3639,7 @@
    "source": "Wyze",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -2129,7 +3661,7 @@
    "source": "Wyze",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -2151,7 +3683,7 @@
    "source": "Wyze",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -2173,7 +3705,7 @@
    "source": "Wyze",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -2195,7 +3727,7 @@
    "source": "Wyze",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -2217,7 +3749,7 @@
    "source": "Wyze",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -2239,7 +3771,7 @@
    "source": "Wyze",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -2261,7 +3793,7 @@
    "source": "Wyze",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -2283,7 +3815,7 @@
    "source": "Wyze",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -2305,7 +3837,7 @@
    "source": "Wyze",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -2327,7 +3859,7 @@
    "source": "Wyze",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -2349,7 +3881,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -2371,7 +3903,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -2393,7 +3925,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -2415,7 +3947,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -2437,7 +3969,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -2459,7 +3991,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -2481,7 +4013,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -2503,7 +4035,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -2525,7 +4057,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -2547,7 +4079,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -2569,7 +4101,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -2591,7 +4123,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -2613,7 +4145,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -2635,7 +4167,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -2657,7 +4189,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -2679,7 +4211,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -2701,7 +4233,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -2723,7 +4255,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -2745,7 +4277,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -2767,7 +4299,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -2789,7 +4321,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -2811,7 +4343,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -2833,7 +4365,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -2855,7 +4387,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -2877,7 +4409,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -2899,7 +4431,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -2921,7 +4453,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -2943,7 +4475,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -2965,7 +4497,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -2987,7 +4519,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -3009,7 +4541,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -3031,7 +4563,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -3053,7 +4585,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -3075,7 +4607,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -3097,7 +4629,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -3119,7 +4651,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -3141,7 +4673,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -3163,7 +4695,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -3185,7 +4717,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -3207,7 +4739,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -3229,7 +4761,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -3251,7 +4783,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -3273,7 +4805,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -3295,7 +4827,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -3317,7 +4849,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -3339,7 +4871,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -3361,7 +4893,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -3383,7 +4915,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -3405,7 +4937,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -3427,7 +4959,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -3449,7 +4981,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -3471,7 +5003,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -3493,7 +5025,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -3515,7 +5047,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -3537,7 +5069,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -3559,7 +5091,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -3581,7 +5113,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -3603,7 +5135,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -3625,7 +5157,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -3647,7 +5179,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -3669,7 +5201,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -3691,7 +5223,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -3713,7 +5245,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -3735,7 +5267,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -3757,7 +5289,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -3779,7 +5311,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -3801,7 +5333,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -3823,7 +5355,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -3845,7 +5377,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -3867,7 +5399,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -3889,7 +5421,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -3911,7 +5443,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -3933,7 +5465,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -3955,51 +5487,7 @@
    "source": "Stanley",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
-   "foundAt": "2026-11-13T09:53:03.534782+00:00",
-   "postedAt": "2026-11-13T09:53:03.534782+00:00",
-   "fromCatalog": true
-  },
-  {
-   "id": "sh-www.stanley1913.com-14973496885608",
-   "title": "Stanley 1913 The IceFlow\u00ae Flip Straw Tumbler | 20 OZ",
-   "brand": "Stanley 1913",
-   "store": "Stanley",
-   "url": "https://www.stanley1913.com/products/iceflow-flip-straw-tumbler-20-oz",
-   "post": "https://www.stanley1913.com/products/iceflow-flip-straw-tumbler-20-oz",
-   "img": "https://cdn.shopify.com/s/files/1/0375/3269/6635/files/Web_PNG_Square-TheIceFlowFlipStraw2.0Tumbler20oz-EmeraldHoneydew-Front.png?v=1781548534&width=480",
-   "price": 22.5,
-   "was": 40.0,
-   "pct": 44,
-   "tier": "good",
-   "cat": "household",
-   "priority": true,
-   "source": "Stanley",
-   "sizes": [],
-   "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
-   "foundAt": "2026-11-13T09:53:03.534782+00:00",
-   "postedAt": "2026-11-13T09:53:03.534782+00:00",
-   "fromCatalog": true
-  },
-  {
-   "id": "sh-www.stanley1913.com-14973499638120",
-   "title": "Stanley 1913 The Quencher\u00ae ProTour Flip Straw Tumbler | 30 OZ",
-   "brand": "Stanley 1913",
-   "store": "Stanley",
-   "url": "https://www.stanley1913.com/products/the-quencher-protour-flip-straw-tumbler-30-oz-bts",
-   "post": "https://www.stanley1913.com/products/the-quencher-protour-flip-straw-tumbler-30-oz-bts",
-   "img": "https://cdn.shopify.com/s/files/1/0375/3269/6635/files/Web_PNG_Square-TheQuencherProTourFlipStrawTumbler30oz-SorbetDaisies-Front.png?v=1782507850&width=480",
-   "price": 30.0,
-   "was": 50.0,
-   "pct": 40,
-   "tier": "good",
-   "cat": "household",
-   "priority": true,
-   "source": "Stanley",
-   "sizes": [],
-   "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -4021,51 +5509,7 @@
    "source": "Stanley",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
-   "foundAt": "2026-11-13T09:53:03.534782+00:00",
-   "postedAt": "2026-11-13T09:53:03.534782+00:00",
-   "fromCatalog": true
-  },
-  {
-   "id": "sh-www.stanley1913.com-14973502325096",
-   "title": "Stanley 1913 All Day Mini Lunch Box | 4.2 QT",
-   "brand": "Stanley 1913",
-   "store": "Stanley",
-   "url": "https://www.stanley1913.com/products/all-day-mini-lunch-box-4-2-qt-3-97-l-bts",
-   "post": "https://www.stanley1913.com/products/all-day-mini-lunch-box-4-2-qt-3-97-l-bts",
-   "img": "https://cdn.shopify.com/s/files/1/0375/3269/6635/files/Web_PNG_Square-TheAllDayMiniLunchBox4.2QT-SorbetWildflower-Front.png?v=1782834681&width=480",
-   "price": 33.75,
-   "was": 55.0,
-   "pct": 39,
-   "tier": "good",
-   "cat": "household",
-   "priority": true,
-   "source": "Stanley",
-   "sizes": [],
-   "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
-   "foundAt": "2026-11-13T09:53:03.534782+00:00",
-   "postedAt": "2026-11-13T09:53:03.534782+00:00",
-   "fromCatalog": true
-  },
-  {
-   "id": "sh-www.stanley1913.com-14973502849384",
-   "title": "Stanley 1913 The Quencher\u00ae ProTour Flip Straw Tumbler | 20 OZ",
-   "brand": "Stanley 1913",
-   "store": "Stanley",
-   "url": "https://www.stanley1913.com/products/quencher-protour-flip-straw-tumbler-20-oz-0-59-l-bts",
-   "post": "https://www.stanley1913.com/products/quencher-protour-flip-straw-tumbler-20-oz-0-59-l-bts",
-   "img": "https://cdn.shopify.com/s/files/1/0375/3269/6635/files/Web_PNG_Square-TheQuencherProTourFlipStrawTumbler-20OZ-BlueDreamWildflower-Front.png?v=1782914551&width=480",
-   "price": 26.25,
-   "was": 45.0,
-   "pct": 42,
-   "tier": "good",
-   "cat": "household",
-   "priority": true,
-   "source": "Stanley",
-   "sizes": [],
-   "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -4087,7 +5531,7 @@
    "source": "Stanley",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -4109,7 +5553,7 @@
    "source": "Stanley",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -4131,7 +5575,7 @@
    "source": "Stanley",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -4156,7 +5600,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:03:45.918612+00:00",
    "postedAt": "2026-11-13T09:03:45.918612+00:00",
    "fromCatalog": true
@@ -4180,7 +5624,7 @@
     "S"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:03:45.918612+00:00",
    "postedAt": "2026-11-13T09:03:45.918612+00:00",
    "fromCatalog": true
@@ -4205,7 +5649,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T09:03:45.918612+00:00",
    "postedAt": "2026-11-13T09:03:45.918612+00:00",
    "fromCatalog": true
@@ -4230,7 +5674,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -4255,7 +5699,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -4279,7 +5723,7 @@
     "S"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -4304,7 +5748,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -4329,7 +5773,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -4354,7 +5798,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -4378,7 +5822,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -4402,7 +5846,7 @@
     "IT 44"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -4427,7 +5871,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -4452,7 +5896,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -4477,7 +5921,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -4502,7 +5946,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -4527,7 +5971,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -4552,7 +5996,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -4577,7 +6021,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -4601,7 +6045,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -4625,7 +6069,7 @@
     "S"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -4650,7 +6094,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -4675,7 +6119,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -4700,7 +6144,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -4725,7 +6169,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -4750,7 +6194,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -4775,7 +6219,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -4800,7 +6244,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -4824,7 +6268,7 @@
     "M"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -4848,7 +6292,7 @@
     "M"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -4873,7 +6317,7 @@
     "M"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -4898,7 +6342,7 @@
     "M"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -4923,7 +6367,7 @@
     "M"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -4947,7 +6391,7 @@
     "S"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -4971,7 +6415,7 @@
     "OS"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -4995,7 +6439,7 @@
     "OS"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -5019,7 +6463,7 @@
     "OS"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -5043,7 +6487,7 @@
     "S"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -5067,7 +6511,7 @@
     "S"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -5092,7 +6536,7 @@
     "M"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -5116,7 +6560,7 @@
     "M"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -5140,7 +6584,7 @@
     "S"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -5165,7 +6609,7 @@
     "M"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -5189,7 +6633,7 @@
     "M"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -5213,7 +6657,7 @@
     "M"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -5237,7 +6681,7 @@
     "M"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -5261,7 +6705,7 @@
     "OS"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -5286,7 +6730,7 @@
     "M"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -5311,7 +6755,7 @@
     "M"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -5336,7 +6780,7 @@
     "M"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -5360,7 +6804,7 @@
     "S"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -5385,7 +6829,7 @@
     "M"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -5410,7 +6854,7 @@
     "M"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -5434,7 +6878,7 @@
     "1"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -5458,7 +6902,7 @@
     "2"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -5482,7 +6926,7 @@
     "2"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -5506,7 +6950,7 @@
     "S"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -5531,7 +6975,7 @@
     "M"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -5556,7 +7000,7 @@
     "M"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -5580,7 +7024,7 @@
     "S"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -5604,7 +7048,7 @@
     "OS"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -5628,7 +7072,7 @@
     "OS"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -5652,7 +7096,7 @@
     "OS"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -5677,7 +7121,7 @@
     "M"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -5702,7 +7146,7 @@
     "M"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -5726,7 +7170,7 @@
     "OS"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -5750,7 +7194,7 @@
     "OS"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -5774,7 +7218,7 @@
     "OS"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -5798,7 +7242,7 @@
     "OS"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -5822,7 +7266,7 @@
     "OS"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -5846,7 +7290,7 @@
     "OS"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -5870,7 +7314,7 @@
     "OS"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -5895,7 +7339,7 @@
     "M"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -5919,7 +7363,7 @@
     "M"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -5944,7 +7388,7 @@
     "M"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -5969,7 +7413,7 @@
     "M"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -5994,7 +7438,7 @@
     "M"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -6018,7 +7462,7 @@
     "S"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -6043,7 +7487,7 @@
     "M"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -6068,7 +7512,7 @@
     "M"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -6092,7 +7536,7 @@
     "S"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -6116,7 +7560,7 @@
     "S"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -6141,7 +7585,7 @@
     "M"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -6165,7 +7609,7 @@
     "OS"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -6189,7 +7633,7 @@
     "M"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -6213,7 +7657,7 @@
     "OS"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -6238,7 +7682,7 @@
     "M"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -6262,7 +7706,7 @@
     "OS"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -6286,7 +7730,7 @@
     "OS"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -6310,7 +7754,7 @@
     "M"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -6334,7 +7778,7 @@
     "OS"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -6358,7 +7802,7 @@
     "M/L"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -6382,7 +7826,7 @@
     "S/M"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -6406,7 +7850,7 @@
     "S/M"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -6430,7 +7874,7 @@
     "S/M"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -6454,7 +7898,7 @@
     "S"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -6478,7 +7922,7 @@
     "M"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -6502,7 +7946,7 @@
     "OS"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -6526,7 +7970,7 @@
     "OS"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -6550,7 +7994,7 @@
     "OS"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -6574,7 +8018,7 @@
     "OS"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -6598,7 +8042,7 @@
     "OS"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -6623,7 +8067,7 @@
     "M"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -6648,7 +8092,7 @@
     "M"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -6672,7 +8116,7 @@
     "11"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -6696,7 +8140,7 @@
     "11"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -6720,7 +8164,7 @@
     "S"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -6744,7 +8188,7 @@
     "11"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -6768,7 +8212,7 @@
     "11"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -6792,7 +8236,7 @@
     "S"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -6816,7 +8260,7 @@
     "OS"
    ],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -6840,7 +8284,7 @@
     "OS"
    ],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -6865,7 +8309,7 @@
     "M"
    ],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -6889,7 +8333,7 @@
     "OS"
    ],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -6914,7 +8358,7 @@
     "M"
    ],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -6939,7 +8383,7 @@
     "M"
    ],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -6963,7 +8407,7 @@
     "OS"
    ],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -6987,7 +8431,7 @@
     "S"
    ],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -7011,7 +8455,7 @@
     "S"
    ],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -7035,7 +8479,7 @@
     "S"
    ],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -7059,7 +8503,7 @@
     "S"
    ],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -7084,7 +8528,7 @@
     "M"
    ],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -7109,7 +8553,7 @@
     "M"
    ],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -7134,7 +8578,7 @@
     "M"
    ],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -7159,7 +8603,7 @@
     "2"
    ],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -7184,7 +8628,7 @@
     "M"
    ],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -7208,7 +8652,7 @@
     "S"
    ],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -7232,7 +8676,7 @@
     "M"
    ],
    "returns": "30 days",
-   "verified": "2026-11-16T16:44:25.211738+00:00",
+   "verified": "2026-11-16T17:47:39.951159+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
