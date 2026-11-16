@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-11-16T22:18:28.109458+00:00",
- "lastRunFound": 13,
+ "updatedAt": "2026-11-16T23:07:23.966001+00:00",
+ "lastRunFound": 1,
  "deals": [
   {
    "id": "dell-dc16255_fixed_10",
@@ -19,7 +19,7 @@
    "source": "Dell",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T22:18:28.109458+00:00",
    "postedAt": "2026-11-16T22:18:28.109458+00:00",
    "fromCatalog": true
@@ -41,7 +41,7 @@
    "source": "Dell",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T22:18:28.109458+00:00",
    "postedAt": "2026-11-16T22:18:28.109458+00:00",
    "fromCatalog": true
@@ -63,7 +63,7 @@
    "source": "Dell",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T22:18:28.109458+00:00",
    "postedAt": "2026-11-16T22:18:28.109458+00:00",
    "fromCatalog": true
@@ -85,7 +85,7 @@
    "source": "Dell",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T22:18:28.109458+00:00",
    "postedAt": "2026-11-16T22:18:28.109458+00:00",
    "fromCatalog": true
@@ -107,7 +107,7 @@
    "source": "Dell",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T22:18:28.109458+00:00",
    "postedAt": "2026-11-16T22:18:28.109458+00:00",
    "fromCatalog": true
@@ -129,7 +129,7 @@
    "source": "Dell",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T22:18:28.109458+00:00",
    "postedAt": "2026-11-16T22:18:28.109458+00:00",
    "fromCatalog": true
@@ -151,7 +151,7 @@
    "source": "Dell",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T22:18:28.109458+00:00",
    "postedAt": "2026-11-16T22:18:28.109458+00:00",
    "fromCatalog": true
@@ -163,7 +163,7 @@
    "store": "Dell",
    "url": "https://www.dell.com/en-us/shop/laptop-computers/spd/alienware15da15260/da15260_so_25",
    "post": "https://www.dell.com/en-us/shop/laptop-computers/spd/alienware15da15260/da15260_so_25",
-   "img": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/alienware-notebooks/da15260/media-gallery/notebook-alienware-15-da15260-mb3-intel-black-gallery-1.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=554&qlt=100,0&resMode=sharp2&size=554,402",
+   "img": "https://i.dell.com/assetlink/img/global/prod-11299400-alienware-da15260-black-480x348-dl12x76w-original.png?fmt=png-alpha&pscan=auto&scl=1&hei=348&wid=480&qlt=100,0&resMode=sharp2&size=480,348",
    "price": 1399.99,
    "was": 1799.99,
    "pct": 22,
@@ -173,7 +173,7 @@
    "source": "Dell",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T22:18:28.109458+00:00",
    "postedAt": "2026-11-16T22:18:28.109458+00:00",
    "fromCatalog": true
@@ -195,7 +195,7 @@
    "source": "Dell",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T22:18:28.109458+00:00",
    "postedAt": "2026-11-16T22:18:28.109458+00:00",
    "fromCatalog": true
@@ -217,7 +217,7 @@
    "source": "Dell",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T22:18:28.109458+00:00",
    "postedAt": "2026-11-16T22:18:28.109458+00:00",
    "fromCatalog": true
@@ -239,7 +239,7 @@
    "source": "Dell",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T22:18:28.109458+00:00",
    "postedAt": "2026-11-16T22:18:28.109458+00:00",
    "fromCatalog": true
@@ -261,7 +261,7 @@
    "source": "Dell",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T22:18:28.109458+00:00",
    "postedAt": "2026-11-16T22:18:28.109458+00:00",
    "fromCatalog": true
@@ -286,7 +286,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T21:24:58.847052+00:00",
    "postedAt": "2026-11-16T21:24:58.847052+00:00",
    "fromCatalog": true
@@ -310,7 +310,7 @@
     "IT 44"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T21:24:58.847052+00:00",
    "postedAt": "2026-11-16T21:24:58.847052+00:00",
    "fromCatalog": true
@@ -334,7 +334,7 @@
     "IT 44"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T20:31:10.465237+00:00",
    "postedAt": "2026-11-16T20:31:10.465237+00:00",
    "fromCatalog": true
@@ -358,7 +358,7 @@
     "IT 44"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T20:31:10.465237+00:00",
    "postedAt": "2026-11-16T20:31:10.465237+00:00",
    "fromCatalog": true
@@ -382,29 +382,7 @@
     "IT 44"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
-   "foundAt": "2026-11-16T20:31:10.465237+00:00",
-   "postedAt": "2026-11-16T20:31:10.465237+00:00",
-   "fromCatalog": true
-  },
-  {
-   "id": "sh-www.stanley1913.com-8160857686143",
-   "title": "Stanley The IceFlow\u00ae Flip Straw Tumbler | 20 OZ - Stanley Create",
-   "brand": "Stanley",
-   "store": "Stanley",
-   "url": "https://www.stanley1913.com/products/the-iceflow-flip-straw-tumbler-20-oz-sc",
-   "post": "https://www.stanley1913.com/products/the-iceflow-flip-straw-tumbler-20-oz-sc",
-   "img": "https://cdn.shopify.com/s/files/1/0375/3269/6635/files/B2B_Web_PNG-TheIceFlowTMFlipStrawTumbler20OZ-Ash-Front_ea73ab6e-2209-4ea3-9e64-e1ca0da298f7.png?v=1762182055&width=480",
-   "price": 16.88,
-   "was": 30.0,
-   "pct": 44,
-   "tier": "good",
-   "cat": "household",
-   "priority": true,
-   "source": "Stanley",
-   "sizes": [],
-   "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T20:31:10.465237+00:00",
    "postedAt": "2026-11-16T20:31:10.465237+00:00",
    "fromCatalog": true
@@ -428,7 +406,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T19:40:28.007722+00:00",
    "postedAt": "2026-11-16T19:40:28.007722+00:00",
    "fromCatalog": true
@@ -452,7 +430,7 @@
     "S"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T19:40:28.007722+00:00",
    "postedAt": "2026-11-16T19:40:28.007722+00:00",
    "fromCatalog": true
@@ -476,7 +454,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T19:40:28.007722+00:00",
    "postedAt": "2026-11-16T19:40:28.007722+00:00",
    "fromCatalog": true
@@ -500,7 +478,7 @@
     "S"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T19:40:28.007722+00:00",
    "postedAt": "2026-11-16T19:40:28.007722+00:00",
    "fromCatalog": true
@@ -524,7 +502,7 @@
     "S"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T19:40:28.007722+00:00",
    "postedAt": "2026-11-16T19:40:28.007722+00:00",
    "fromCatalog": true
@@ -549,7 +527,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T19:40:28.007722+00:00",
    "postedAt": "2026-11-16T19:40:28.007722+00:00",
    "fromCatalog": true
@@ -574,7 +552,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T19:40:28.007722+00:00",
    "postedAt": "2026-11-16T19:40:28.007722+00:00",
    "fromCatalog": true
@@ -599,7 +577,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T19:40:28.007722+00:00",
    "postedAt": "2026-11-16T19:40:28.007722+00:00",
    "fromCatalog": true
@@ -623,7 +601,7 @@
     "S"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T19:40:28.007722+00:00",
    "postedAt": "2026-11-16T19:40:28.007722+00:00",
    "fromCatalog": true
@@ -647,7 +625,7 @@
     "S"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T19:40:28.007722+00:00",
    "postedAt": "2026-11-16T19:40:28.007722+00:00",
    "fromCatalog": true
@@ -671,7 +649,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T19:40:28.007722+00:00",
    "postedAt": "2026-11-16T19:40:28.007722+00:00",
    "fromCatalog": true
@@ -696,7 +674,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T19:40:28.007722+00:00",
    "postedAt": "2026-11-16T19:40:28.007722+00:00",
    "fromCatalog": true
@@ -721,7 +699,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T19:40:28.007722+00:00",
    "postedAt": "2026-11-16T19:40:28.007722+00:00",
    "fromCatalog": true
@@ -746,7 +724,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T19:40:28.007722+00:00",
    "postedAt": "2026-11-16T19:40:28.007722+00:00",
    "fromCatalog": true
@@ -770,7 +748,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T19:40:28.007722+00:00",
    "postedAt": "2026-11-16T19:40:28.007722+00:00",
    "fromCatalog": true
@@ -794,7 +772,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T19:40:28.007722+00:00",
    "postedAt": "2026-11-16T19:40:28.007722+00:00",
    "fromCatalog": true
@@ -818,7 +796,7 @@
     "IT 44"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T19:40:28.007722+00:00",
    "postedAt": "2026-11-16T19:40:28.007722+00:00",
    "fromCatalog": true
@@ -842,7 +820,7 @@
     "IT 44"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T19:40:28.007722+00:00",
    "postedAt": "2026-11-16T19:40:28.007722+00:00",
    "fromCatalog": true
@@ -867,7 +845,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T18:38:19.446093+00:00",
    "postedAt": "2026-11-16T18:38:19.446093+00:00",
    "fromCatalog": true
@@ -892,7 +870,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T18:38:19.446093+00:00",
    "postedAt": "2026-11-16T18:38:19.446093+00:00",
    "fromCatalog": true
@@ -917,7 +895,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T18:38:19.446093+00:00",
    "postedAt": "2026-11-16T18:38:19.446093+00:00",
    "fromCatalog": true
@@ -941,7 +919,7 @@
     "S"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T18:38:19.446093+00:00",
    "postedAt": "2026-11-16T18:38:19.446093+00:00",
    "fromCatalog": true
@@ -966,7 +944,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T18:38:19.446093+00:00",
    "postedAt": "2026-11-16T18:38:19.446093+00:00",
    "fromCatalog": true
@@ -990,7 +968,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T18:38:19.446093+00:00",
    "postedAt": "2026-11-16T18:38:19.446093+00:00",
    "fromCatalog": true
@@ -1015,7 +993,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T18:38:19.446093+00:00",
    "postedAt": "2026-11-16T18:38:19.446093+00:00",
    "fromCatalog": true
@@ -1039,7 +1017,7 @@
     "S"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T18:38:19.446093+00:00",
    "postedAt": "2026-11-16T18:38:19.446093+00:00",
    "fromCatalog": true
@@ -1063,7 +1041,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T18:38:19.446093+00:00",
    "postedAt": "2026-11-16T18:38:19.446093+00:00",
    "fromCatalog": true
@@ -1088,7 +1066,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T18:38:19.446093+00:00",
    "postedAt": "2026-11-16T18:38:19.446093+00:00",
    "fromCatalog": true
@@ -1113,7 +1091,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T18:38:19.446093+00:00",
    "postedAt": "2026-11-16T18:38:19.446093+00:00",
    "fromCatalog": true
@@ -1138,7 +1116,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T18:38:19.446093+00:00",
    "postedAt": "2026-11-16T18:38:19.446093+00:00",
    "fromCatalog": true
@@ -1163,7 +1141,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T18:38:19.446093+00:00",
    "postedAt": "2026-11-16T18:38:19.446093+00:00",
    "fromCatalog": true
@@ -1187,7 +1165,7 @@
     "S"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T18:38:19.446093+00:00",
    "postedAt": "2026-11-16T18:38:19.446093+00:00",
    "fromCatalog": true
@@ -1211,7 +1189,7 @@
     "S"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T18:38:19.446093+00:00",
    "postedAt": "2026-11-16T18:38:19.446093+00:00",
    "fromCatalog": true
@@ -1236,7 +1214,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T18:38:19.446093+00:00",
    "postedAt": "2026-11-16T18:38:19.446093+00:00",
    "fromCatalog": true
@@ -1260,7 +1238,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T18:38:19.446093+00:00",
    "postedAt": "2026-11-16T18:38:19.446093+00:00",
    "fromCatalog": true
@@ -1284,7 +1262,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T18:38:19.446093+00:00",
    "postedAt": "2026-11-16T18:38:19.446093+00:00",
    "fromCatalog": true
@@ -1309,7 +1287,7 @@
     "2"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T18:38:19.446093+00:00",
    "postedAt": "2026-11-16T18:38:19.446093+00:00",
    "fromCatalog": true
@@ -1333,7 +1311,7 @@
     "FR 44"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T18:38:19.446093+00:00",
    "postedAt": "2026-11-16T18:38:19.446093+00:00",
    "fromCatalog": true
@@ -1358,7 +1336,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T18:38:19.446093+00:00",
    "postedAt": "2026-11-16T18:38:19.446093+00:00",
    "fromCatalog": true
@@ -1382,7 +1360,7 @@
     "IT 44"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T17:47:39.952654+00:00",
    "postedAt": "2026-11-16T17:47:39.952654+00:00",
    "fromCatalog": true
@@ -1406,7 +1384,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T17:47:39.952654+00:00",
    "postedAt": "2026-11-16T17:47:39.952654+00:00",
    "fromCatalog": true
@@ -1430,7 +1408,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T17:47:39.952654+00:00",
    "postedAt": "2026-11-16T17:47:39.952654+00:00",
    "fromCatalog": true
@@ -1455,7 +1433,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T17:47:39.952654+00:00",
    "postedAt": "2026-11-16T17:47:39.952654+00:00",
    "fromCatalog": true
@@ -1480,7 +1458,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T17:47:39.952654+00:00",
    "postedAt": "2026-11-16T17:47:39.952654+00:00",
    "fromCatalog": true
@@ -1505,7 +1483,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T17:47:39.952654+00:00",
    "postedAt": "2026-11-16T17:47:39.952654+00:00",
    "fromCatalog": true
@@ -1529,7 +1507,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T17:47:39.952654+00:00",
    "postedAt": "2026-11-16T17:47:39.952654+00:00",
    "fromCatalog": true
@@ -1554,7 +1532,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T17:47:39.952654+00:00",
    "postedAt": "2026-11-16T17:47:39.952654+00:00",
    "fromCatalog": true
@@ -1578,7 +1556,7 @@
     "S"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T17:47:39.952654+00:00",
    "postedAt": "2026-11-16T17:47:39.952654+00:00",
    "fromCatalog": true
@@ -1603,7 +1581,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T17:47:39.952654+00:00",
    "postedAt": "2026-11-16T17:47:39.952654+00:00",
    "fromCatalog": true
@@ -1627,7 +1605,7 @@
     "S"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T17:47:39.952654+00:00",
    "postedAt": "2026-11-16T17:47:39.952654+00:00",
    "fromCatalog": true
@@ -1652,7 +1630,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T17:47:39.952654+00:00",
    "postedAt": "2026-11-16T17:47:39.952654+00:00",
    "fromCatalog": true
@@ -1674,7 +1652,7 @@
    "source": "Stanley",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T17:47:39.952654+00:00",
    "postedAt": "2026-11-16T17:47:39.952654+00:00",
    "fromCatalog": true
@@ -1696,7 +1674,7 @@
    "source": "Stanley",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T17:47:39.952654+00:00",
    "postedAt": "2026-11-16T17:47:39.952654+00:00",
    "fromCatalog": true
@@ -1718,7 +1696,7 @@
    "source": "Stanley",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T17:47:39.952654+00:00",
    "postedAt": "2026-11-16T17:47:39.952654+00:00",
    "fromCatalog": true
@@ -1740,7 +1718,7 @@
    "source": "Stanley",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T17:47:39.952654+00:00",
    "postedAt": "2026-11-16T17:47:39.952654+00:00",
    "fromCatalog": true
@@ -1762,7 +1740,7 @@
    "source": "Stanley",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T17:47:39.952654+00:00",
    "postedAt": "2026-11-16T17:47:39.952654+00:00",
    "fromCatalog": true
@@ -1784,7 +1762,7 @@
    "source": "Stanley",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T17:47:39.952654+00:00",
    "postedAt": "2026-11-16T17:47:39.952654+00:00",
    "fromCatalog": true
@@ -1806,7 +1784,7 @@
    "source": "Stanley",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T17:47:39.952654+00:00",
    "postedAt": "2026-11-16T17:47:39.952654+00:00",
    "fromCatalog": true
@@ -1828,7 +1806,7 @@
    "source": "Stanley",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T17:47:39.952654+00:00",
    "postedAt": "2026-11-16T17:47:39.952654+00:00",
    "fromCatalog": true
@@ -1850,7 +1828,7 @@
    "source": "Stanley",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T17:47:39.952654+00:00",
    "postedAt": "2026-11-16T17:47:39.952654+00:00",
    "fromCatalog": true
@@ -1872,7 +1850,7 @@
    "source": "Stanley",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T17:47:39.952654+00:00",
    "postedAt": "2026-11-16T17:47:39.952654+00:00",
    "fromCatalog": true
@@ -1894,7 +1872,7 @@
    "source": "Stanley",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T17:47:39.952654+00:00",
    "postedAt": "2026-11-16T17:47:39.952654+00:00",
    "fromCatalog": true
@@ -1916,7 +1894,7 @@
    "source": "Stanley",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T17:47:39.952654+00:00",
    "postedAt": "2026-11-16T17:47:39.952654+00:00",
    "fromCatalog": true
@@ -1938,7 +1916,7 @@
    "source": "Stanley",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T17:47:39.952654+00:00",
    "postedAt": "2026-11-16T17:47:39.952654+00:00",
    "fromCatalog": true
@@ -1960,7 +1938,7 @@
    "source": "Stanley",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T17:47:39.952654+00:00",
    "postedAt": "2026-11-16T17:47:39.952654+00:00",
    "fromCatalog": true
@@ -1982,7 +1960,7 @@
    "source": "Stanley",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T17:47:39.952654+00:00",
    "postedAt": "2026-11-16T17:47:39.952654+00:00",
    "fromCatalog": true
@@ -2004,7 +1982,7 @@
    "source": "Stanley",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T17:47:39.952654+00:00",
    "postedAt": "2026-11-16T17:47:39.952654+00:00",
    "fromCatalog": true
@@ -2026,7 +2004,7 @@
    "source": "Stanley",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T17:47:39.952654+00:00",
    "postedAt": "2026-11-16T17:47:39.952654+00:00",
    "fromCatalog": true
@@ -2048,7 +2026,7 @@
    "source": "Stanley",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T17:47:39.952654+00:00",
    "postedAt": "2026-11-16T17:47:39.952654+00:00",
    "fromCatalog": true
@@ -2070,7 +2048,7 @@
    "source": "Stanley",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T17:47:39.952654+00:00",
    "postedAt": "2026-11-16T17:47:39.952654+00:00",
    "fromCatalog": true
@@ -2092,7 +2070,7 @@
    "source": "Stanley",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T17:47:39.952654+00:00",
    "postedAt": "2026-11-16T17:47:39.952654+00:00",
    "fromCatalog": true
@@ -2114,7 +2092,7 @@
    "source": "Stanley",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T17:47:39.952654+00:00",
    "postedAt": "2026-11-16T17:47:39.952654+00:00",
    "fromCatalog": true
@@ -2136,7 +2114,7 @@
    "source": "Stanley",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T17:47:39.952654+00:00",
    "postedAt": "2026-11-16T17:47:39.952654+00:00",
    "fromCatalog": true
@@ -2158,7 +2136,7 @@
    "source": "Stanley",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T17:47:39.952654+00:00",
    "postedAt": "2026-11-16T17:47:39.952654+00:00",
    "fromCatalog": true
@@ -2180,7 +2158,7 @@
    "source": "Stanley",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T17:47:39.952654+00:00",
    "postedAt": "2026-11-16T17:47:39.952654+00:00",
    "fromCatalog": true
@@ -2202,7 +2180,7 @@
    "source": "Stanley",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T17:47:39.952654+00:00",
    "postedAt": "2026-11-16T17:47:39.952654+00:00",
    "fromCatalog": true
@@ -2224,7 +2202,7 @@
    "source": "Stanley",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T17:47:39.952654+00:00",
    "postedAt": "2026-11-16T17:47:39.952654+00:00",
    "fromCatalog": true
@@ -2246,7 +2224,7 @@
    "source": "Stanley",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T17:47:39.952654+00:00",
    "postedAt": "2026-11-16T17:47:39.952654+00:00",
    "fromCatalog": true
@@ -2268,7 +2246,7 @@
    "source": "Stanley",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T17:47:39.952654+00:00",
    "postedAt": "2026-11-16T17:47:39.952654+00:00",
    "fromCatalog": true
@@ -2290,7 +2268,7 @@
    "source": "Stanley",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T17:47:39.952654+00:00",
    "postedAt": "2026-11-16T17:47:39.952654+00:00",
    "fromCatalog": true
@@ -2312,7 +2290,7 @@
    "source": "Stanley",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T17:47:39.952654+00:00",
    "postedAt": "2026-11-16T17:47:39.952654+00:00",
    "fromCatalog": true
@@ -2334,7 +2312,7 @@
    "source": "Stanley",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T17:47:39.952654+00:00",
    "postedAt": "2026-11-16T17:47:39.952654+00:00",
    "fromCatalog": true
@@ -2356,7 +2334,7 @@
    "source": "Stanley",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T17:47:39.952654+00:00",
    "postedAt": "2026-11-16T17:47:39.952654+00:00",
    "fromCatalog": true
@@ -2378,7 +2356,7 @@
    "source": "Stanley",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T17:47:39.952654+00:00",
    "postedAt": "2026-11-16T17:47:39.952654+00:00",
    "fromCatalog": true
@@ -2400,7 +2378,7 @@
    "source": "Stanley",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T17:47:39.952654+00:00",
    "postedAt": "2026-11-16T17:47:39.952654+00:00",
    "fromCatalog": true
@@ -2422,7 +2400,7 @@
    "source": "Stanley",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T17:47:39.952654+00:00",
    "postedAt": "2026-11-16T17:47:39.952654+00:00",
    "fromCatalog": true
@@ -2444,7 +2422,7 @@
    "source": "Stanley",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T17:47:39.952654+00:00",
    "postedAt": "2026-11-16T17:47:39.952654+00:00",
    "fromCatalog": true
@@ -2466,7 +2444,7 @@
    "source": "Stanley",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T17:47:39.952654+00:00",
    "postedAt": "2026-11-16T17:47:39.952654+00:00",
    "fromCatalog": true
@@ -2488,7 +2466,7 @@
    "source": "Stanley",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T17:47:39.952654+00:00",
    "postedAt": "2026-11-16T17:47:39.952654+00:00",
    "fromCatalog": true
@@ -2510,7 +2488,7 @@
    "source": "Stanley",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T17:47:39.952654+00:00",
    "postedAt": "2026-11-16T17:47:39.952654+00:00",
    "fromCatalog": true
@@ -2532,7 +2510,7 @@
    "source": "Stanley",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T17:47:39.952654+00:00",
    "postedAt": "2026-11-16T17:47:39.952654+00:00",
    "fromCatalog": true
@@ -2554,7 +2532,7 @@
    "source": "Stanley",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T17:47:39.952654+00:00",
    "postedAt": "2026-11-16T17:47:39.952654+00:00",
    "fromCatalog": true
@@ -2576,29 +2554,7 @@
    "source": "Stanley",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
-   "foundAt": "2026-11-16T17:47:39.952654+00:00",
-   "postedAt": "2026-11-16T17:47:39.952654+00:00",
-   "fromCatalog": true
-  },
-  {
-   "id": "sh-www.stanley1913.com-14973361455464",
-   "title": "Stanley The Transit Flip Top Mug | 16 OZ - Stanley Create",
-   "brand": "Stanley",
-   "store": "Stanley",
-   "url": "https://www.stanley1913.com/products/the-transit-flip-top-mug-16-oz-stanley-create",
-   "post": "https://www.stanley1913.com/products/the-transit-flip-top-mug-16-oz-stanley-create",
-   "img": "https://cdn.shopify.com/s/files/1/0375/3269/6635/files/Web_PNG_Square-The_Transit_FlipTop_Mug_16OZ_-_Peach_Rose_-_Front_transparent_fe25e36b-62c6-4c71-bf2c-3e827f310f77.png?v=1773325580&width=480",
-   "price": 22.5,
-   "was": 35.0,
-   "pct": 36,
-   "tier": "good",
-   "cat": "household",
-   "priority": true,
-   "source": "Stanley",
-   "sizes": [],
-   "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T17:47:39.952654+00:00",
    "postedAt": "2026-11-16T17:47:39.952654+00:00",
    "fromCatalog": true
@@ -2620,7 +2576,29 @@
    "source": "Stanley",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
+   "foundAt": "2026-11-16T17:47:39.952654+00:00",
+   "postedAt": "2026-11-16T17:47:39.952654+00:00",
+   "fromCatalog": true
+  },
+  {
+   "id": "sh-www.stanley1913.com-14973361455464",
+   "title": "Stanley The Transit Flip Top Mug | 16 OZ - Stanley Create",
+   "brand": "Stanley",
+   "store": "Stanley",
+   "url": "https://www.stanley1913.com/products/the-transit-flip-top-mug-16-oz-stanley-create",
+   "post": "https://www.stanley1913.com/products/the-transit-flip-top-mug-16-oz-stanley-create",
+   "img": "https://cdn.shopify.com/s/files/1/0375/3269/6635/files/Web_PNG_Square-The_Transit_FlipTop_Mug_16OZ_-_Peach_Rose_-_Front_transparent_fe25e36b-62c6-4c71-bf2c-3e827f310f77.png?v=1773325580&width=480",
+   "price": 22.5,
+   "was": 35.0,
+   "pct": 36,
+   "tier": "good",
+   "cat": "household",
+   "priority": true,
+   "source": "Stanley",
+   "sizes": [],
+   "returns": "30 days",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T17:47:39.952654+00:00",
    "postedAt": "2026-11-16T17:47:39.952654+00:00",
    "fromCatalog": true
@@ -2642,7 +2620,7 @@
    "source": "Stanley",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T17:47:39.952654+00:00",
    "postedAt": "2026-11-16T17:47:39.952654+00:00",
    "fromCatalog": true
@@ -2664,7 +2642,7 @@
    "source": "Stanley",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T17:47:39.952654+00:00",
    "postedAt": "2026-11-16T17:47:39.952654+00:00",
    "fromCatalog": true
@@ -2686,7 +2664,7 @@
    "source": "Stanley",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T17:47:39.952654+00:00",
    "postedAt": "2026-11-16T17:47:39.952654+00:00",
    "fromCatalog": true
@@ -2708,7 +2686,7 @@
    "source": "Stanley",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T17:47:39.952654+00:00",
    "postedAt": "2026-11-16T17:47:39.952654+00:00",
    "fromCatalog": true
@@ -2730,7 +2708,7 @@
    "source": "Stanley",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T17:47:39.952654+00:00",
    "postedAt": "2026-11-16T17:47:39.952654+00:00",
    "fromCatalog": true
@@ -2752,7 +2730,7 @@
    "source": "Stanley",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T17:47:39.952654+00:00",
    "postedAt": "2026-11-16T17:47:39.952654+00:00",
    "fromCatalog": true
@@ -2774,7 +2752,7 @@
    "source": "Stanley",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T17:47:39.952654+00:00",
    "postedAt": "2026-11-16T17:47:39.952654+00:00",
    "fromCatalog": true
@@ -2796,7 +2774,7 @@
    "source": "Stanley",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T17:47:39.952654+00:00",
    "postedAt": "2026-11-16T17:47:39.952654+00:00",
    "fromCatalog": true
@@ -2818,7 +2796,7 @@
    "source": "Stanley",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T17:47:39.952654+00:00",
    "postedAt": "2026-11-16T17:47:39.952654+00:00",
    "fromCatalog": true
@@ -2840,7 +2818,7 @@
    "source": "Stanley",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T17:47:39.952654+00:00",
    "postedAt": "2026-11-16T17:47:39.952654+00:00",
    "fromCatalog": true
@@ -2862,7 +2840,7 @@
    "source": "Stanley",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T17:47:39.952654+00:00",
    "postedAt": "2026-11-16T17:47:39.952654+00:00",
    "fromCatalog": true
@@ -2884,7 +2862,7 @@
    "source": "Stanley",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T17:47:39.952654+00:00",
    "postedAt": "2026-11-16T17:47:39.952654+00:00",
    "fromCatalog": true
@@ -2906,7 +2884,7 @@
    "source": "Stanley",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T17:47:39.952654+00:00",
    "postedAt": "2026-11-16T17:47:39.952654+00:00",
    "fromCatalog": true
@@ -2928,7 +2906,7 @@
    "source": "Stanley",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T17:47:39.952654+00:00",
    "postedAt": "2026-11-16T17:47:39.952654+00:00",
    "fromCatalog": true
@@ -2950,7 +2928,7 @@
    "source": "Stanley",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T17:47:39.952654+00:00",
    "postedAt": "2026-11-16T17:47:39.952654+00:00",
    "fromCatalog": true
@@ -2972,7 +2950,7 @@
    "source": "Stanley",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T17:47:39.952654+00:00",
    "postedAt": "2026-11-16T17:47:39.952654+00:00",
    "fromCatalog": true
@@ -2994,7 +2972,7 @@
    "source": "Stanley",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T17:47:39.952654+00:00",
    "postedAt": "2026-11-16T17:47:39.952654+00:00",
    "fromCatalog": true
@@ -3016,7 +2994,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T16:44:25.212776+00:00",
    "postedAt": "2026-11-16T16:44:25.212776+00:00",
    "fromCatalog": true
@@ -3041,7 +3019,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T15:04:04.358578+00:00",
    "postedAt": "2026-11-16T15:04:04.358578+00:00",
    "fromCatalog": true
@@ -3066,7 +3044,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T15:04:04.358578+00:00",
    "postedAt": "2026-11-16T15:04:04.358578+00:00",
    "fromCatalog": true
@@ -3091,7 +3069,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T15:04:04.358578+00:00",
    "postedAt": "2026-11-16T15:04:04.358578+00:00",
    "fromCatalog": true
@@ -3115,7 +3093,7 @@
     "S"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T12:00:22.185693+00:00",
    "postedAt": "2026-11-16T12:00:22.185693+00:00",
    "fromCatalog": true
@@ -3140,7 +3118,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T12:00:22.185693+00:00",
    "postedAt": "2026-11-16T12:00:22.185693+00:00",
    "fromCatalog": true
@@ -3164,7 +3142,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T12:00:22.185693+00:00",
    "postedAt": "2026-11-16T12:00:22.185693+00:00",
    "fromCatalog": true
@@ -3188,7 +3166,7 @@
     "S"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T12:00:22.185693+00:00",
    "postedAt": "2026-11-16T12:00:22.185693+00:00",
    "fromCatalog": true
@@ -3212,7 +3190,7 @@
     "S"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T12:00:22.185693+00:00",
    "postedAt": "2026-11-16T12:00:22.185693+00:00",
    "fromCatalog": true
@@ -3236,7 +3214,7 @@
     "S"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T10:56:19.559981+00:00",
    "postedAt": "2026-11-16T10:56:19.559981+00:00",
    "fromCatalog": true
@@ -3260,7 +3238,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T10:56:19.559981+00:00",
    "postedAt": "2026-11-16T10:56:19.559981+00:00",
    "fromCatalog": true
@@ -3285,7 +3263,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T10:56:19.559981+00:00",
    "postedAt": "2026-11-16T10:56:19.559981+00:00",
    "fromCatalog": true
@@ -3310,7 +3288,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T10:56:19.559981+00:00",
    "postedAt": "2026-11-16T10:56:19.559981+00:00",
    "fromCatalog": true
@@ -3335,7 +3313,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T10:56:19.559981+00:00",
    "postedAt": "2026-11-16T10:56:19.559981+00:00",
    "fromCatalog": true
@@ -3359,7 +3337,7 @@
     "S"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T10:56:19.559981+00:00",
    "postedAt": "2026-11-16T10:56:19.559981+00:00",
    "fromCatalog": true
@@ -3383,7 +3361,7 @@
     "S"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T03:45:54.150840+00:00",
    "postedAt": "2026-11-16T03:45:54.150840+00:00",
    "fromCatalog": true
@@ -3407,7 +3385,7 @@
     "11 M"
    ],
    "returns": "14-28 days (not final sale)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T02:38:10.453612+00:00",
    "postedAt": "2026-11-16T02:38:10.453612+00:00",
    "fromCatalog": true
@@ -3431,7 +3409,7 @@
     "One Size"
    ],
    "returns": "14-28 days (not final sale)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T02:38:10.453612+00:00",
    "postedAt": "2026-11-16T02:38:10.453612+00:00",
    "fromCatalog": true
@@ -3455,7 +3433,7 @@
     "M"
    ],
    "returns": "14-28 days (not final sale)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T02:38:10.453612+00:00",
    "postedAt": "2026-11-16T02:38:10.453612+00:00",
    "fromCatalog": true
@@ -3479,7 +3457,7 @@
     "11 UK"
    ],
    "returns": "14-28 days (not final sale)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T02:38:10.453612+00:00",
    "postedAt": "2026-11-16T02:38:10.453612+00:00",
    "fromCatalog": true
@@ -3504,7 +3482,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T01:27:16.597575+00:00",
    "postedAt": "2026-11-16T01:27:16.597575+00:00",
    "fromCatalog": true
@@ -3529,7 +3507,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-16T01:27:16.597575+00:00",
    "postedAt": "2026-11-16T01:27:16.597575+00:00",
    "fromCatalog": true
@@ -3551,7 +3529,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T11:36:08.977112+00:00",
    "postedAt": "2026-11-13T11:36:08.977112+00:00",
    "fromCatalog": true
@@ -3573,7 +3551,7 @@
    "source": "Our Place",
    "sizes": [],
    "returns": "100 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -3595,7 +3573,7 @@
    "source": "Our Place",
    "sizes": [],
    "returns": "100 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -3617,7 +3595,7 @@
    "source": "Our Place",
    "sizes": [],
    "returns": "100 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -3639,7 +3617,7 @@
    "source": "Our Place",
    "sizes": [],
    "returns": "100 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -3661,7 +3639,7 @@
    "source": "Our Place",
    "sizes": [],
    "returns": "100 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -3683,7 +3661,7 @@
    "source": "Our Place",
    "sizes": [],
    "returns": "100 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -3705,7 +3683,7 @@
    "source": "Our Place",
    "sizes": [],
    "returns": "100 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -3727,7 +3705,7 @@
    "source": "Our Place",
    "sizes": [],
    "returns": "100 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -3749,7 +3727,7 @@
    "source": "Our Place",
    "sizes": [],
    "returns": "100 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -3771,7 +3749,7 @@
    "source": "Our Place",
    "sizes": [],
    "returns": "100 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -3793,7 +3771,7 @@
    "source": "Our Place",
    "sizes": [],
    "returns": "100 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -3815,7 +3793,7 @@
    "source": "Our Place",
    "sizes": [],
    "returns": "100 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -3837,7 +3815,7 @@
    "source": "Our Place",
    "sizes": [],
    "returns": "100 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -3859,7 +3837,7 @@
    "source": "Our Place",
    "sizes": [],
    "returns": "100 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -3881,7 +3859,7 @@
    "source": "Our Place",
    "sizes": [],
    "returns": "100 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -3903,7 +3881,7 @@
    "source": "Our Place",
    "sizes": [],
    "returns": "100 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -3925,7 +3903,7 @@
    "source": "Our Place",
    "sizes": [],
    "returns": "100 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -3947,7 +3925,7 @@
    "source": "JLab",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -3969,7 +3947,7 @@
    "source": "JLab",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -3991,7 +3969,7 @@
    "source": "JLab",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -4013,7 +3991,7 @@
    "source": "JLab",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -4035,7 +4013,7 @@
    "source": "JLab",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -4057,7 +4035,7 @@
    "source": "JLab",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -4079,7 +4057,7 @@
    "source": "Wyze",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -4101,7 +4079,7 @@
    "source": "Wyze",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -4123,7 +4101,7 @@
    "source": "Wyze",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -4145,7 +4123,7 @@
    "source": "Wyze",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -4167,7 +4145,7 @@
    "source": "Wyze",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -4189,7 +4167,7 @@
    "source": "Wyze",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -4211,7 +4189,7 @@
    "source": "Wyze",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -4233,7 +4211,7 @@
    "source": "Wyze",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -4255,7 +4233,7 @@
    "source": "Wyze",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -4277,7 +4255,7 @@
    "source": "Wyze",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -4299,7 +4277,7 @@
    "source": "Wyze",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -4321,7 +4299,7 @@
    "source": "Wyze",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -4343,7 +4321,7 @@
    "source": "Wyze",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -4365,7 +4343,7 @@
    "source": "Wyze",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -4387,7 +4365,7 @@
    "source": "Wyze",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -4409,7 +4387,7 @@
    "source": "Wyze",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -4431,7 +4409,7 @@
    "source": "Wyze",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -4453,7 +4431,7 @@
    "source": "Wyze",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -4475,7 +4453,7 @@
    "source": "Wyze",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -4497,7 +4475,7 @@
    "source": "Wyze",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -4519,7 +4497,7 @@
    "source": "Wyze",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -4541,7 +4519,7 @@
    "source": "Wyze",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -4563,7 +4541,7 @@
    "source": "Wyze",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -4585,7 +4563,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -4607,7 +4585,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -4629,7 +4607,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -4651,7 +4629,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -4673,7 +4651,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -4695,7 +4673,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -4717,7 +4695,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -4739,7 +4717,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -4761,7 +4739,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -4783,7 +4761,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -4805,7 +4783,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -4827,7 +4805,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -4849,7 +4827,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -4871,7 +4849,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -4893,7 +4871,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -4915,7 +4893,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -4937,7 +4915,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -4959,7 +4937,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -4981,7 +4959,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -5003,7 +4981,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -5025,7 +5003,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -5047,7 +5025,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -5069,7 +5047,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -5091,7 +5069,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -5113,7 +5091,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -5135,7 +5113,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -5157,7 +5135,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -5179,7 +5157,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -5201,7 +5179,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -5223,7 +5201,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -5245,7 +5223,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -5267,7 +5245,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -5289,7 +5267,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -5311,7 +5289,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -5333,7 +5311,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -5355,7 +5333,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -5377,7 +5355,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -5399,7 +5377,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -5421,7 +5399,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -5443,7 +5421,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -5465,7 +5443,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -5487,7 +5465,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -5509,7 +5487,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -5531,7 +5509,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -5553,7 +5531,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -5575,7 +5553,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -5597,7 +5575,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -5619,7 +5597,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -5641,7 +5619,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -5663,7 +5641,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -5685,7 +5663,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -5707,7 +5685,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -5729,7 +5707,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -5751,7 +5729,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -5773,7 +5751,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -5795,7 +5773,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -5817,7 +5795,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -5839,7 +5817,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -5861,7 +5839,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -5883,7 +5861,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -5905,7 +5883,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -5927,7 +5905,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -5949,7 +5927,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -5971,7 +5949,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -5993,7 +5971,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -6015,7 +5993,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -6037,7 +6015,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -6059,7 +6037,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -6081,7 +6059,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -6103,7 +6081,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -6125,7 +6103,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -6147,7 +6125,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -6169,7 +6147,7 @@
    "source": "Mous",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -6191,7 +6169,7 @@
    "source": "Stanley",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -6213,7 +6191,7 @@
    "source": "Stanley",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -6235,7 +6213,7 @@
    "source": "Stanley",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -6257,7 +6235,7 @@
    "source": "Stanley",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -6279,7 +6257,7 @@
    "source": "Stanley",
    "sizes": [],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:53:03.534782+00:00",
    "postedAt": "2026-11-13T09:53:03.534782+00:00",
    "fromCatalog": true
@@ -6304,7 +6282,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:03:45.918612+00:00",
    "postedAt": "2026-11-13T09:03:45.918612+00:00",
    "fromCatalog": true
@@ -6328,7 +6306,7 @@
     "S"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:03:45.918612+00:00",
    "postedAt": "2026-11-13T09:03:45.918612+00:00",
    "fromCatalog": true
@@ -6353,7 +6331,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T09:03:45.918612+00:00",
    "postedAt": "2026-11-13T09:03:45.918612+00:00",
    "fromCatalog": true
@@ -6378,7 +6356,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -6403,7 +6381,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -6427,7 +6405,7 @@
     "S"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -6452,7 +6430,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -6477,7 +6455,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -6502,7 +6480,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -6526,7 +6504,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -6550,7 +6528,7 @@
     "IT 44"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -6575,7 +6553,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -6600,7 +6578,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -6625,7 +6603,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -6650,7 +6628,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -6675,7 +6653,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -6700,7 +6678,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -6725,7 +6703,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -6749,7 +6727,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -6773,7 +6751,7 @@
     "S"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -6798,7 +6776,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -6823,7 +6801,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -6848,7 +6826,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -6873,7 +6851,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -6898,7 +6876,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -6923,7 +6901,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -6948,7 +6926,7 @@
     "M"
    ],
    "returns": "Free returns, 30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -6972,7 +6950,7 @@
     "M"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -6996,7 +6974,7 @@
     "M"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -7021,7 +6999,7 @@
     "M"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -7046,7 +7024,7 @@
     "M"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -7071,7 +7049,7 @@
     "M"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -7095,7 +7073,7 @@
     "S"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -7119,7 +7097,7 @@
     "OS"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -7143,7 +7121,7 @@
     "OS"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -7167,7 +7145,7 @@
     "OS"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -7191,7 +7169,7 @@
     "S"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -7215,7 +7193,7 @@
     "S"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -7240,7 +7218,7 @@
     "M"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -7264,7 +7242,7 @@
     "M"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -7288,7 +7266,7 @@
     "S"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -7313,7 +7291,7 @@
     "M"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -7337,7 +7315,7 @@
     "M"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -7361,7 +7339,7 @@
     "M"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -7385,7 +7363,7 @@
     "M"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -7409,7 +7387,7 @@
     "OS"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -7434,7 +7412,7 @@
     "M"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -7459,7 +7437,7 @@
     "M"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -7484,7 +7462,7 @@
     "M"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -7508,7 +7486,7 @@
     "S"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -7533,7 +7511,7 @@
     "M"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -7558,7 +7536,7 @@
     "M"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -7582,7 +7560,7 @@
     "1"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -7606,7 +7584,7 @@
     "2"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -7630,7 +7608,7 @@
     "2"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -7654,7 +7632,7 @@
     "S"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -7679,7 +7657,7 @@
     "M"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -7704,7 +7682,7 @@
     "M"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -7728,7 +7706,7 @@
     "S"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -7752,7 +7730,7 @@
     "OS"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -7776,7 +7754,7 @@
     "OS"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -7800,7 +7778,7 @@
     "OS"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -7825,7 +7803,7 @@
     "M"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -7850,7 +7828,7 @@
     "M"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -7874,7 +7852,7 @@
     "OS"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -7898,7 +7876,7 @@
     "OS"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -7922,7 +7900,7 @@
     "OS"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -7946,7 +7924,7 @@
     "OS"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -7970,7 +7948,7 @@
     "OS"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -7994,7 +7972,7 @@
     "OS"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -8018,7 +7996,7 @@
     "OS"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -8043,7 +8021,7 @@
     "M"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -8067,7 +8045,7 @@
     "M"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -8092,7 +8070,7 @@
     "M"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -8117,7 +8095,7 @@
     "M"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -8142,7 +8120,7 @@
     "M"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -8166,7 +8144,7 @@
     "S"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -8191,7 +8169,7 @@
     "M"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -8216,7 +8194,7 @@
     "M"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -8240,7 +8218,7 @@
     "S"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -8264,7 +8242,7 @@
     "S"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -8289,7 +8267,7 @@
     "M"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -8313,7 +8291,7 @@
     "OS"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -8337,7 +8315,7 @@
     "M"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -8361,7 +8339,7 @@
     "OS"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -8386,7 +8364,7 @@
     "M"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -8410,7 +8388,7 @@
     "OS"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -8434,7 +8412,7 @@
     "OS"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -8458,7 +8436,7 @@
     "M"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -8482,7 +8460,7 @@
     "OS"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -8506,7 +8484,7 @@
     "M/L"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -8530,7 +8508,7 @@
     "S/M"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -8554,7 +8532,7 @@
     "S/M"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -8578,7 +8556,7 @@
     "S/M"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -8602,7 +8580,7 @@
     "S"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -8626,7 +8604,7 @@
     "M"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -8650,7 +8628,7 @@
     "OS"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -8674,7 +8652,7 @@
     "OS"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -8698,7 +8676,7 @@
     "OS"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -8722,7 +8700,7 @@
     "OS"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -8746,7 +8724,7 @@
     "OS"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -8771,7 +8749,7 @@
     "M"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -8796,7 +8774,7 @@
     "M"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -8820,7 +8798,7 @@
     "11"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -8844,7 +8822,7 @@
     "11"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -8868,7 +8846,7 @@
     "S"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -8892,7 +8870,7 @@
     "11"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -8916,7 +8894,7 @@
     "11"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -8940,7 +8918,7 @@
     "S"
    ],
    "returns": "14 days (no limited releases)",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -8964,7 +8942,7 @@
     "OS"
    ],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -8988,7 +8966,7 @@
     "OS"
    ],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -9013,7 +8991,7 @@
     "M"
    ],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -9037,7 +9015,7 @@
     "OS"
    ],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -9062,7 +9040,7 @@
     "M"
    ],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -9087,7 +9065,7 @@
     "M"
    ],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -9111,7 +9089,7 @@
     "OS"
    ],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -9135,7 +9113,7 @@
     "S"
    ],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -9159,7 +9137,7 @@
     "S"
    ],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -9183,7 +9161,7 @@
     "S"
    ],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -9207,7 +9185,7 @@
     "S"
    ],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -9232,7 +9210,7 @@
     "M"
    ],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -9257,7 +9235,7 @@
     "M"
    ],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -9282,7 +9260,7 @@
     "M"
    ],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -9307,7 +9285,7 @@
     "2"
    ],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -9332,7 +9310,7 @@
     "M"
    ],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
@@ -9356,7 +9334,7 @@
     "S"
    ],
    "returns": "30 days",
-   "verified": "2026-11-16T22:18:28.108298+00:00",
+   "verified": "2026-11-16T23:07:23.964819+00:00",
    "foundAt": "2026-11-13T08:58:07.032846+00:00",
    "postedAt": "2026-11-13T08:58:07.032846+00:00",
    "fromCatalog": true
