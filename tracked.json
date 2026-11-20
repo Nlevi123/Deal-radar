@@ -1,12 +1,8 @@
 {
- "_lastRun": "2026-11-20T08:32:25.539959+00:00",
+ "_lastRun": "2026-11-20T09:35:01.161503+00:00",
  "https://www.samsung.com/us/tablets/galaxy-tab-s10-fe/buy/galaxy-tab-s10-fe-silver-128gb-sku-sm-x520nzsaxar/": {
   "name": "Galaxy Tab S10 FE",
   "history": [
-   {
-    "t": "2026-11-17T06:46:53.718792+00:00",
-    "p": 349.99
-   },
    {
     "t": "2026-11-17T08:04:19.423307+00:00",
     "p": 349.99
@@ -242,9 +238,13 @@
    {
     "t": "2026-11-20T08:32:25.539959+00:00",
     "p": 349.99
+   },
+   {
+    "t": "2026-11-20T09:35:01.161503+00:00",
+    "p": 349.99
    }
   ],
-  "checkedAt": "2026-11-20T08:32:25.539959+00:00",
+  "checkedAt": "2026-11-20T09:35:01.161503+00:00",
   "last": 349.99,
   "low": 349.99
  },
@@ -256,7 +256,7 @@
     "p": 749.0
    }
   ],
-  "checkedAt": "2026-11-20T08:32:25.539959+00:00",
+  "checkedAt": "2026-11-20T09:35:01.161503+00:00",
   "last": 749.0,
   "low": 749.0,
   "error": "price not readable"
@@ -264,10 +264,6 @@
  "https://www.samsung.com/us/tablets/galaxy-tab-s11/buy/galaxy-tab-s11-ultra-256gb-silver-wi-fi-sku-sm-x930nzsaxar/": {
   "name": "Galaxy Tab S11 Ultra",
   "history": [
-   {
-    "t": "2026-11-17T06:46:53.718792+00:00",
-    "p": 899.99
-   },
    {
     "t": "2026-11-17T08:04:19.423307+00:00",
     "p": 899.99
@@ -503,9 +499,13 @@
    {
     "t": "2026-11-20T08:32:25.539959+00:00",
     "p": 1099.99
+   },
+   {
+    "t": "2026-11-20T09:35:01.161503+00:00",
+    "p": 1099.99
    }
   ],
-  "checkedAt": "2026-11-20T08:32:25.539959+00:00",
+  "checkedAt": "2026-11-20T09:35:01.161503+00:00",
   "last": 1099.99,
   "low": 899.99
  },
@@ -513,13 +513,13 @@
   "name": "Galaxy Tab S12 Ultra",
   "history": [],
   "error": "The read operation timed out",
-  "checkedAt": "2026-11-20T08:32:25.539959+00:00"
+  "checkedAt": "2026-11-20T09:35:01.161503+00:00"
  },
  "https://www.bestbuy.com/product/samsung-galaxy-watch-ultra2-titanium-smartwatch-47mm-lte-titanium-silver-2026/JJGRF3FXV3": {
   "name": "Galaxy Watch Ultra2 47mm",
   "history": [],
   "error": "The read operation timed out",
-  "checkedAt": "2026-11-20T08:32:25.539959+00:00"
+  "checkedAt": "2026-11-20T09:35:01.161503+00:00"
  },
  "https://www.walmart.com/ip/Samsung-Galaxy-Watch8-44mm-Bluetooth-Silver/17035104000": {
   "name": "Galaxy Watch8 44mm",
@@ -529,7 +529,7 @@
     "p": 304.99
    }
   ],
-  "checkedAt": "2026-11-20T08:32:25.539959+00:00",
+  "checkedAt": "2026-11-20T09:35:01.161503+00:00",
   "last": 304.99,
   "low": 304.99,
   "error": "price not readable"
@@ -537,28 +537,24 @@
  "https://www.walmart.com/ip/Samsung-Galaxy-Watch9-44mm-Silver-Bluetooth-and-Wifi-Aluminum-Smart-Watch-Silver/20373813469": {
   "name": "Galaxy Watch9 44mm",
   "history": [],
-  "checkedAt": "2026-11-20T08:32:25.539959+00:00",
+  "checkedAt": "2026-11-20T09:35:01.161503+00:00",
   "error": "price not readable"
  },
  "https://www.bestbuy.com/site/samsung-galaxy-watch8-classic-stainless-steel-smartwatch-46mm-bt-black-2025/6635077.p?skuId=6635077": {
   "name": "Galaxy Watch8 Classic 46mm",
   "history": [],
   "error": "The read operation timed out",
-  "checkedAt": "2026-11-20T08:32:25.539959+00:00"
+  "checkedAt": "2026-11-20T09:35:01.161503+00:00"
  },
  "https://www.lenovo.com/us/en/p/tablets/android-tablets/idea-tab-series/lenovo-idea-tab-pro-gen-2/len103l0036": {
   "name": "Lenovo Idea Tab Pro Gen 2",
   "history": [],
   "error": "HTTP Error 403: Forbidden",
-  "checkedAt": "2026-11-20T08:32:25.539959+00:00"
+  "checkedAt": "2026-11-20T09:35:01.161503+00:00"
  },
  "https://www.zappos.com/p/mens-on-cloud-6-ash-cinder/product/9981520/color/1118915": {
   "name": "On Cloud 6 men's",
   "history": [
-   {
-    "t": "2026-11-17T06:46:53.718792+00:00",
-    "p": 159.95
-   },
    {
     "t": "2026-11-17T08:04:19.423307+00:00",
     "p": 159.95
@@ -794,9 +790,13 @@
    {
     "t": "2026-11-20T08:32:25.539959+00:00",
     "p": 159.95
+   },
+   {
+    "t": "2026-11-20T09:35:01.161503+00:00",
+    "p": 159.95
    }
   ],
-  "checkedAt": "2026-11-20T08:32:25.539959+00:00",
+  "checkedAt": "2026-11-20T09:35:01.161503+00:00",
   "last": 159.95,
   "low": 159.95
  },
@@ -804,10 +804,6 @@
   "name": "On Cloudmonster 2 men's",
   "history": [
    {
-    "t": "2026-11-17T06:46:53.718792+00:00",
-    "p": 126.0
-   },
-   {
     "t": "2026-11-17T08:04:19.423307+00:00",
     "p": 126.0
    },
@@ -1042,11 +1038,15 @@
    {
     "t": "2026-11-20T08:32:25.539959+00:00",
     "p": 126.0
+   },
+   {
+    "t": "2026-11-20T09:35:01.161503+00:00",
+    "p": 126.0
    }
   ],
-  "checkedAt": "2026-11-20T08:32:25.539959+00:00",
+  "checkedAt": "2026-11-20T09:35:01.161503+00:00",
   "last": 126.0,
   "low": 126.0
  },
- "_lastCatalog": "2026-11-20T08:32:25.539959+00:00"
+ "_lastCatalog": "2026-11-20T09:35:01.161503+00:00"
 }
